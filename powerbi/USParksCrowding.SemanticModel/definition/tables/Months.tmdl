@@ -1,0 +1,108 @@
+table Months
+	lineageTag: ef831a7b-0206-8907-4c3d-f21c36dfc3c0
+
+	/// Recreation visits
+	measure 'Monthly visits' = SUM ( Months[visits] )
+		formatString: #,0
+		lineageTag: e1e97a73-aee6-91eb-f046-a6dd3a01abce
+
+	/// For one park and month: visits over the core area and the days. With several, their average
+	measure 'Core visits a day per km2' = AVERAGE ( Months[visits_per_km2_core_per_day] )
+		formatString: #,0
+		lineageTag: e5808032-276c-7e79-363d-2629f72ee068
+
+	/// For one park and month: visits over the park area and the days. With several, their average
+	measure 'Park visits a day per km2' = AVERAGE ( Months[visits_per_km2_park_per_day] )
+		formatString: #,0.0
+		lineageTag: ebeff3db-938f-1c48-6efc-396ae125761c
+
+	column unit_code
+		dataType: string
+		lineageTag: 52f128dc-9a33-faf3-94f3-58c604619aa3
+		summarizeBy: none
+		sourceColumn: unit_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column park
+		dataType: string
+		lineageTag: 17359b3c-4521-1b43-8901-fba0b1e3512d
+		summarizeBy: none
+		sourceColumn: park
+
+		annotation SummarizationSetBy = Automatic
+
+	column month
+		dataType: string
+		lineageTag: c026b354-acc3-d4ee-391c-2745812844dd
+		summarizeBy: none
+		sourceColumn: month
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		formatString: 0
+		lineageTag: 7bb816b0-b70a-731d-4b92-2518b531314c
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column month_of_year
+		dataType: string
+		lineageTag: ea0395a1-3e73-b325-b607-0653ecb35eb4
+		summarizeBy: none
+		sourceColumn: month_of_year
+
+		annotation SummarizationSetBy = Automatic
+
+	column visits
+		dataType: double
+		formatString: #,0
+		lineageTag: a8e48f19-c11d-e909-18d0-642fab12e12e
+		summarizeBy: none
+		sourceColumn: visits
+
+		annotation SummarizationSetBy = Automatic
+
+	column visits_per_km2_park_per_day
+		dataType: double
+		formatString: #,0.0
+		lineageTag: 7b20ac70-d492-28e8-89ba-008fa9b3109b
+		summarizeBy: none
+		sourceColumn: visits_per_km2_park_per_day
+
+		annotation SummarizationSetBy = Automatic
+
+	column visits_per_km2_core_per_day
+		dataType: double
+		formatString: #,0
+		lineageTag: 3506c7d0-0d95-62aa-765b-6d9ceda2ac86
+		summarizeBy: none
+		sourceColumn: visits_per_km2_core_per_day
+
+		annotation SummarizationSetBy = Automatic
+
+	column month_date
+		dataType: dateTime
+		formatString: mmm yyyy
+		lineageTag: a1f29975-5ec3-951a-c7be-559cf721f91f
+		summarizeBy: none
+		sourceColumn: month_date
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Months = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(GetFile("tables/park_months.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Kept = Table.SelectColumns(Promoted, {"unit_code", "park", "month", "year", "month_of_year", "visits", "visits_per_km2_park_per_day", "visits_per_km2_core_per_day"}),
+				    Typed = Table.TransformColumnTypes(Kept, {{"unit_code", type text}, {"park", type text}, {"month", type text}, {"year", Int64.Type}, {"month_of_year", type text}, {"visits", type number}, {"visits_per_km2_park_per_day", type number}, {"visits_per_km2_core_per_day", type number}}, "en-US"),
+				    Dated = Table.AddColumn(Typed, "month_date", each Date.FromText([month]), type date)
+				in
+				    Dated
+
+	annotation PBI_ResultType = Table

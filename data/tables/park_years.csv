@@ -1,0 +1,2910 @@
+unit_code,name,selected,year,visits,months,visits_per_km2_park,visits_per_km2_core
+ACAD,Acadia,True,1979,2787366,12,19184.8,36807.0
+ACAD,Acadia,True,1980,2779666,12,19131.8,36705.0
+ACAD,Acadia,True,1981,2997972,12,20634.4,39588.0
+ACAD,Acadia,True,1982,3572114,12,24586.1,47169.0
+ACAD,Acadia,True,1983,4124639,12,28389.0,54465.0
+ACAD,Acadia,True,1984,3734763,12,25705.6,49317.0
+ACAD,Acadia,True,1985,3745570,12,25780.0,49460.0
+ACAD,Acadia,True,1986,3929054,12,27042.8,51882.0
+ACAD,Acadia,True,1987,4288154,12,29514.4,56624.0
+ACAD,Acadia,True,1988,4502283,12,30988.3,59452.0
+ACAD,Acadia,True,1989,5440952,12,37448.9,71847.0
+ACAD,Acadia,True,1990,2339591,12,16102.9,30894.0
+ACAD,Acadia,True,1991,2475857,12,17040.8,32693.0
+ACAD,Acadia,True,1992,2382113,12,16395.6,31455.0
+ACAD,Acadia,True,1993,2656034,12,18280.9,35072.0
+ACAD,Acadia,True,1994,2710749,12,18657.5,35795.0
+ACAD,Acadia,True,1995,2845378,12,19584.1,37573.0
+ACAD,Acadia,True,1996,2704831,12,18616.8,35717.0
+ACAD,Acadia,True,1997,2760306,12,18998.6,36449.0
+ACAD,Acadia,True,1998,2594497,12,17857.4,34260.0
+ACAD,Acadia,True,1999,2602227,12,17910.6,34362.0
+ACAD,Acadia,True,2000,2469238,12,16995.2,32606.0
+ACAD,Acadia,True,2001,2516551,12,17320.9,33231.0
+ACAD,Acadia,True,2002,2558572,12,17610.1,33785.0
+ACAD,Acadia,True,2003,2431062,12,16732.5,32102.0
+ACAD,Acadia,True,2004,2207847,12,15196.1,29154.0
+ACAD,Acadia,True,2005,2051484,12,14119.9,27089.0
+ACAD,Acadia,True,2006,2083588,12,14340.9,27513.0
+ACAD,Acadia,True,2007,2202228,12,15157.5,29080.0
+ACAD,Acadia,True,2008,2075857,12,14287.7,27411.0
+ACAD,Acadia,True,2009,2227698,12,15332.8,29416.0
+ACAD,Acadia,True,2010,2504208,12,17235.9,33068.0
+ACAD,Acadia,True,2011,2374645,12,16344.2,31357.0
+ACAD,Acadia,True,2012,2431052,12,16732.4,32102.0
+ACAD,Acadia,True,2013,2254922,12,15520.1,29776.0
+ACAD,Acadia,True,2014,2563129,12,17641.5,33846.0
+ACAD,Acadia,True,2015,2811184,12,19348.8,37121.0
+ACAD,Acadia,True,2016,3303393,12,22736.5,43621.0
+ACAD,Acadia,True,2017,3509271,12,24153.6,46339.0
+ACAD,Acadia,True,2018,3537575,12,24348.4,46713.0
+ACAD,Acadia,True,2019,3437286,12,23658.1,45389.0
+ACAD,Acadia,True,2020,2669034,12,18370.4,35244.0
+ACAD,Acadia,True,2021,4069098,12,28006.7,53732.0
+ACAD,Acadia,True,2022,3970260,12,27326.5,52427.0
+ACAD,Acadia,True,2023,3879890,12,26704.5,51233.0
+ACAD,Acadia,True,2024,3961661,12,27267.3,52313.0
+ACAD,Acadia,True,2025,4079318,12,28077.1,53867.0
+ARCH,Arches,True,1979,269840,12,872.1,9399.0
+ARCH,Arches,True,1980,290519,12,938.9,10119.0
+ARCH,Arches,True,1981,326508,12,1055.2,11373.0
+ARCH,Arches,True,1982,339415,12,1096.9,11822.0
+ARCH,Arches,True,1983,287875,12,930.4,10027.0
+ARCH,Arches,True,1984,345180,12,1115.6,12023.0
+ARCH,Arches,True,1985,363464,12,1174.7,12660.0
+ARCH,Arches,True,1986,419444,12,1355.6,14610.0
+ARCH,Arches,True,1987,468916,12,1515.5,16333.0
+ARCH,Arches,True,1988,520455,12,1682.0,18128.0
+ARCH,Arches,True,1989,555809,12,1796.3,19359.0
+ARCH,Arches,True,1990,620719,12,2006.1,21620.0
+ARCH,Arches,True,1991,705882,12,2281.3,24587.0
+ARCH,Arches,True,1992,799831,12,2584.9,27859.0
+ARCH,Arches,True,1993,773678,12,2500.4,26948.0
+ARCH,Arches,True,1994,777178,12,2511.7,27070.0
+ARCH,Arches,True,1995,859374,12,2777.4,29933.0
+ARCH,Arches,True,1996,856016,12,2766.5,29816.0
+ARCH,Arches,True,1997,858525,12,2774.6,29903.0
+ARCH,Arches,True,1998,837161,12,2705.6,29159.0
+ARCH,Arches,True,1999,869980,12,2811.6,30302.0
+ARCH,Arches,True,2000,786429,12,2541.6,27392.0
+ARCH,Arches,True,2001,754026,12,2436.9,26264.0
+ARCH,Arches,True,2002,769672,12,2487.5,26808.0
+ARCH,Arches,True,2003,757781,12,2449.0,26394.0
+ARCH,Arches,True,2004,733131,12,2369.4,25536.0
+ARCH,Arches,True,2005,781670,12,2526.2,27226.0
+ARCH,Arches,True,2006,833049,12,2692.3,29016.0
+ARCH,Arches,True,2007,860181,12,2780.0,29961.0
+ARCH,Arches,True,2008,928795,12,3001.7,32351.0
+ARCH,Arches,True,2009,996312,12,3219.9,34703.0
+ARCH,Arches,True,2010,1014405,12,3278.4,35333.0
+ARCH,Arches,True,2011,1040758,12,3363.6,36251.0
+ARCH,Arches,True,2012,1070577,12,3459.9,37289.0
+ARCH,Arches,True,2013,1082866,12,3499.7,37717.0
+ARCH,Arches,True,2014,1284767,12,4152.2,44750.0
+ARCH,Arches,True,2015,1399247,12,4522.2,48737.0
+ARCH,Arches,True,2016,1585718,12,5124.8,55232.0
+ARCH,Arches,True,2017,1539028,12,4973.9,53606.0
+ARCH,Arches,True,2018,1663557,12,5376.4,57943.0
+ARCH,Arches,True,2019,1659702,12,5363.9,57809.0
+ARCH,Arches,True,2020,1238083,12,4001.3,43124.0
+ARCH,Arches,True,2021,1806865,12,5839.5,62935.0
+ARCH,Arches,True,2022,1460652,12,4720.6,50876.0
+ARCH,Arches,True,2023,1482045,12,4789.8,51621.0
+ARCH,Arches,True,2024,1466528,12,4739.6,51081.0
+ARCH,Arches,True,2025,1511740,12,4885.7,52656.0
+BADL,Badlands,False,1979,858000,12,,
+BADL,Badlands,False,1980,952652,12,,
+BADL,Badlands,False,1981,1175952,12,,
+BADL,Badlands,False,1982,1030484,12,,
+BADL,Badlands,False,1983,1026981,12,,
+BADL,Badlands,False,1984,1113675,12,,
+BADL,Badlands,False,1985,950242,12,,
+BADL,Badlands,False,1986,1025630,12,,
+BADL,Badlands,False,1987,1174398,12,,
+BADL,Badlands,False,1988,1110040,12,,
+BADL,Badlands,False,1989,1237956,12,,
+BADL,Badlands,False,1990,1326475,12,,
+BADL,Badlands,False,1991,1518396,12,,
+BADL,Badlands,False,1992,1205297,12,,
+BADL,Badlands,False,1993,1179458,12,,
+BADL,Badlands,False,1994,1130459,12,,
+BADL,Badlands,False,1995,1075569,12,,
+BADL,Badlands,False,1996,1024705,12,,
+BADL,Badlands,False,1997,970696,12,,
+BADL,Badlands,False,1998,1021049,12,,
+BADL,Badlands,False,1999,950453,12,,
+BADL,Badlands,False,2000,1105824,12,,
+BADL,Badlands,False,2001,955469,12,,
+BADL,Badlands,False,2002,908898,12,,
+BADL,Badlands,False,2003,871034,12,,
+BADL,Badlands,False,2004,936030,12,,
+BADL,Badlands,False,2005,909146,12,,
+BADL,Badlands,False,2006,840118,12,,
+BADL,Badlands,False,2007,886654,12,,
+BADL,Badlands,False,2008,845734,12,,
+BADL,Badlands,False,2009,933918,12,,
+BADL,Badlands,False,2010,977778,12,,
+BADL,Badlands,False,2011,870741,12,,
+BADL,Badlands,False,2012,883406,12,,
+BADL,Badlands,False,2013,892372,12,,
+BADL,Badlands,False,2014,868094,12,,
+BADL,Badlands,False,2015,989354,12,,
+BADL,Badlands,False,2016,996263,12,,
+BADL,Badlands,False,2017,1054325,12,,
+BADL,Badlands,False,2018,1008942,12,,
+BADL,Badlands,False,2019,970998,12,,
+BADL,Badlands,False,2020,916932,12,,
+BADL,Badlands,False,2021,1224226,12,,
+BADL,Badlands,False,2022,1006809,12,,
+BADL,Badlands,False,2023,1046400,12,,
+BADL,Badlands,False,2024,1094245,12,,
+BADL,Badlands,False,2025,1139361,12,,
+BIBE,Big Bend,True,1979,282941,12,86.2,2246.0
+BIBE,Big Bend,True,1980,174008,12,53.0,1381.0
+BIBE,Big Bend,True,1981,167332,12,51.0,1328.0
+BIBE,Big Bend,True,1982,180144,12,54.9,1430.0
+BIBE,Big Bend,True,1983,164926,12,50.3,1309.0
+BIBE,Big Bend,True,1984,167665,12,51.1,1331.0
+BIBE,Big Bend,True,1985,188045,12,57.3,1492.0
+BIBE,Big Bend,True,1986,200622,12,61.1,1592.0
+BIBE,Big Bend,True,1987,227921,12,69.5,1809.0
+BIBE,Big Bend,True,1988,239595,12,73.0,1902.0
+BIBE,Big Bend,True,1989,281728,12,85.9,2236.0
+BIBE,Big Bend,True,1990,257378,12,78.4,2043.0
+BIBE,Big Bend,True,1991,296470,12,90.3,2353.0
+BIBE,Big Bend,True,1992,294535,12,89.8,2338.0
+BIBE,Big Bend,True,1993,327907,12,99.9,2602.0
+BIBE,Big Bend,True,1994,330417,12,100.7,2622.0
+BIBE,Big Bend,True,1995,295460,12,90.0,2345.0
+BIBE,Big Bend,True,1996,279454,12,85.2,2218.0
+BIBE,Big Bend,True,1997,305882,12,93.2,2428.0
+BIBE,Big Bend,True,1998,338442,12,103.1,2686.0
+BIBE,Big Bend,True,1999,327649,12,99.8,2600.0
+BIBE,Big Bend,True,2000,262320,12,79.9,2082.0
+BIBE,Big Bend,True,2001,328927,12,100.2,2611.0
+BIBE,Big Bend,True,2002,327747,12,99.9,2601.0
+BIBE,Big Bend,True,2003,312384,12,95.2,2479.0
+BIBE,Big Bend,True,2004,357723,12,109.0,2839.0
+BIBE,Big Bend,True,2005,398583,12,121.5,3163.0
+BIBE,Big Bend,True,2006,298717,12,91.0,2371.0
+BIBE,Big Bend,True,2007,364856,12,111.2,2896.0
+BIBE,Big Bend,True,2008,362512,12,110.5,2877.0
+BIBE,Big Bend,True,2009,363905,12,110.9,2888.0
+BIBE,Big Bend,True,2010,372330,12,113.5,2955.0
+BIBE,Big Bend,True,2011,361862,12,110.3,2872.0
+BIBE,Big Bend,True,2012,292055,12,89.0,2318.0
+BIBE,Big Bend,True,2013,316953,12,96.6,2516.0
+BIBE,Big Bend,True,2014,314102,12,95.7,2493.0
+BIBE,Big Bend,True,2015,381747,12,116.3,3030.0
+BIBE,Big Bend,True,2016,388290,12,118.3,3082.0
+BIBE,Big Bend,True,2017,440276,12,134.2,3494.0
+BIBE,Big Bend,True,2018,440091,12,134.1,3493.0
+BIBE,Big Bend,True,2019,463832,12,141.3,3681.0
+BIBE,Big Bend,True,2020,393907,12,120.0,3126.0
+BIBE,Big Bend,True,2021,581220,12,177.1,4613.0
+BIBE,Big Bend,True,2022,514107,12,156.7,4080.0
+BIBE,Big Bend,True,2023,509129,12,155.2,4041.0
+BIBE,Big Bend,True,2024,561458,12,171.1,4456.0
+BIBE,Big Bend,True,2025,568104,12,173.1,4509.0
+BISC,Biscayne,False,1979,202938,12,,
+BISC,Biscayne,False,1980,248071,12,,
+BISC,Biscayne,False,1981,305502,12,,
+BISC,Biscayne,False,1982,348219,12,,
+BISC,Biscayne,False,1983,369082,12,,
+BISC,Biscayne,False,1984,340567,12,,
+BISC,Biscayne,False,1985,460921,12,,
+BISC,Biscayne,False,1986,578013,12,,
+BISC,Biscayne,False,1987,607968,12,,
+BISC,Biscayne,False,1988,531036,12,,
+BISC,Biscayne,False,1989,589957,12,,
+BISC,Biscayne,False,1990,573376,12,,
+BISC,Biscayne,False,1991,488134,12,,
+BISC,Biscayne,False,1992,307512,12,,
+BISC,Biscayne,False,1993,19950,12,,
+BISC,Biscayne,False,1994,25147,12,,
+BISC,Biscayne,False,1995,584519,12,,
+BISC,Biscayne,False,1996,338603,12,,
+BISC,Biscayne,False,1997,392069,12,,
+BISC,Biscayne,False,1998,403239,12,,
+BISC,Biscayne,False,1999,442585,12,,
+BISC,Biscayne,False,2000,393151,12,,
+BISC,Biscayne,False,2001,489343,12,,
+BISC,Biscayne,False,2002,513397,12,,
+BISC,Biscayne,False,2003,490031,12,,
+BISC,Biscayne,False,2004,478304,12,,
+BISC,Biscayne,False,2005,563728,12,,
+BISC,Biscayne,False,2006,608836,12,,
+BISC,Biscayne,False,2007,517442,12,,
+BISC,Biscayne,False,2008,686062,12,,
+BISC,Biscayne,False,2009,437745,12,,
+BISC,Biscayne,False,2010,467612,12,,
+BISC,Biscayne,False,2011,476077,12,,
+BISC,Biscayne,False,2012,495613,12,,
+BISC,Biscayne,False,2013,486848,12,,
+BISC,Biscayne,False,2014,525745,12,,
+BISC,Biscayne,False,2015,508164,12,,
+BISC,Biscayne,False,2016,514709,12,,
+BISC,Biscayne,False,2017,446961,12,,
+BISC,Biscayne,False,2018,469253,12,,
+BISC,Biscayne,False,2019,708522,12,,
+BISC,Biscayne,False,2020,402770,12,,
+BISC,Biscayne,False,2021,705655,12,,
+BISC,Biscayne,False,2022,701023,12,,
+BISC,Biscayne,False,2023,571242,12,,
+BISC,Biscayne,False,2024,512213,12,,
+BISC,Biscayne,False,2025,486567,12,,
+BLCA,Black Canyon of the Gunnison,False,1979,234286,12,,
+BLCA,Black Canyon of the Gunnison,False,1980,336119,12,,
+BLCA,Black Canyon of the Gunnison,False,1981,266604,12,,
+BLCA,Black Canyon of the Gunnison,False,1982,227428,12,,
+BLCA,Black Canyon of the Gunnison,False,1983,291618,12,,
+BLCA,Black Canyon of the Gunnison,False,1984,253048,12,,
+BLCA,Black Canyon of the Gunnison,False,1985,266012,12,,
+BLCA,Black Canyon of the Gunnison,False,1986,289117,12,,
+BLCA,Black Canyon of the Gunnison,False,1987,285439,12,,
+BLCA,Black Canyon of the Gunnison,False,1988,269073,12,,
+BLCA,Black Canyon of the Gunnison,False,1989,288586,12,,
+BLCA,Black Canyon of the Gunnison,False,1990,275323,12,,
+BLCA,Black Canyon of the Gunnison,False,1991,316336,12,,
+BLCA,Black Canyon of the Gunnison,False,1992,337209,12,,
+BLCA,Black Canyon of the Gunnison,False,1993,319322,12,,
+BLCA,Black Canyon of the Gunnison,False,1994,214194,12,,
+BLCA,Black Canyon of the Gunnison,False,1995,221113,12,,
+BLCA,Black Canyon of the Gunnison,False,1996,200125,12,,
+BLCA,Black Canyon of the Gunnison,False,1997,209863,12,,
+BLCA,Black Canyon of the Gunnison,False,1998,193451,12,,
+BLCA,Black Canyon of the Gunnison,False,1999,200142,12,,
+BLCA,Black Canyon of the Gunnison,False,2000,191506,12,,
+BLCA,Black Canyon of the Gunnison,False,2001,181018,12,,
+BLCA,Black Canyon of the Gunnison,False,2002,173687,12,,
+BLCA,Black Canyon of the Gunnison,False,2003,167247,12,,
+BLCA,Black Canyon of the Gunnison,False,2004,175581,12,,
+BLCA,Black Canyon of the Gunnison,False,2005,180814,12,,
+BLCA,Black Canyon of the Gunnison,False,2006,160450,12,,
+BLCA,Black Canyon of the Gunnison,False,2007,219576,12,,
+BLCA,Black Canyon of the Gunnison,False,2008,160185,12,,
+BLCA,Black Canyon of the Gunnison,False,2009,171451,12,,
+BLCA,Black Canyon of the Gunnison,False,2010,176344,12,,
+BLCA,Black Canyon of the Gunnison,False,2011,168336,12,,
+BLCA,Black Canyon of the Gunnison,False,2012,192570,12,,
+BLCA,Black Canyon of the Gunnison,False,2013,175852,12,,
+BLCA,Black Canyon of the Gunnison,False,2014,183045,12,,
+BLCA,Black Canyon of the Gunnison,False,2015,209166,12,,
+BLCA,Black Canyon of the Gunnison,False,2016,238018,12,,
+BLCA,Black Canyon of the Gunnison,False,2017,307143,12,,
+BLCA,Black Canyon of the Gunnison,False,2018,308962,12,,
+BLCA,Black Canyon of the Gunnison,False,2019,432818,12,,
+BLCA,Black Canyon of the Gunnison,False,2020,341620,12,,
+BLCA,Black Canyon of the Gunnison,False,2021,308910,12,,
+BLCA,Black Canyon of the Gunnison,False,2022,297257,12,,
+BLCA,Black Canyon of the Gunnison,False,2023,357069,12,,
+BLCA,Black Canyon of the Gunnison,False,2024,335862,12,,
+BLCA,Black Canyon of the Gunnison,False,2025,250086,12,,
+BRCA,Bryce Canyon,True,1979,558095,12,3832.3,21716.0
+BRCA,Bryce Canyon,True,1980,571541,12,3924.6,22239.0
+BRCA,Bryce Canyon,True,1981,474092,12,3255.5,18447.0
+BRCA,Bryce Canyon,True,1982,471517,12,3237.8,18347.0
+BRCA,Bryce Canyon,True,1983,472633,12,3245.4,18390.0
+BRCA,Bryce Canyon,True,1984,495104,12,3399.7,19265.0
+BRCA,Bryce Canyon,True,1985,500782,12,3438.7,19486.0
+BRCA,Bryce Canyon,True,1986,578018,12,3969.1,22491.0
+BRCA,Bryce Canyon,True,1987,718342,12,4932.7,27951.0
+BRCA,Bryce Canyon,True,1988,791348,12,5434.0,30792.0
+BRCA,Bryce Canyon,True,1989,808045,12,5548.6,31441.0
+BRCA,Bryce Canyon,True,1990,862659,12,5923.6,33566.0
+BRCA,Bryce Canyon,True,1991,929067,12,6379.6,36150.0
+BRCA,Bryce Canyon,True,1992,1018174,12,6991.5,39618.0
+BRCA,Bryce Canyon,True,1993,1107951,12,7608.0,43111.0
+BRCA,Bryce Canyon,True,1994,1028134,12,7059.9,40005.0
+BRCA,Bryce Canyon,True,1995,994548,12,6829.3,38698.0
+BRCA,Bryce Canyon,True,1996,1269600,12,8718.0,49401.0
+BRCA,Bryce Canyon,True,1997,1174824,12,8067.2,45713.0
+BRCA,Bryce Canyon,True,1998,1166331,12,8008.9,45383.0
+BRCA,Bryce Canyon,True,1999,1081521,12,7426.5,42083.0
+BRCA,Bryce Canyon,True,2000,1099275,12,7548.4,42773.0
+BRCA,Bryce Canyon,True,2001,1068619,12,7337.9,41581.0
+BRCA,Bryce Canyon,True,2002,886436,12,6086.9,34492.0
+BRCA,Bryce Canyon,True,2003,903760,12,6205.9,35166.0
+BRCA,Bryce Canyon,True,2004,987253,12,6779.2,38415.0
+BRCA,Bryce Canyon,True,2005,1017681,12,6988.1,39598.0
+BRCA,Bryce Canyon,True,2006,890676,12,6116.0,34657.0
+BRCA,Bryce Canyon,True,2007,1012563,12,6953.0,39399.0
+BRCA,Bryce Canyon,True,2008,1043321,12,7164.2,40596.0
+BRCA,Bryce Canyon,True,2009,1216377,12,8352.5,47330.0
+BRCA,Bryce Canyon,True,2010,1285492,12,8827.1,50019.0
+BRCA,Bryce Canyon,True,2011,1296000,12,8899.3,50428.0
+BRCA,Bryce Canyon,True,2012,1385352,12,9512.8,53905.0
+BRCA,Bryce Canyon,True,2013,1311875,12,9008.3,51046.0
+BRCA,Bryce Canyon,True,2014,1435741,12,9858.8,55865.0
+BRCA,Bryce Canyon,True,2015,1745804,12,11987.9,67930.0
+BRCA,Bryce Canyon,True,2016,2365110,12,16240.5,92028.0
+BRCA,Bryce Canyon,True,2017,2571684,12,17659.0,100066.0
+BRCA,Bryce Canyon,True,2018,2679478,12,18399.2,104260.0
+BRCA,Bryce Canyon,True,2019,2594904,12,17818.5,100969.0
+BRCA,Bryce Canyon,True,2020,1464655,12,10057.4,56990.0
+BRCA,Bryce Canyon,True,2021,2104600,12,14451.7,81891.0
+BRCA,Bryce Canyon,True,2022,2354660,12,16168.8,91621.0
+BRCA,Bryce Canyon,True,2023,2461269,12,16900.8,95769.0
+BRCA,Bryce Canyon,True,2024,2498075,12,17153.6,97201.0
+BRCA,Bryce Canyon,True,2025,1967367,12,13509.4,76551.0
+CANY,Canyonlands,False,1979,74545,12,,
+CANY,Canyonlands,False,1980,56505,12,,
+CANY,Canyonlands,False,1981,89915,12,,
+CANY,Canyonlands,False,1982,97079,12,,
+CANY,Canyonlands,False,1983,100022,12,,
+CANY,Canyonlands,False,1984,102533,12,,
+CANY,Canyonlands,False,1985,116672,12,,
+CANY,Canyonlands,False,1986,172987,12,,
+CANY,Canyonlands,False,1987,172384,12,,
+CANY,Canyonlands,False,1988,212100,12,,
+CANY,Canyonlands,False,1989,257411,12,,
+CANY,Canyonlands,False,1990,276831,12,,
+CANY,Canyonlands,False,1991,339315,12,,
+CANY,Canyonlands,False,1992,395698,12,,
+CANY,Canyonlands,False,1993,434844,12,,
+CANY,Canyonlands,False,1994,429921,12,,
+CANY,Canyonlands,False,1995,448769,12,,
+CANY,Canyonlands,False,1996,447527,12,,
+CANY,Canyonlands,False,1997,432697,12,,
+CANY,Canyonlands,False,1998,436524,12,,
+CANY,Canyonlands,False,1999,446160,12,,
+CANY,Canyonlands,False,2000,401558,12,,
+CANY,Canyonlands,False,2001,368592,12,,
+CANY,Canyonlands,False,2002,367078,12,,
+CANY,Canyonlands,False,2003,386986,12,,
+CANY,Canyonlands,False,2004,371706,12,,
+CANY,Canyonlands,False,2005,393381,12,,
+CANY,Canyonlands,False,2006,392537,12,,
+CANY,Canyonlands,False,2007,417560,12,,
+CANY,Canyonlands,False,2008,436715,12,,
+CANY,Canyonlands,False,2009,436241,12,,
+CANY,Canyonlands,False,2010,435908,12,,
+CANY,Canyonlands,False,2011,473773,12,,
+CANY,Canyonlands,False,2012,452952,12,,
+CANY,Canyonlands,False,2013,462242,12,,
+CANY,Canyonlands,False,2014,542431,12,,
+CANY,Canyonlands,False,2015,634607,12,,
+CANY,Canyonlands,False,2016,776218,12,,
+CANY,Canyonlands,False,2017,742271,12,,
+CANY,Canyonlands,False,2018,739449,12,,
+CANY,Canyonlands,False,2019,733996,12,,
+CANY,Canyonlands,False,2020,493914,12,,
+CANY,Canyonlands,False,2021,911594,12,,
+CANY,Canyonlands,False,2022,779147,12,,
+CANY,Canyonlands,False,2023,800322,12,,
+CANY,Canyonlands,False,2024,818492,12,,
+CANY,Canyonlands,False,2025,796057,12,,
+CARE,Capitol Reef,False,1979,288860,12,,
+CARE,Capitol Reef,False,1980,342788,12,,
+CARE,Capitol Reef,False,1981,397789,12,,
+CARE,Capitol Reef,False,1982,289486,12,,
+CARE,Capitol Reef,False,1983,331734,12,,
+CARE,Capitol Reef,False,1984,296230,12,,
+CARE,Capitol Reef,False,1985,320503,12,,
+CARE,Capitol Reef,False,1986,383742,12,,
+CARE,Capitol Reef,False,1987,428808,12,,
+CARE,Capitol Reef,False,1988,469556,12,,
+CARE,Capitol Reef,False,1989,515278,12,,
+CARE,Capitol Reef,False,1990,562477,12,,
+CARE,Capitol Reef,False,1991,618056,12,,
+CARE,Capitol Reef,False,1992,675837,12,,
+CARE,Capitol Reef,False,1993,610707,12,,
+CARE,Capitol Reef,False,1994,605324,12,,
+CARE,Capitol Reef,False,1995,648864,12,,
+CARE,Capitol Reef,False,1996,678012,12,,
+CARE,Capitol Reef,False,1997,625680,12,,
+CARE,Capitol Reef,False,1998,656026,12,,
+CARE,Capitol Reef,False,1999,680153,12,,
+CARE,Capitol Reef,False,2000,612656,12,,
+CARE,Capitol Reef,False,2001,527760,12,,
+CARE,Capitol Reef,False,2002,525646,12,,
+CARE,Capitol Reef,False,2003,535441,12,,
+CARE,Capitol Reef,False,2004,549708,12,,
+CARE,Capitol Reef,False,2005,550255,12,,
+CARE,Capitol Reef,False,2006,511511,12,,
+CARE,Capitol Reef,False,2007,554907,12,,
+CARE,Capitol Reef,False,2008,604811,12,,
+CARE,Capitol Reef,False,2009,617208,12,,
+CARE,Capitol Reef,False,2010,662661,12,,
+CARE,Capitol Reef,False,2011,668834,12,,
+CARE,Capitol Reef,False,2012,673345,12,,
+CARE,Capitol Reef,False,2013,663670,12,,
+CARE,Capitol Reef,False,2014,786514,12,,
+CARE,Capitol Reef,False,2015,941029,12,,
+CARE,Capitol Reef,False,2016,1064904,12,,
+CARE,Capitol Reef,False,2017,1150165,12,,
+CARE,Capitol Reef,False,2018,1227627,12,,
+CARE,Capitol Reef,False,2019,1226519,12,,
+CARE,Capitol Reef,False,2020,981038,12,,
+CARE,Capitol Reef,False,2021,1405353,12,,
+CARE,Capitol Reef,False,2022,1227608,12,,
+CARE,Capitol Reef,False,2023,1268861,12,,
+CARE,Capitol Reef,False,2024,1422490,12,,
+CARE,Capitol Reef,False,2025,1388476,12,,
+CAVE,Carlsbad Caverns,False,1979,721647,12,,
+CAVE,Carlsbad Caverns,False,1980,672963,12,,
+CAVE,Carlsbad Caverns,False,1981,771766,12,,
+CAVE,Carlsbad Caverns,False,1982,781963,12,,
+CAVE,Carlsbad Caverns,False,1983,712247,12,,
+CAVE,Carlsbad Caverns,False,1984,712989,12,,
+CAVE,Carlsbad Caverns,False,1985,732482,12,,
+CAVE,Carlsbad Caverns,False,1986,752552,12,,
+CAVE,Carlsbad Caverns,False,1987,781300,12,,
+CAVE,Carlsbad Caverns,False,1988,786135,12,,
+CAVE,Carlsbad Caverns,False,1989,792378,12,,
+CAVE,Carlsbad Caverns,False,1990,747016,12,,
+CAVE,Carlsbad Caverns,False,1991,679450,12,,
+CAVE,Carlsbad Caverns,False,1992,688742,12,,
+CAVE,Carlsbad Caverns,False,1993,687161,12,,
+CAVE,Carlsbad Caverns,False,1994,617087,12,,
+CAVE,Carlsbad Caverns,False,1995,588609,12,,
+CAVE,Carlsbad Caverns,False,1996,557217,12,,
+CAVE,Carlsbad Caverns,False,1997,540797,12,,
+CAVE,Carlsbad Caverns,False,1998,522076,12,,
+CAVE,Carlsbad Caverns,False,1999,514418,12,,
+CAVE,Carlsbad Caverns,False,2000,469303,12,,
+CAVE,Carlsbad Caverns,False,2001,455621,12,,
+CAVE,Carlsbad Caverns,False,2002,476259,12,,
+CAVE,Carlsbad Caverns,False,2003,457631,12,,
+CAVE,Carlsbad Caverns,False,2004,419599,12,,
+CAVE,Carlsbad Caverns,False,2005,413786,12,,
+CAVE,Carlsbad Caverns,False,2006,407367,12,,
+CAVE,Carlsbad Caverns,False,2007,409560,12,,
+CAVE,Carlsbad Caverns,False,2008,400381,12,,
+CAVE,Carlsbad Caverns,False,2009,432639,12,,
+CAVE,Carlsbad Caverns,False,2010,428524,12,,
+CAVE,Carlsbad Caverns,False,2011,365000,12,,
+CAVE,Carlsbad Caverns,False,2012,381058,12,,
+CAVE,Carlsbad Caverns,False,2013,388566,12,,
+CAVE,Carlsbad Caverns,False,2014,397309,12,,
+CAVE,Carlsbad Caverns,False,2015,445720,12,,
+CAVE,Carlsbad Caverns,False,2016,466773,12,,
+CAVE,Carlsbad Caverns,False,2017,520026,12,,
+CAVE,Carlsbad Caverns,False,2018,465912,12,,
+CAVE,Carlsbad Caverns,False,2019,440691,12,,
+CAVE,Carlsbad Caverns,False,2020,183835,12,,
+CAVE,Carlsbad Caverns,False,2021,349244,12,,
+CAVE,Carlsbad Caverns,False,2022,390932,12,,
+CAVE,Carlsbad Caverns,False,2023,394121,12,,
+CAVE,Carlsbad Caverns,False,2024,460474,12,,
+CAVE,Carlsbad Caverns,False,2025,410778,12,,
+CHIS,Channel Islands,False,1979,82937,12,,
+CHIS,Channel Islands,False,1980,104574,12,,
+CHIS,Channel Islands,False,1981,87514,12,,
+CHIS,Channel Islands,False,1982,172287,12,,
+CHIS,Channel Islands,False,1983,205024,12,,
+CHIS,Channel Islands,False,1984,203411,12,,
+CHIS,Channel Islands,False,1985,164132,12,,
+CHIS,Channel Islands,False,1986,172913,12,,
+CHIS,Channel Islands,False,1987,174607,12,,
+CHIS,Channel Islands,False,1988,168592,12,,
+CHIS,Channel Islands,False,1989,152662,12,,
+CHIS,Channel Islands,False,1990,144083,12,,
+CHIS,Channel Islands,False,1991,149263,12,,
+CHIS,Channel Islands,False,1992,169181,12,,
+CHIS,Channel Islands,False,1993,184867,12,,
+CHIS,Channel Islands,False,1994,175226,12,,
+CHIS,Channel Islands,False,1995,525882,12,,
+CHIS,Channel Islands,False,1996,490715,12,,
+CHIS,Channel Islands,False,1997,488757,12,,
+CHIS,Channel Islands,False,1998,574270,12,,
+CHIS,Channel Islands,False,1999,607057,12,,
+CHIS,Channel Islands,False,2000,482571,12,,
+CHIS,Channel Islands,False,2001,520428,12,,
+CHIS,Channel Islands,False,2002,613935,12,,
+CHIS,Channel Islands,False,2003,585919,12,,
+CHIS,Channel Islands,False,2004,537716,12,,
+CHIS,Channel Islands,False,2005,434107,11,,
+CHIS,Channel Islands,False,2006,375256,12,,
+CHIS,Channel Islands,False,2007,360806,12,,
+CHIS,Channel Islands,False,2008,332177,12,,
+CHIS,Channel Islands,False,2009,348745,12,,
+CHIS,Channel Islands,False,2010,277515,12,,
+CHIS,Channel Islands,False,2011,242756,12,,
+CHIS,Channel Islands,False,2012,249594,12,,
+CHIS,Channel Islands,False,2013,212029,12,,
+CHIS,Channel Islands,False,2014,342161,12,,
+CHIS,Channel Islands,False,2015,324816,12,,
+CHIS,Channel Islands,False,2016,364807,12,,
+CHIS,Channel Islands,False,2017,383687,12,,
+CHIS,Channel Islands,False,2018,366250,12,,
+CHIS,Channel Islands,False,2019,409630,12,,
+CHIS,Channel Islands,False,2020,167290,12,,
+CHIS,Channel Islands,False,2021,319252,12,,
+CHIS,Channel Islands,False,2022,323245,12,,
+CHIS,Channel Islands,False,2023,328746,12,,
+CHIS,Channel Islands,False,2024,262581,12,,
+CHIS,Channel Islands,False,2025,227186,12,,
+CONG,Congaree,False,1985,12332,12,,
+CONG,Congaree,False,1986,16508,12,,
+CONG,Congaree,False,1987,20312,12,,
+CONG,Congaree,False,1988,26257,12,,
+CONG,Congaree,False,1989,25445,12,,
+CONG,Congaree,False,1990,23223,12,,
+CONG,Congaree,False,1991,30975,12,,
+CONG,Congaree,False,1992,40018,12,,
+CONG,Congaree,False,1993,54669,12,,
+CONG,Congaree,False,1994,67756,12,,
+CONG,Congaree,False,1995,67949,12,,
+CONG,Congaree,False,1996,62614,12,,
+CONG,Congaree,False,1997,70716,12,,
+CONG,Congaree,False,1998,93725,12,,
+CONG,Congaree,False,1999,82223,12,,
+CONG,Congaree,False,2000,95619,12,,
+CONG,Congaree,False,2001,119738,12,,
+CONG,Congaree,False,2002,101620,12,,
+CONG,Congaree,False,2003,107114,12,,
+CONG,Congaree,False,2004,126247,12,,
+CONG,Congaree,False,2005,84301,12,,
+CONG,Congaree,False,2006,134045,12,,
+CONG,Congaree,False,2007,115524,12,,
+CONG,Congaree,False,2008,104913,12,,
+CONG,Congaree,False,2009,122970,12,,
+CONG,Congaree,False,2010,121208,12,,
+CONG,Congaree,False,2011,120166,12,,
+CONG,Congaree,False,2012,109685,12,,
+CONG,Congaree,False,2013,120340,12,,
+CONG,Congaree,False,2014,120122,12,,
+CONG,Congaree,False,2015,87513,12,,
+CONG,Congaree,False,2016,143843,12,,
+CONG,Congaree,False,2017,159595,12,,
+CONG,Congaree,False,2018,145929,12,,
+CONG,Congaree,False,2019,159445,12,,
+CONG,Congaree,False,2020,119306,12,,
+CONG,Congaree,False,2021,215181,12,,
+CONG,Congaree,False,2022,204522,12,,
+CONG,Congaree,False,2023,250114,12,,
+CONG,Congaree,False,2024,242049,12,,
+CONG,Congaree,False,2025,287833,12,,
+CRLA,Crater Lake,False,1979,410749,12,,
+CRLA,Crater Lake,False,1980,455143,12,,
+CRLA,Crater Lake,False,1981,503404,12,,
+CRLA,Crater Lake,False,1982,435589,12,,
+CRLA,Crater Lake,False,1983,379008,12,,
+CRLA,Crater Lake,False,1984,419829,12,,
+CRLA,Crater Lake,False,1985,390604,12,,
+CRLA,Crater Lake,False,1986,402789,12,,
+CRLA,Crater Lake,False,1987,460550,12,,
+CRLA,Crater Lake,False,1988,443430,12,,
+CRLA,Crater Lake,False,1989,430734,12,,
+CRLA,Crater Lake,False,1990,384941,12,,
+CRLA,Crater Lake,False,1991,456931,12,,
+CRLA,Crater Lake,False,1992,461668,12,,
+CRLA,Crater Lake,False,1993,381747,12,,
+CRLA,Crater Lake,False,1994,454215,12,,
+CRLA,Crater Lake,False,1995,496041,12,,
+CRLA,Crater Lake,False,1996,476957,12,,
+CRLA,Crater Lake,False,1997,451548,12,,
+CRLA,Crater Lake,False,1998,471865,12,,
+CRLA,Crater Lake,False,1999,417992,12,,
+CRLA,Crater Lake,False,2000,426883,12,,
+CRLA,Crater Lake,False,2001,457373,12,,
+CRLA,Crater Lake,False,2002,456620,12,,
+CRLA,Crater Lake,False,2003,479183,12,,
+CRLA,Crater Lake,False,2004,417066,12,,
+CRLA,Crater Lake,False,2005,447240,12,,
+CRLA,Crater Lake,False,2006,388972,12,,
+CRLA,Crater Lake,False,2007,468958,12,,
+CRLA,Crater Lake,False,2008,415686,12,,
+CRLA,Crater Lake,False,2009,446516,12,,
+CRLA,Crater Lake,False,2010,448319,12,,
+CRLA,Crater Lake,False,2011,423551,12,,
+CRLA,Crater Lake,False,2012,447251,12,,
+CRLA,Crater Lake,False,2013,523027,12,,
+CRLA,Crater Lake,False,2014,535508,12,,
+CRLA,Crater Lake,False,2015,614712,12,,
+CRLA,Crater Lake,False,2016,756344,12,,
+CRLA,Crater Lake,False,2017,711749,12,,
+CRLA,Crater Lake,False,2018,720659,12,,
+CRLA,Crater Lake,False,2019,704512,12,,
+CRLA,Crater Lake,False,2020,670500,12,,
+CRLA,Crater Lake,False,2021,647751,12,,
+CRLA,Crater Lake,False,2022,527259,12,,
+CRLA,Crater Lake,False,2023,559976,12,,
+CRLA,Crater Lake,False,2024,504942,12,,
+CRLA,Crater Lake,False,2025,632242,12,,
+CUVA,Cuyahoga Valley,True,1979,543025,12,4006.7,5395.0
+CUVA,Cuyahoga Valley,True,1980,563300,12,4156.3,5596.0
+CUVA,Cuyahoga Valley,True,1981,596300,12,4399.8,5924.0
+CUVA,Cuyahoga Valley,True,1982,717815,12,5296.4,7131.0
+CUVA,Cuyahoga Valley,True,1983,939562,12,6932.5,9334.0
+CUVA,Cuyahoga Valley,True,1984,1018828,12,7517.4,10121.0
+CUVA,Cuyahoga Valley,True,1985,1004858,12,7414.3,9983.0
+CUVA,Cuyahoga Valley,True,1986,1042148,12,7689.4,10353.0
+CUVA,Cuyahoga Valley,True,1987,1113405,12,8215.2,11061.0
+CUVA,Cuyahoga Valley,True,1988,1229717,12,9073.4,12217.0
+CUVA,Cuyahoga Valley,True,1989,1159648,12,8556.4,11520.0
+CUVA,Cuyahoga Valley,True,1990,1200622,12,8858.7,11927.0
+CUVA,Cuyahoga Valley,True,1991,1358984,12,10027.2,13501.0
+CUVA,Cuyahoga Valley,True,1992,1430382,12,10554.0,14210.0
+CUVA,Cuyahoga Valley,True,1993,2266139,12,16720.6,22513.0
+CUVA,Cuyahoga Valley,True,1994,3266401,12,24100.9,32450.0
+CUVA,Cuyahoga Valley,True,1995,3195207,12,23575.6,31743.0
+CUVA,Cuyahoga Valley,True,1996,3455878,12,25499.0,34332.0
+CUVA,Cuyahoga Valley,True,1997,3527837,12,26029.9,35047.0
+CUVA,Cuyahoga Valley,True,1998,3467107,12,25581.8,34444.0
+CUVA,Cuyahoga Valley,True,1999,3324284,12,24528.0,33025.0
+CUVA,Cuyahoga Valley,True,2000,3324918,12,24532.7,33031.0
+CUVA,Cuyahoga Valley,True,2001,3123353,12,23045.5,31029.0
+CUVA,Cuyahoga Valley,True,2002,3217935,12,23743.3,31968.0
+CUVA,Cuyahoga Valley,True,2003,2879591,12,21246.9,28607.0
+CUVA,Cuyahoga Valley,True,2004,3306175,12,24394.4,32845.0
+CUVA,Cuyahoga Valley,True,2005,2533827,12,18695.7,25172.0
+CUVA,Cuyahoga Valley,True,2006,2468816,12,18216.0,24526.0
+CUVA,Cuyahoga Valley,True,2007,2486656,12,18347.6,24704.0
+CUVA,Cuyahoga Valley,True,2008,2828233,12,20867.9,28097.0
+CUVA,Cuyahoga Valley,True,2009,2589288,12,19104.9,25723.0
+CUVA,Cuyahoga Valley,True,2010,2492670,12,18392.0,24763.0
+CUVA,Cuyahoga Valley,True,2011,2161185,12,15946.2,21470.0
+CUVA,Cuyahoga Valley,True,2012,2299722,12,16968.4,22846.0
+CUVA,Cuyahoga Valley,True,2013,2103010,12,15516.9,20892.0
+CUVA,Cuyahoga Valley,True,2014,2189849,12,16157.7,21755.0
+CUVA,Cuyahoga Valley,True,2015,2284612,12,16856.9,22696.0
+CUVA,Cuyahoga Valley,True,2016,2423390,12,17880.8,24075.0
+CUVA,Cuyahoga Valley,True,2017,2226879,12,16430.9,22123.0
+CUVA,Cuyahoga Valley,True,2018,2096053,12,15465.6,20823.0
+CUVA,Cuyahoga Valley,True,2019,2237997,12,16512.9,22233.0
+CUVA,Cuyahoga Valley,True,2020,2755628,12,20332.2,27376.0
+CUVA,Cuyahoga Valley,True,2021,2575275,12,19001.5,25584.0
+CUVA,Cuyahoga Valley,True,2022,2913312,12,21495.7,28942.0
+CUVA,Cuyahoga Valley,True,2023,2860059,12,21102.8,28413.0
+CUVA,Cuyahoga Valley,True,2024,2912454,12,21489.4,28934.0
+CUVA,Cuyahoga Valley,True,2025,3025325,12,22322.2,30055.0
+DENA,Denali,True,1979,251105,12,10.3,2821.0
+DENA,Denali,True,1980,216361,12,8.9,2431.0
+DENA,Denali,True,1981,256593,12,10.5,2883.0
+DENA,Denali,True,1982,321868,12,13.2,3616.0
+DENA,Denali,True,1983,346082,12,14.2,3889.0
+DENA,Denali,True,1984,395099,12,16.2,4439.0
+DENA,Denali,True,1985,436545,12,17.9,4905.0
+DENA,Denali,True,1986,529749,12,21.7,5952.0
+DENA,Denali,True,1987,575013,12,23.6,6461.0
+DENA,Denali,True,1988,592431,12,24.3,6657.0
+DENA,Denali,True,1989,543640,12,22.3,6108.0
+DENA,Denali,True,1990,546693,12,22.4,6143.0
+DENA,Denali,True,1991,558870,12,22.9,6279.0
+DENA,Denali,True,1992,503674,12,20.7,5659.0
+DENA,Denali,True,1993,505565,12,20.7,5681.0
+DENA,Denali,True,1994,490311,12,20.1,5509.0
+DENA,Denali,True,1995,543309,12,22.3,6105.0
+DENA,Denali,True,1996,341385,12,14.0,3836.0
+DENA,Denali,True,1997,354278,12,14.5,3981.0
+DENA,Denali,True,1998,372519,12,15.3,4186.0
+DENA,Denali,True,1999,386867,12,15.9,4347.0
+DENA,Denali,True,2000,363983,12,14.9,4090.0
+DENA,Denali,True,2001,360191,12,14.8,4047.0
+DENA,Denali,True,2002,311335,12,12.8,3498.0
+DENA,Denali,True,2003,360189,12,14.8,4047.0
+DENA,Denali,True,2004,404236,12,16.6,4542.0
+DENA,Denali,True,2005,403520,12,16.5,4534.0
+DENA,Denali,True,2006,415935,12,17.1,4673.0
+DENA,Denali,True,2007,458308,12,18.8,5150.0
+DENA,Denali,True,2008,432309,12,17.7,4857.0
+DENA,Denali,True,2009,358041,12,14.7,4023.0
+DENA,Denali,True,2010,378855,12,15.5,4257.0
+DENA,Denali,True,2011,406582,12,16.7,4568.0
+DENA,Denali,True,2012,388433,12,15.9,4364.0
+DENA,Denali,True,2013,530922,12,21.8,5965.0
+DENA,Denali,True,2014,531315,12,21.8,5970.0
+DENA,Denali,True,2015,560757,12,23.0,6301.0
+DENA,Denali,True,2016,587412,12,24.1,6600.0
+DENA,Denali,True,2017,642809,12,26.4,7223.0
+DENA,Denali,True,2018,594660,12,24.4,6682.0
+DENA,Denali,True,2019,601152,12,24.6,6755.0
+DENA,Denali,True,2020,54850,12,2.2,616.0
+DENA,Denali,True,2021,229521,12,9.4,2579.0
+DENA,Denali,True,2022,427562,12,17.5,4804.0
+DENA,Denali,True,2023,498722,12,20.4,5604.0
+DENA,Denali,True,2024,466227,12,19.1,5239.0
+DENA,Denali,True,2025,543300,12,22.3,6104.0
+DEVA,Death Valley,True,1979,631152,12,45.4,1690.0
+DEVA,Death Valley,True,1980,618140,12,44.5,1655.0
+DEVA,Death Valley,True,1981,630402,12,45.4,1688.0
+DEVA,Death Valley,True,1982,679992,12,48.9,1821.0
+DEVA,Death Valley,True,1983,635582,12,45.7,1702.0
+DEVA,Death Valley,True,1984,621197,12,44.7,1663.0
+DEVA,Death Valley,True,1985,576679,12,41.5,1544.0
+DEVA,Death Valley,True,1986,586668,12,42.2,1571.0
+DEVA,Death Valley,True,1987,665345,12,47.9,1781.0
+DEVA,Death Valley,True,1988,692267,12,49.8,1854.0
+DEVA,Death Valley,True,1989,664449,12,47.8,1779.0
+DEVA,Death Valley,True,1990,690965,12,49.7,1850.0
+DEVA,Death Valley,True,1991,743608,12,53.5,1991.0
+DEVA,Death Valley,True,1992,869183,12,62.5,2327.0
+DEVA,Death Valley,True,1993,998474,12,71.8,2673.0
+DEVA,Death Valley,True,1994,971487,12,69.9,2601.0
+DEVA,Death Valley,True,1995,1109421,12,79.8,2970.0
+DEVA,Death Valley,True,1996,1189215,12,85.6,3184.0
+DEVA,Death Valley,True,1997,1188212,12,85.5,3181.0
+DEVA,Death Valley,True,1998,1177746,12,84.7,3153.0
+DEVA,Death Valley,True,1999,1227583,12,88.3,3287.0
+DEVA,Death Valley,True,2000,1179094,12,84.8,3157.0
+DEVA,Death Valley,True,2001,1014636,12,73.0,2717.0
+DEVA,Death Valley,True,2002,897596,12,64.6,2403.0
+DEVA,Death Valley,True,2003,890375,12,64.1,2384.0
+DEVA,Death Valley,True,2004,764820,12,55.0,2048.0
+DEVA,Death Valley,True,2005,800113,12,57.6,2142.0
+DEVA,Death Valley,True,2006,744440,12,53.6,1993.0
+DEVA,Death Valley,True,2007,704122,12,50.7,1885.0
+DEVA,Death Valley,True,2008,871938,12,62.7,2335.0
+DEVA,Death Valley,True,2009,828574,12,59.6,2218.0
+DEVA,Death Valley,True,2010,984775,12,70.8,2637.0
+DEVA,Death Valley,True,2011,946867,12,68.1,2535.0
+DEVA,Death Valley,True,2012,984568,12,70.8,2636.0
+DEVA,Death Valley,True,2013,951972,12,68.5,2549.0
+DEVA,Death Valley,True,2014,1101312,12,79.2,2949.0
+DEVA,Death Valley,True,2015,1154843,12,83.1,3092.0
+DEVA,Death Valley,True,2016,1296283,12,93.3,3471.0
+DEVA,Death Valley,True,2017,1294827,12,93.1,3467.0
+DEVA,Death Valley,True,2018,1678660,12,120.8,4495.0
+DEVA,Death Valley,True,2019,1740945,12,125.2,4661.0
+DEVA,Death Valley,True,2020,820023,12,59.0,2196.0
+DEVA,Death Valley,True,2021,1146551,12,82.5,3070.0
+DEVA,Death Valley,True,2022,1128862,12,81.2,3022.0
+DEVA,Death Valley,True,2023,1099632,12,79.1,2944.0
+DEVA,Death Valley,True,2024,1440484,12,103.6,3857.0
+DEVA,Death Valley,True,2025,1320134,12,95.0,3535.0
+DRTO,Dry Tortugas,False,1979,9076,12,,
+DRTO,Dry Tortugas,False,1980,8644,12,,
+DRTO,Dry Tortugas,False,1981,10150,12,,
+DRTO,Dry Tortugas,False,1982,10700,12,,
+DRTO,Dry Tortugas,False,1983,11004,12,,
+DRTO,Dry Tortugas,False,1984,11900,12,,
+DRTO,Dry Tortugas,False,1985,13213,12,,
+DRTO,Dry Tortugas,False,1986,15379,12,,
+DRTO,Dry Tortugas,False,1987,16315,12,,
+DRTO,Dry Tortugas,False,1988,16937,12,,
+DRTO,Dry Tortugas,False,1989,19441,12,,
+DRTO,Dry Tortugas,False,1990,19402,12,,
+DRTO,Dry Tortugas,False,1991,18231,12,,
+DRTO,Dry Tortugas,False,1992,21581,12,,
+DRTO,Dry Tortugas,False,1993,24020,12,,
+DRTO,Dry Tortugas,False,1994,16736,12,,
+DRTO,Dry Tortugas,False,1995,32870,12,,
+DRTO,Dry Tortugas,False,1996,35127,12,,
+DRTO,Dry Tortugas,False,1997,47224,12,,
+DRTO,Dry Tortugas,False,1998,60136,12,,
+DRTO,Dry Tortugas,False,1999,74186,12,,
+DRTO,Dry Tortugas,False,2000,83704,12,,
+DRTO,Dry Tortugas,False,2001,79186,12,,
+DRTO,Dry Tortugas,False,2002,79582,12,,
+DRTO,Dry Tortugas,False,2003,74741,12,,
+DRTO,Dry Tortugas,False,2004,67917,12,,
+DRTO,Dry Tortugas,False,2005,61765,12,,
+DRTO,Dry Tortugas,False,2006,64122,12,,
+DRTO,Dry Tortugas,False,2007,60895,12,,
+DRTO,Dry Tortugas,False,2008,63947,12,,
+DRTO,Dry Tortugas,False,2009,52011,12,,
+DRTO,Dry Tortugas,False,2010,53890,12,,
+DRTO,Dry Tortugas,False,2011,75171,12,,
+DRTO,Dry Tortugas,False,2012,60550,12,,
+DRTO,Dry Tortugas,False,2013,58401,12,,
+DRTO,Dry Tortugas,False,2014,64865,12,,
+DRTO,Dry Tortugas,False,2015,70862,12,,
+DRTO,Dry Tortugas,False,2016,73661,12,,
+DRTO,Dry Tortugas,False,2017,54281,12,,
+DRTO,Dry Tortugas,False,2018,56810,12,,
+DRTO,Dry Tortugas,False,2019,79200,12,,
+DRTO,Dry Tortugas,False,2020,48543,12,,
+DRTO,Dry Tortugas,False,2021,83817,12,,
+DRTO,Dry Tortugas,False,2022,78488,12,,
+DRTO,Dry Tortugas,False,2023,84285,12,,
+DRTO,Dry Tortugas,False,2024,84873,12,,
+DRTO,Dry Tortugas,False,2025,89355,12,,
+EVER,Everglades,False,1979,718102,12,,
+EVER,Everglades,False,1980,744244,12,,
+EVER,Everglades,False,1981,564721,12,,
+EVER,Everglades,False,1982,550168,12,,
+EVER,Everglades,False,1983,577439,12,,
+EVER,Everglades,False,1984,628658,12,,
+EVER,Everglades,False,1985,697646,12,,
+EVER,Everglades,False,1986,739072,12,,
+EVER,Everglades,False,1987,787493,12,,
+EVER,Everglades,False,1988,1026188,12,,
+EVER,Everglades,False,1989,913372,12,,
+EVER,Everglades,False,1990,957925,12,,
+EVER,Everglades,False,1991,1292014,12,,
+EVER,Everglades,False,1992,1025686,12,,
+EVER,Everglades,False,1993,973706,12,,
+EVER,Everglades,False,1994,886455,12,,
+EVER,Everglades,False,1995,820466,12,,
+EVER,Everglades,False,1996,890167,12,,
+EVER,Everglades,False,1997,989532,12,,
+EVER,Everglades,False,1998,1118215,12,,
+EVER,Everglades,False,1999,1073982,12,,
+EVER,Everglades,False,2000,995390,12,,
+EVER,Everglades,False,2001,1049851,12,,
+EVER,Everglades,False,2002,968909,12,,
+EVER,Everglades,False,2003,1040648,12,,
+EVER,Everglades,False,2004,1181355,12,,
+EVER,Everglades,False,2005,1233837,12,,
+EVER,Everglades,False,2006,954022,12,,
+EVER,Everglades,False,2007,1074764,12,,
+EVER,Everglades,False,2008,822118,12,,
+EVER,Everglades,False,2009,900882,12,,
+EVER,Everglades,False,2010,915538,12,,
+EVER,Everglades,False,2011,934351,12,,
+EVER,Everglades,False,2012,1141906,12,,
+EVER,Everglades,False,2013,1047116,12,,
+EVER,Everglades,False,2014,1110901,12,,
+EVER,Everglades,False,2015,1077427,12,,
+EVER,Everglades,False,2016,930907,12,,
+EVER,Everglades,False,2017,1018557,12,,
+EVER,Everglades,False,2018,597124,12,,
+EVER,Everglades,False,2019,1118300,12,,
+EVER,Everglades,False,2020,702319,12,,
+EVER,Everglades,False,2021,942130,12,,
+EVER,Everglades,False,2022,1155193,12,,
+EVER,Everglades,False,2023,810189,12,,
+EVER,Everglades,False,2024,741983,12,,
+EVER,Everglades,False,2025,778198,12,,
+GAAR,Gates of the Arctic,False,1982,1381,12,,
+GAAR,Gates of the Arctic,False,1983,2138,12,,
+GAAR,Gates of the Arctic,False,1984,2440,12,,
+GAAR,Gates of the Arctic,False,1985,1381,12,,
+GAAR,Gates of the Arctic,False,1986,2801,12,,
+GAAR,Gates of the Arctic,False,1987,1060,12,,
+GAAR,Gates of the Arctic,False,1988,1258,12,,
+GAAR,Gates of the Arctic,False,1989,822,12,,
+GAAR,Gates of the Arctic,False,1990,1010,12,,
+GAAR,Gates of the Arctic,False,1991,1154,12,,
+GAAR,Gates of the Arctic,False,1992,2116,12,,
+GAAR,Gates of the Arctic,False,1993,2245,12,,
+GAAR,Gates of the Arctic,False,1994,1726,12,,
+GAAR,Gates of the Arctic,False,1995,7074,12,,
+GAAR,Gates of the Arctic,False,1996,6448,12,,
+GAAR,Gates of the Arctic,False,1997,6949,12,,
+GAAR,Gates of the Arctic,False,1998,8266,12,,
+GAAR,Gates of the Arctic,False,1999,8166,12,,
+GAAR,Gates of the Arctic,False,2000,11278,12,,
+GAAR,Gates of the Arctic,False,2001,4505,12,,
+GAAR,Gates of the Arctic,False,2002,6648,12,,
+GAAR,Gates of the Arctic,False,2003,5075,12,,
+GAAR,Gates of the Arctic,False,2004,10282,12,,
+GAAR,Gates of the Arctic,False,2005,9459,12,,
+GAAR,Gates of the Arctic,False,2006,9982,12,,
+GAAR,Gates of the Arctic,False,2007,10942,12,,
+GAAR,Gates of the Arctic,False,2008,11397,12,,
+GAAR,Gates of the Arctic,False,2009,9975,12,,
+GAAR,Gates of the Arctic,False,2010,10840,12,,
+GAAR,Gates of the Arctic,False,2011,11623,12,,
+GAAR,Gates of the Arctic,False,2012,10899,12,,
+GAAR,Gates of the Arctic,False,2013,11012,12,,
+GAAR,Gates of the Arctic,False,2014,12669,12,,
+GAAR,Gates of the Arctic,False,2015,10745,12,,
+GAAR,Gates of the Arctic,False,2016,10047,12,,
+GAAR,Gates of the Arctic,False,2017,11177,12,,
+GAAR,Gates of the Arctic,False,2018,9591,12,,
+GAAR,Gates of the Arctic,False,2019,10518,12,,
+GAAR,Gates of the Arctic,False,2020,2872,12,,
+GAAR,Gates of the Arctic,False,2021,7362,12,,
+GAAR,Gates of the Arctic,False,2022,9457,12,,
+GAAR,Gates of the Arctic,False,2023,11045,12,,
+GAAR,Gates of the Arctic,False,2024,11907,12,,
+GAAR,Gates of the Arctic,False,2025,14923,12,,
+GLAC,Glacier,True,1979,1446086,12,354.5,8855.0
+GLAC,Glacier,True,1980,1474578,12,361.4,9030.0
+GLAC,Glacier,True,1981,1786523,12,437.9,10940.0
+GLAC,Glacier,True,1982,1666114,12,408.4,10203.0
+GLAC,Glacier,True,1983,2203847,12,540.2,13496.0
+GLAC,Glacier,True,1984,1946703,12,477.2,11921.0
+GLAC,Glacier,True,1985,1603011,12,392.9,9816.0
+GLAC,Glacier,True,1986,1579151,12,387.1,9670.0
+GLAC,Glacier,True,1987,1660737,12,407.1,10170.0
+GLAC,Glacier,True,1988,1817733,12,445.6,11131.0
+GLAC,Glacier,True,1989,1821523,12,446.5,11154.0
+GLAC,Glacier,True,1990,1986737,12,487.0,12166.0
+GLAC,Glacier,True,1991,2096966,12,514.0,12841.0
+GLAC,Glacier,True,1992,2199767,12,539.2,13471.0
+GLAC,Glacier,True,1993,2141704,12,525.0,13115.0
+GLAC,Glacier,True,1994,2152989,12,527.7,13184.0
+GLAC,Glacier,True,1995,1839518,12,450.9,11265.0
+GLAC,Glacier,True,1996,1720805,12,421.8,10538.0
+GLAC,Glacier,True,1997,1708856,12,418.9,10465.0
+GLAC,Glacier,True,1998,1830944,12,448.8,11212.0
+GLAC,Glacier,True,1999,1684604,12,412.9,10316.0
+GLAC,Glacier,True,2000,1728693,12,423.7,10586.0
+GLAC,Glacier,True,2001,1680614,12,412.0,10292.0
+GLAC,Glacier,True,2002,1905689,12,467.1,11670.0
+GLAC,Glacier,True,2003,1664046,12,407.9,10190.0
+GLAC,Glacier,True,2004,2033933,12,498.6,12455.0
+GLAC,Glacier,True,2005,1925101,12,471.9,11789.0
+GLAC,Glacier,True,2006,1964399,12,481.5,12029.0
+GLAC,Glacier,True,2007,2083329,12,510.7,12758.0
+GLAC,Glacier,True,2008,1808027,12,443.2,11072.0
+GLAC,Glacier,True,2009,2031348,12,497.9,12439.0
+GLAC,Glacier,True,2010,2200048,12,539.3,13472.0
+GLAC,Glacier,True,2011,1853564,12,454.3,11351.0
+GLAC,Glacier,True,2012,2162035,12,530.0,13240.0
+GLAC,Glacier,True,2013,2190374,12,536.9,13413.0
+GLAC,Glacier,True,2014,2338528,12,573.2,14320.0
+GLAC,Glacier,True,2015,2366056,12,580.0,14489.0
+GLAC,Glacier,True,2016,2946681,12,722.3,18045.0
+GLAC,Glacier,True,2017,3305512,12,810.2,20242.0
+GLAC,Glacier,True,2018,2965309,12,726.9,18159.0
+GLAC,Glacier,True,2019,3049839,12,747.6,18676.0
+GLAC,Glacier,True,2020,1698864,12,416.4,10403.0
+GLAC,Glacier,True,2021,3081656,12,755.4,18871.0
+GLAC,Glacier,True,2022,2908458,12,712.9,17811.0
+GLAC,Glacier,True,2023,2933616,12,719.1,17965.0
+GLAC,Glacier,True,2024,3208755,12,786.5,19649.0
+GLAC,Glacier,True,2025,3136557,12,768.8,19207.0
+GLBA,Glacier Bay,False,1979,91032,12,,
+GLBA,Glacier Bay,False,1980,95005,12,,
+GLBA,Glacier Bay,False,1981,85071,12,,
+GLBA,Glacier Bay,False,1982,90354,12,,
+GLBA,Glacier Bay,False,1983,92057,12,,
+GLBA,Glacier Bay,False,1984,108297,12,,
+GLBA,Glacier Bay,False,1985,130943,12,,
+GLBA,Glacier Bay,False,1986,136877,12,,
+GLBA,Glacier Bay,False,1987,130926,12,,
+GLBA,Glacier Bay,False,1988,148756,12,,
+GLBA,Glacier Bay,False,1989,150270,12,,
+GLBA,Glacier Bay,False,1990,186427,12,,
+GLBA,Glacier Bay,False,1991,203653,12,,
+GLBA,Glacier Bay,False,1992,211424,12,,
+GLBA,Glacier Bay,False,1993,242276,12,,
+GLBA,Glacier Bay,False,1994,250614,12,,
+GLBA,Glacier Bay,False,1995,252265,12,,
+GLBA,Glacier Bay,False,1996,304374,12,,
+GLBA,Glacier Bay,False,1997,347046,12,,
+GLBA,Glacier Bay,False,1998,403512,12,,
+GLBA,Glacier Bay,False,1999,442607,12,,
+GLBA,Glacier Bay,False,2000,384684,12,,
+GLBA,Glacier Bay,False,2001,380114,12,,
+GLBA,Glacier Bay,False,2002,408143,12,,
+GLBA,Glacier Bay,False,2003,366319,12,,
+GLBA,Glacier Bay,False,2004,353686,12,,
+GLBA,Glacier Bay,False,2005,359829,12,,
+GLBA,Glacier Bay,False,2006,413382,12,,
+GLBA,Glacier Bay,False,2007,438211,12,,
+GLBA,Glacier Bay,False,2008,418911,12,,
+GLBA,Glacier Bay,False,2009,438361,12,,
+GLBA,Glacier Bay,False,2010,444530,12,,
+GLBA,Glacier Bay,False,2011,431986,12,,
+GLBA,Glacier Bay,False,2012,454337,12,,
+GLBA,Glacier Bay,False,2013,500590,12,,
+GLBA,Glacier Bay,False,2014,500727,12,,
+GLBA,Glacier Bay,False,2015,551353,12,,
+GLBA,Glacier Bay,False,2016,520171,12,,
+GLBA,Glacier Bay,False,2017,547057,12,,
+GLBA,Glacier Bay,False,2018,597915,12,,
+GLBA,Glacier Bay,False,2019,672087,12,,
+GLBA,Glacier Bay,False,2020,5748,12,,
+GLBA,Glacier Bay,False,2021,89768,12,,
+GLBA,Glacier Bay,False,2022,545758,12,,
+GLBA,Glacier Bay,False,2023,703659,12,,
+GLBA,Glacier Bay,False,2024,736282,12,,
+GLBA,Glacier Bay,False,2025,740044,12,,
+GRBA,Great Basin,False,1979,29947,12,,
+GRBA,Great Basin,False,1980,33383,12,,
+GRBA,Great Basin,False,1981,33367,12,,
+GRBA,Great Basin,False,1982,32264,12,,
+GRBA,Great Basin,False,1983,30335,12,,
+GRBA,Great Basin,False,1984,37676,12,,
+GRBA,Great Basin,False,1985,36343,12,,
+GRBA,Great Basin,False,1986,40359,12,,
+GRBA,Great Basin,False,1987,63532,12,,
+GRBA,Great Basin,False,1988,73559,12,,
+GRBA,Great Basin,False,1989,70259,12,,
+GRBA,Great Basin,False,1990,65026,12,,
+GRBA,Great Basin,False,1991,63864,12,,
+GRBA,Great Basin,False,1992,69144,12,,
+GRBA,Great Basin,False,1993,91915,12,,
+GRBA,Great Basin,False,1994,88024,12,,
+GRBA,Great Basin,False,1995,87829,12,,
+GRBA,Great Basin,False,1996,86635,12,,
+GRBA,Great Basin,False,1997,90760,12,,
+GRBA,Great Basin,False,1998,80363,12,,
+GRBA,Great Basin,False,1999,90119,12,,
+GRBA,Great Basin,False,2000,81045,12,,
+GRBA,Great Basin,False,2001,81712,12,,
+GRBA,Great Basin,False,2002,85777,12,,
+GRBA,Great Basin,False,2003,87020,12,,
+GRBA,Great Basin,False,2004,79879,12,,
+GRBA,Great Basin,False,2005,77741,12,,
+GRBA,Great Basin,False,2006,78524,12,,
+GRBA,Great Basin,False,2007,81364,12,,
+GRBA,Great Basin,False,2008,69235,12,,
+GRBA,Great Basin,False,2009,84974,12,,
+GRBA,Great Basin,False,2010,88870,12,,
+GRBA,Great Basin,False,2011,91451,12,,
+GRBA,Great Basin,False,2012,94850,12,,
+GRBA,Great Basin,False,2013,92893,12,,
+GRBA,Great Basin,False,2014,107526,12,,
+GRBA,Great Basin,False,2015,116123,12,,
+GRBA,Great Basin,False,2016,144846,12,,
+GRBA,Great Basin,False,2017,168028,12,,
+GRBA,Great Basin,False,2018,153094,12,,
+GRBA,Great Basin,False,2019,131802,12,,
+GRBA,Great Basin,False,2020,120248,12,,
+GRBA,Great Basin,False,2021,144875,12,,
+GRBA,Great Basin,False,2022,142115,12,,
+GRBA,Great Basin,False,2023,143265,12,,
+GRBA,Great Basin,False,2024,152068,12,,
+GRBA,Great Basin,False,2025,161210,12,,
+GRCA,Grand Canyon,True,1979,2131716,12,437.8,20472.0
+GRCA,Grand Canyon,True,1980,2304973,12,473.4,22136.0
+GRCA,Grand Canyon,True,1981,2472270,12,507.7,23742.0
+GRCA,Grand Canyon,True,1982,2293127,12,470.9,22022.0
+GRCA,Grand Canyon,True,1983,2248082,12,461.7,21589.0
+GRCA,Grand Canyon,True,1984,2173584,12,446.4,20874.0
+GRCA,Grand Canyon,True,1985,2711529,12,556.9,26040.0
+GRCA,Grand Canyon,True,1986,3035787,12,623.4,29154.0
+GRCA,Grand Canyon,True,1987,3513030,12,721.5,33737.0
+GRCA,Grand Canyon,True,1988,3859886,12,792.7,37068.0
+GRCA,Grand Canyon,True,1989,3966209,12,814.5,38089.0
+GRCA,Grand Canyon,True,1990,3776685,12,775.6,36269.0
+GRCA,Grand Canyon,True,1991,3886031,12,798.1,37319.0
+GRCA,Grand Canyon,True,1992,4203545,12,863.3,40368.0
+GRCA,Grand Canyon,True,1993,4575602,12,939.7,43941.0
+GRCA,Grand Canyon,True,1994,4364316,12,896.3,41912.0
+GRCA,Grand Canyon,True,1995,4557645,12,936.0,43769.0
+GRCA,Grand Canyon,True,1996,4537703,12,931.9,43577.0
+GRCA,Grand Canyon,True,1997,4791668,12,984.0,46016.0
+GRCA,Grand Canyon,True,1998,4239682,12,870.7,40715.0
+GRCA,Grand Canyon,True,1999,4575124,12,939.6,43937.0
+GRCA,Grand Canyon,True,2000,4460228,12,916.0,42833.0
+GRCA,Grand Canyon,True,2001,4104809,12,843.0,39420.0
+GRCA,Grand Canyon,True,2002,4001974,12,821.9,38432.0
+GRCA,Grand Canyon,True,2003,4124900,12,847.1,39613.0
+GRCA,Grand Canyon,True,2004,4326234,12,888.5,41546.0
+GRCA,Grand Canyon,True,2005,4401522,12,903.9,42269.0
+GRCA,Grand Canyon,True,2006,4279439,12,878.8,41097.0
+GRCA,Grand Canyon,True,2007,4413668,12,906.4,42386.0
+GRCA,Grand Canyon,True,2008,4425314,12,908.8,42498.0
+GRCA,Grand Canyon,True,2009,4348068,12,892.9,41756.0
+GRCA,Grand Canyon,True,2010,4388386,12,901.2,42143.0
+GRCA,Grand Canyon,True,2011,4298178,12,882.7,41277.0
+GRCA,Grand Canyon,True,2012,4421352,12,908.0,42460.0
+GRCA,Grand Canyon,True,2013,4564840,12,937.5,43838.0
+GRCA,Grand Canyon,True,2014,4756771,12,976.9,45681.0
+GRCA,Grand Canyon,True,2015,5520736,12,1133.8,53018.0
+GRCA,Grand Canyon,True,2016,5969811,12,1226.0,57330.0
+GRCA,Grand Canyon,True,2017,6254238,12,1284.4,60062.0
+GRCA,Grand Canyon,True,2018,6380495,12,1310.3,61274.0
+GRCA,Grand Canyon,True,2019,5974411,12,1226.9,57375.0
+GRCA,Grand Canyon,True,2020,2897098,12,595.0,27822.0
+GRCA,Grand Canyon,True,2021,4532677,12,930.9,43529.0
+GRCA,Grand Canyon,True,2022,4732101,12,971.8,45444.0
+GRCA,Grand Canyon,True,2023,4733705,12,972.1,45460.0
+GRCA,Grand Canyon,True,2024,4919163,12,1010.2,47241.0
+GRCA,Grand Canyon,True,2025,4430653,12,909.9,42549.0
+GRSA,Great Sand Dunes,False,1979,162546,12,,
+GRSA,Great Sand Dunes,False,1980,142427,12,,
+GRSA,Great Sand Dunes,False,1981,172505,12,,
+GRSA,Great Sand Dunes,False,1982,175273,12,,
+GRSA,Great Sand Dunes,False,1983,150177,12,,
+GRSA,Great Sand Dunes,False,1984,141833,12,,
+GRSA,Great Sand Dunes,False,1985,182713,12,,
+GRSA,Great Sand Dunes,False,1986,221449,12,,
+GRSA,Great Sand Dunes,False,1987,225937,12,,
+GRSA,Great Sand Dunes,False,1988,274286,12,,
+GRSA,Great Sand Dunes,False,1989,266321,12,,
+GRSA,Great Sand Dunes,False,1990,272136,12,,
+GRSA,Great Sand Dunes,False,1991,295070,12,,
+GRSA,Great Sand Dunes,False,1992,290654,12,,
+GRSA,Great Sand Dunes,False,1993,294282,12,,
+GRSA,Great Sand Dunes,False,1994,312225,12,,
+GRSA,Great Sand Dunes,False,1995,323663,12,,
+GRSA,Great Sand Dunes,False,1996,309283,12,,
+GRSA,Great Sand Dunes,False,1997,309855,12,,
+GRSA,Great Sand Dunes,False,1998,279768,12,,
+GRSA,Great Sand Dunes,False,1999,286745,12,,
+GRSA,Great Sand Dunes,False,2000,260789,12,,
+GRSA,Great Sand Dunes,False,2001,277523,12,,
+GRSA,Great Sand Dunes,False,2002,234776,12,,
+GRSA,Great Sand Dunes,False,2003,251375,12,,
+GRSA,Great Sand Dunes,False,2004,267204,12,,
+GRSA,Great Sand Dunes,False,2005,279589,12,,
+GRSA,Great Sand Dunes,False,2006,258660,12,,
+GRSA,Great Sand Dunes,False,2007,285121,12,,
+GRSA,Great Sand Dunes,False,2008,273903,12,,
+GRSA,Great Sand Dunes,False,2009,289955,12,,
+GRSA,Great Sand Dunes,False,2010,283284,12,,
+GRSA,Great Sand Dunes,False,2011,280058,12,,
+GRSA,Great Sand Dunes,False,2012,254674,12,,
+GRSA,Great Sand Dunes,False,2013,242841,12,,
+GRSA,Great Sand Dunes,False,2014,271774,12,,
+GRSA,Great Sand Dunes,False,2015,299513,12,,
+GRSA,Great Sand Dunes,False,2016,388308,12,,
+GRSA,Great Sand Dunes,False,2017,486935,12,,
+GRSA,Great Sand Dunes,False,2018,442905,12,,
+GRSA,Great Sand Dunes,False,2019,527546,12,,
+GRSA,Great Sand Dunes,False,2020,461532,12,,
+GRSA,Great Sand Dunes,False,2021,602613,12,,
+GRSA,Great Sand Dunes,False,2022,493428,12,,
+GRSA,Great Sand Dunes,False,2023,512219,12,,
+GRSA,Great Sand Dunes,False,2024,437661,12,,
+GRSA,Great Sand Dunes,False,2025,432498,12,,
+GRSM,Great Smoky Mountains,True,1979,8019788,12,3544.9,35093.0
+GRSM,Great Smoky Mountains,True,1980,8440953,12,3731.0,36936.0
+GRSM,Great Smoky Mountains,True,1981,8312884,12,3674.4,36375.0
+GRSM,Great Smoky Mountains,True,1982,8177869,12,3614.7,35785.0
+GRSM,Great Smoky Mountains,True,1983,8435475,12,3728.6,36912.0
+GRSM,Great Smoky Mountains,True,1984,8508390,12,3760.8,37231.0
+GRSM,Great Smoky Mountains,True,1985,9319290,12,4119.3,40779.0
+GRSM,Great Smoky Mountains,True,1986,9836306,12,4347.8,43042.0
+GRSM,Great Smoky Mountains,True,1987,10209841,12,4512.9,44676.0
+GRSM,Great Smoky Mountains,True,1988,8770781,12,3876.8,38379.0
+GRSM,Great Smoky Mountains,True,1989,8333553,12,3683.5,36466.0
+GRSM,Great Smoky Mountains,True,1990,8151769,12,3603.2,35670.0
+GRSM,Great Smoky Mountains,True,1991,8654459,12,3825.4,37870.0
+GRSM,Great Smoky Mountains,True,1992,8931690,12,3947.9,39083.0
+GRSM,Great Smoky Mountains,True,1993,9283848,12,4103.6,40624.0
+GRSM,Great Smoky Mountains,True,1994,8628174,12,3813.8,37755.0
+GRSM,Great Smoky Mountains,True,1995,9080420,12,4013.7,39734.0
+GRSM,Great Smoky Mountains,True,1996,9265667,12,4095.6,40545.0
+GRSM,Great Smoky Mountains,True,1997,9965075,12,4404.7,43605.0
+GRSM,Great Smoky Mountains,True,1998,9989395,12,4415.5,43712.0
+GRSM,Great Smoky Mountains,True,1999,10283598,12,4545.5,44999.0
+GRSM,Great Smoky Mountains,True,2000,10175812,12,4497.9,44527.0
+GRSM,Great Smoky Mountains,True,2001,9197697,12,4065.5,40247.0
+GRSM,Great Smoky Mountains,True,2002,9316420,12,4118.0,40767.0
+GRSM,Great Smoky Mountains,True,2003,9366845,12,4140.3,40987.0
+GRSM,Great Smoky Mountains,True,2004,9167046,12,4052.0,40113.0
+GRSM,Great Smoky Mountains,True,2005,9192477,12,4063.2,40224.0
+GRSM,Great Smoky Mountains,True,2006,9289215,12,4106.0,40648.0
+GRSM,Great Smoky Mountains,True,2007,9372253,12,4142.7,41011.0
+GRSM,Great Smoky Mountains,True,2008,9044010,12,3997.6,39575.0
+GRSM,Great Smoky Mountains,True,2009,9491437,12,4195.4,41533.0
+GRSM,Great Smoky Mountains,True,2010,9463538,12,4183.0,41410.0
+GRSM,Great Smoky Mountains,True,2011,9008830,12,3982.0,39421.0
+GRSM,Great Smoky Mountains,True,2012,9685829,12,4281.3,42383.0
+GRSM,Great Smoky Mountains,True,2013,9354695,12,4134.9,40934.0
+GRSM,Great Smoky Mountains,True,2014,10099276,12,4464.0,44192.0
+GRSM,Great Smoky Mountains,True,2015,10712674,12,4735.2,46876.0
+GRSM,Great Smoky Mountains,True,2016,11312786,12,5000.4,49502.0
+GRSM,Great Smoky Mountains,True,2017,11338893,12,5012.0,49617.0
+GRSM,Great Smoky Mountains,True,2018,11421200,12,5048.3,49977.0
+GRSM,Great Smoky Mountains,True,2019,12547743,12,5546.3,54906.0
+GRSM,Great Smoky Mountains,True,2020,12095720,12,5346.5,52928.0
+GRSM,Great Smoky Mountains,True,2021,14161548,12,6259.6,61968.0
+GRSM,Great Smoky Mountains,True,2022,12937633,12,5718.6,56612.0
+GRSM,Great Smoky Mountains,True,2023,13297647,12,5877.8,58188.0
+GRSM,Great Smoky Mountains,True,2024,12191834,12,5389.0,53349.0
+GRSM,Great Smoky Mountains,True,2025,11527939,12,5095.5,50444.0
+GRTE,Grand Teton,True,1979,2446171,12,1949.8,18046.0
+GRTE,Grand Teton,True,1980,2555627,12,2037.0,18854.0
+GRTE,Grand Teton,True,1981,2643644,12,2107.2,19503.0
+GRTE,Grand Teton,True,1982,2534029,12,2019.8,18694.0
+GRTE,Grand Teton,True,1983,1532035,12,1221.2,11302.0
+GRTE,Grand Teton,True,1984,1360898,12,1084.7,10040.0
+GRTE,Grand Teton,True,1985,1334483,12,1063.7,9845.0
+GRTE,Grand Teton,True,1986,1306322,12,1041.2,9637.0
+GRTE,Grand Teton,True,1987,1450791,12,1156.4,10703.0
+GRTE,Grand Teton,True,1988,1232691,12,982.6,9094.0
+GRTE,Grand Teton,True,1989,1331659,12,1061.4,9824.0
+GRTE,Grand Teton,True,1990,1588253,12,1266.0,11717.0
+GRTE,Grand Teton,True,1991,1625752,12,1295.9,11994.0
+GRTE,Grand Teton,True,1992,1744636,12,1390.6,12871.0
+GRTE,Grand Teton,True,1993,2568689,12,2047.4,18950.0
+GRTE,Grand Teton,True,1994,2540699,12,2025.1,18744.0
+GRTE,Grand Teton,True,1995,2731015,12,2176.8,20148.0
+GRTE,Grand Teton,True,1996,2733439,12,2178.8,20166.0
+GRTE,Grand Teton,True,1997,2658762,12,2119.2,19615.0
+GRTE,Grand Teton,True,1998,2757060,12,2197.6,20340.0
+GRTE,Grand Teton,True,1999,2680025,12,2136.2,19771.0
+GRTE,Grand Teton,True,2000,2590624,12,2064.9,19112.0
+GRTE,Grand Teton,True,2001,2535108,12,2020.7,18702.0
+GRTE,Grand Teton,True,2002,2612629,12,2082.5,19274.0
+GRTE,Grand Teton,True,2003,2355693,12,1877.7,17379.0
+GRTE,Grand Teton,True,2004,2360373,12,1881.4,17413.0
+GRTE,Grand Teton,True,2005,2463442,12,1963.6,18174.0
+GRTE,Grand Teton,True,2006,2406476,12,1918.2,17753.0
+GRTE,Grand Teton,True,2007,2588574,12,2063.3,19097.0
+GRTE,Grand Teton,True,2008,2485987,12,1981.5,18340.0
+GRTE,Grand Teton,True,2009,2580081,12,2056.5,19034.0
+GRTE,Grand Teton,True,2010,2669374,12,2127.7,19693.0
+GRTE,Grand Teton,True,2011,2587437,12,2062.4,19088.0
+GRTE,Grand Teton,True,2012,2705256,12,2156.3,19958.0
+GRTE,Grand Teton,True,2013,2688794,12,2143.2,19836.0
+GRTE,Grand Teton,True,2014,2791392,12,2225.0,20593.0
+GRTE,Grand Teton,True,2015,3149921,12,2510.7,23238.0
+GRTE,Grand Teton,True,2016,3270076,12,2606.5,24125.0
+GRTE,Grand Teton,True,2017,3317000,12,2643.9,24471.0
+GRTE,Grand Teton,True,2018,3491151,12,2782.7,25755.0
+GRTE,Grand Teton,True,2019,3405614,12,2714.5,25124.0
+GRTE,Grand Teton,True,2020,3289638,12,2622.1,24269.0
+GRTE,Grand Teton,True,2021,3885230,12,3096.8,28663.0
+GRTE,Grand Teton,True,2022,2806223,12,2236.8,20702.0
+GRTE,Grand Teton,True,2023,3417106,12,2723.7,25209.0
+GRTE,Grand Teton,True,2024,3628222,12,2892.0,26767.0
+GRTE,Grand Teton,True,2025,3800648,12,3029.4,28039.0
+GUMO,Guadalupe Mountains,False,1979,110478,12,,
+GUMO,Guadalupe Mountains,False,1980,113825,12,,
+GUMO,Guadalupe Mountains,False,1981,142641,12,,
+GUMO,Guadalupe Mountains,False,1982,140620,12,,
+GUMO,Guadalupe Mountains,False,1983,142736,12,,
+GUMO,Guadalupe Mountains,False,1984,151862,12,,
+GUMO,Guadalupe Mountains,False,1985,147758,12,,
+GUMO,Guadalupe Mountains,False,1986,163313,12,,
+GUMO,Guadalupe Mountains,False,1987,156344,12,,
+GUMO,Guadalupe Mountains,False,1988,178910,12,,
+GUMO,Guadalupe Mountains,False,1989,168872,12,,
+GUMO,Guadalupe Mountains,False,1990,192890,12,,
+GUMO,Guadalupe Mountains,False,1991,200398,12,,
+GUMO,Guadalupe Mountains,False,1992,175120,12,,
+GUMO,Guadalupe Mountains,False,1993,201054,12,,
+GUMO,Guadalupe Mountains,False,1994,203520,12,,
+GUMO,Guadalupe Mountains,False,1995,208972,12,,
+GUMO,Guadalupe Mountains,False,1996,223485,12,,
+GUMO,Guadalupe Mountains,False,1997,231980,12,,
+GUMO,Guadalupe Mountains,False,1998,227924,12,,
+GUMO,Guadalupe Mountains,False,1999,219591,12,,
+GUMO,Guadalupe Mountains,False,2000,198762,12,,
+GUMO,Guadalupe Mountains,False,2001,222307,12,,
+GUMO,Guadalupe Mountains,False,2002,202911,12,,
+GUMO,Guadalupe Mountains,False,2003,181357,12,,
+GUMO,Guadalupe Mountains,False,2004,182351,12,,
+GUMO,Guadalupe Mountains,False,2005,170383,12,,
+GUMO,Guadalupe Mountains,False,2006,174157,12,,
+GUMO,Guadalupe Mountains,False,2007,165110,12,,
+GUMO,Guadalupe Mountains,False,2008,163709,12,,
+GUMO,Guadalupe Mountains,False,2009,198882,12,,
+GUMO,Guadalupe Mountains,False,2010,192210,12,,
+GUMO,Guadalupe Mountains,False,2011,152546,12,,
+GUMO,Guadalupe Mountains,False,2012,159360,12,,
+GUMO,Guadalupe Mountains,False,2013,145670,12,,
+GUMO,Guadalupe Mountains,False,2014,166868,12,,
+GUMO,Guadalupe Mountains,False,2015,169535,12,,
+GUMO,Guadalupe Mountains,False,2016,181839,12,,
+GUMO,Guadalupe Mountains,False,2017,225257,12,,
+GUMO,Guadalupe Mountains,False,2018,172347,12,,
+GUMO,Guadalupe Mountains,False,2019,188833,12,,
+GUMO,Guadalupe Mountains,False,2020,151256,12,,
+GUMO,Guadalupe Mountains,False,2021,243291,12,,
+GUMO,Guadalupe Mountains,False,2022,219987,12,,
+GUMO,Guadalupe Mountains,False,2023,227340,12,,
+GUMO,Guadalupe Mountains,False,2024,226134,12,,
+GUMO,Guadalupe Mountains,False,2025,206423,12,,
+HALE,Haleakala,False,1979,673955,12,,
+HALE,Haleakala,False,1980,560238,12,,
+HALE,Haleakala,False,1981,631684,12,,
+HALE,Haleakala,False,1982,771762,12,,
+HALE,Haleakala,False,1983,864289,12,,
+HALE,Haleakala,False,1984,1003821,12,,
+HALE,Haleakala,False,1985,1194651,12,,
+HALE,Haleakala,False,1986,1281219,12,,
+HALE,Haleakala,False,1987,1333900,12,,
+HALE,Haleakala,False,1988,1314683,12,,
+HALE,Haleakala,False,1989,1367761,12,,
+HALE,Haleakala,False,1990,1260601,12,,
+HALE,Haleakala,False,1991,1228332,12,,
+HALE,Haleakala,False,1992,1183124,12,,
+HALE,Haleakala,False,1993,1317433,12,,
+HALE,Haleakala,False,1994,1527329,12,,
+HALE,Haleakala,False,1995,1594596,12,,
+HALE,Haleakala,False,1996,1553344,12,,
+HALE,Haleakala,False,1997,1673561,12,,
+HALE,Haleakala,False,1998,1476842,12,,
+HALE,Haleakala,False,1999,1963187,12,,
+HALE,Haleakala,False,2000,1620083,12,,
+HALE,Haleakala,False,2001,1410974,12,,
+HALE,Haleakala,False,2002,1521080,12,,
+HALE,Haleakala,False,2003,1444668,12,,
+HALE,Haleakala,False,2004,1455477,12,,
+HALE,Haleakala,False,2005,1474681,12,,
+HALE,Haleakala,False,2006,1426068,12,,
+HALE,Haleakala,False,2007,1322817,12,,
+HALE,Haleakala,False,2008,1185068,12,,
+HALE,Haleakala,False,2009,1109104,12,,
+HALE,Haleakala,False,2010,1105606,12,,
+HALE,Haleakala,False,2011,956989,12,,
+HALE,Haleakala,False,2012,1094668,12,,
+HALE,Haleakala,False,2013,785300,12,,
+HALE,Haleakala,False,2014,1142040,12,,
+HALE,Haleakala,False,2015,1216772,12,,
+HALE,Haleakala,False,2016,1263558,12,,
+HALE,Haleakala,False,2017,1112390,12,,
+HALE,Haleakala,False,2018,1044084,12,,
+HALE,Haleakala,False,2019,994394,12,,
+HALE,Haleakala,False,2020,319147,12,,
+HALE,Haleakala,False,2021,853181,12,,
+HALE,Haleakala,False,2022,1087616,12,,
+HALE,Haleakala,False,2023,791292,12,,
+HALE,Haleakala,False,2024,732477,12,,
+HALE,Haleakala,False,2025,853711,12,,
+HAVO,Hawaiʻi Volcanoes,True,1979,1632589,12,1048.6,33676.0
+HAVO,Hawaiʻi Volcanoes,True,1980,1692338,12,1086.9,34908.0
+HAVO,Hawaiʻi Volcanoes,True,1981,1931852,12,1240.8,39848.0
+HAVO,Hawaiʻi Volcanoes,True,1982,1995397,12,1281.6,41159.0
+HAVO,Hawaiʻi Volcanoes,True,1983,2247974,12,1443.8,46369.0
+HAVO,Hawaiʻi Volcanoes,True,1984,2008608,12,1290.1,41432.0
+HAVO,Hawaiʻi Volcanoes,True,1985,816652,12,524.5,16845.0
+HAVO,Hawaiʻi Volcanoes,True,1986,898023,12,576.8,18524.0
+HAVO,Hawaiʻi Volcanoes,True,1987,1006058,12,646.2,20752.0
+HAVO,Hawaiʻi Volcanoes,True,1988,983007,12,631.4,20277.0
+HAVO,Hawaiʻi Volcanoes,True,1989,1056188,12,678.4,21786.0
+HAVO,Hawaiʻi Volcanoes,True,1990,1096816,12,704.5,22624.0
+HAVO,Hawaiʻi Volcanoes,True,1991,1238653,12,795.6,25550.0
+HAVO,Hawaiʻi Volcanoes,True,1992,1151661,12,739.7,23755.0
+HAVO,Hawaiʻi Volcanoes,True,1993,1143741,12,734.6,23592.0
+HAVO,Hawaiʻi Volcanoes,True,1994,1174289,12,754.2,24222.0
+HAVO,Hawaiʻi Volcanoes,True,1995,1175028,12,754.7,24237.0
+HAVO,Hawaiʻi Volcanoes,True,1996,1231557,12,791.0,25403.0
+HAVO,Hawaiʻi Volcanoes,True,1997,1832087,12,1176.7,37791.0
+HAVO,Hawaiʻi Volcanoes,True,1998,1352373,12,868.6,27895.0
+HAVO,Hawaiʻi Volcanoes,True,1999,1502855,12,965.2,30999.0
+HAVO,Hawaiʻi Volcanoes,True,2000,1514636,12,972.8,31242.0
+HAVO,Hawaiʻi Volcanoes,True,2001,1343286,12,862.8,27708.0
+HAVO,Hawaiʻi Volcanoes,True,2002,1110998,12,713.6,22917.0
+HAVO,Hawaiʻi Volcanoes,True,2003,1122524,12,721.0,23154.0
+HAVO,Hawaiʻi Volcanoes,True,2004,1307391,12,839.7,26968.0
+HAVO,Hawaiʻi Volcanoes,True,2005,1661196,12,1066.9,34266.0
+HAVO,Hawaiʻi Volcanoes,True,2006,1612246,12,1035.5,33256.0
+HAVO,Hawaiʻi Volcanoes,True,2007,1467779,12,942.7,30276.0
+HAVO,Hawaiʻi Volcanoes,True,2008,1270538,12,816.0,26207.0
+HAVO,Hawaiʻi Volcanoes,True,2009,1233105,12,792.0,25435.0
+HAVO,Hawaiʻi Volcanoes,True,2010,1304667,12,838.0,26911.0
+HAVO,Hawaiʻi Volcanoes,True,2011,1352123,12,868.4,27890.0
+HAVO,Hawaiʻi Volcanoes,True,2012,1483928,12,953.1,30609.0
+HAVO,Hawaiʻi Volcanoes,True,2013,1583209,12,1016.9,32657.0
+HAVO,Hawaiʻi Volcanoes,True,2014,1693005,12,1087.4,34922.0
+HAVO,Hawaiʻi Volcanoes,True,2015,1832660,12,1177.1,37802.0
+HAVO,Hawaiʻi Volcanoes,True,2016,1887580,12,1212.3,38935.0
+HAVO,Hawaiʻi Volcanoes,True,2017,2016702,12,1295.3,41599.0
+HAVO,Hawaiʻi Volcanoes,True,2018,1116891,12,717.3,23038.0
+HAVO,Hawaiʻi Volcanoes,True,2019,1368376,12,878.9,28226.0
+HAVO,Hawaiʻi Volcanoes,True,2020,589775,12,378.8,12165.0
+HAVO,Hawaiʻi Volcanoes,True,2021,1262747,12,811.0,26047.0
+HAVO,Hawaiʻi Volcanoes,True,2022,1580961,12,1015.4,32611.0
+HAVO,Hawaiʻi Volcanoes,True,2023,1620294,12,1040.7,33422.0
+HAVO,Hawaiʻi Volcanoes,True,2024,1433593,12,920.8,29571.0
+HAVO,Hawaiʻi Volcanoes,True,2025,1877854,12,1206.1,38735.0
+HOSP,Hot Springs,True,1979,1118800,12,50670.3,76161.0
+HOSP,Hot Springs,True,1980,1160588,12,52562.9,79005.0
+HOSP,Hot Springs,True,1981,1177911,12,53347.4,80185.0
+HOSP,Hot Springs,True,1982,1015580,12,45995.5,69134.0
+HOSP,Hot Springs,True,1983,1160008,12,52536.6,78966.0
+HOSP,Hot Springs,True,1984,1071853,12,48544.1,72965.0
+HOSP,Hot Springs,True,1985,1112764,12,50396.9,75750.0
+HOSP,Hot Springs,True,1986,1175170,12,53223.3,79998.0
+HOSP,Hot Springs,True,1987,1101242,12,49875.1,74965.0
+HOSP,Hot Springs,True,1988,1185772,12,53703.4,80720.0
+HOSP,Hot Springs,True,1989,1272771,12,57643.6,86642.0
+HOSP,Hot Springs,True,1990,1123175,12,50868.4,76458.0
+HOSP,Hot Springs,True,1991,1203929,12,54525.8,81956.0
+HOSP,Hot Springs,True,1992,1504013,12,68116.5,102383.0
+HOSP,Hot Springs,True,1993,1477299,12,66906.7,100565.0
+HOSP,Hot Springs,True,1994,1618847,12,73317.3,110201.0
+HOSP,Hot Springs,True,1995,1617077,12,73237.2,110080.0
+HOSP,Hot Springs,True,1996,1538105,12,69660.6,104704.0
+HOSP,Hot Springs,True,1997,1509596,12,68369.4,102764.0
+HOSP,Hot Springs,True,1998,1495993,12,67753.3,101838.0
+HOSP,Hot Springs,True,1999,1384469,12,62702.4,94246.0
+HOSP,Hot Springs,True,2000,1338156,12,60604.9,91093.0
+HOSP,Hot Springs,True,2001,1296786,12,58731.3,88277.0
+HOSP,Hot Springs,True,2002,1440227,12,65227.7,98041.0
+HOSP,Hot Springs,True,2003,1561311,12,70711.5,106284.0
+HOSP,Hot Springs,True,2004,1418735,12,64254.3,96578.0
+HOSP,Hot Springs,True,2005,1340160,12,60695.7,91229.0
+HOSP,Hot Springs,True,2006,1273456,12,57674.6,86689.0
+HOSP,Hot Springs,True,2007,1300152,12,58883.7,88506.0
+HOSP,Hot Springs,True,2008,1238147,12,56075.5,84285.0
+HOSP,Hot Springs,True,2009,1284707,12,58184.2,87455.0
+HOSP,Hot Springs,True,2010,1311807,12,59411.5,89299.0
+HOSP,Hot Springs,True,2011,1396354,12,63240.7,95055.0
+HOSP,Hot Springs,True,2012,1302505,12,58990.3,88666.0
+HOSP,Hot Springs,True,2013,1325719,12,60041.6,90246.0
+HOSP,Hot Springs,True,2014,1424484,12,64514.7,96970.0
+HOSP,Hot Springs,True,2015,1418162,12,64228.4,96539.0
+HOSP,Hot Springs,True,2016,1544300,12,69941.1,105126.0
+HOSP,Hot Springs,True,2017,1561616,12,70725.4,106305.0
+HOSP,Hot Springs,True,2018,1506887,12,68246.7,102579.0
+HOSP,Hot Springs,True,2019,1467153,12,66447.1,99874.0
+HOSP,Hot Springs,True,2020,1348215,12,61060.5,91778.0
+HOSP,Hot Springs,True,2021,2162884,12,97956.7,147235.0
+HOSP,Hot Springs,True,2022,2646133,12,119843.0,180132.0
+HOSP,Hot Springs,True,2023,2502967,12,113359.0,170386.0
+HOSP,Hot Springs,True,2024,2461812,12,111495.1,167584.0
+HOSP,Hot Springs,True,2025,2494611,12,112980.6,169817.0
+INDU,Indiana Dunes,True,1979,1606166,12,22549.0,55290.0
+INDU,Indiana Dunes,True,1980,1222874,12,17168.0,42095.0
+INDU,Indiana Dunes,True,1981,1023436,12,14368.0,35230.0
+INDU,Indiana Dunes,True,1982,1066573,12,14973.6,36715.0
+INDU,Indiana Dunes,True,1983,1510630,12,21207.8,52001.0
+INDU,Indiana Dunes,True,1984,1560428,12,21906.9,53715.0
+INDU,Indiana Dunes,True,1985,1800326,12,25274.8,61973.0
+INDU,Indiana Dunes,True,1986,1676583,12,23537.6,57714.0
+INDU,Indiana Dunes,True,1987,1576238,12,22128.9,54259.0
+INDU,Indiana Dunes,True,1988,1885376,12,26468.8,64901.0
+INDU,Indiana Dunes,True,1989,1791902,12,25156.6,61683.0
+INDU,Indiana Dunes,True,1990,1919901,12,26953.5,66090.0
+INDU,Indiana Dunes,True,1991,2058801,12,28903.6,70871.0
+INDU,Indiana Dunes,True,1992,1973098,12,27700.4,67921.0
+INDU,Indiana Dunes,True,1993,1763094,12,24752.1,60692.0
+INDU,Indiana Dunes,True,1994,1699958,12,23865.8,58518.0
+INDU,Indiana Dunes,True,1995,1696488,12,23817.0,58399.0
+INDU,Indiana Dunes,True,1996,1526166,12,21425.9,52536.0
+INDU,Indiana Dunes,True,1997,1483782,12,20830.9,51077.0
+INDU,Indiana Dunes,True,1998,2108789,12,29605.3,72592.0
+INDU,Indiana Dunes,True,1999,1748047,12,24540.9,60174.0
+INDU,Indiana Dunes,True,2000,1820228,12,25554.2,62658.0
+INDU,Indiana Dunes,True,2001,1735404,12,24363.4,59739.0
+INDU,Indiana Dunes,True,2002,1989941,12,27936.8,68501.0
+INDU,Indiana Dunes,True,2003,1953449,12,27424.5,67244.0
+INDU,Indiana Dunes,True,2004,1810330,12,25415.3,62318.0
+INDU,Indiana Dunes,True,2005,2127336,12,29865.7,73230.0
+INDU,Indiana Dunes,True,2006,1938132,12,27209.5,66717.0
+INDU,Indiana Dunes,True,2007,1972344,12,27689.8,67895.0
+INDU,Indiana Dunes,True,2008,1833596,12,25741.9,63119.0
+INDU,Indiana Dunes,True,2009,1944568,12,27299.8,66939.0
+INDU,Indiana Dunes,True,2010,2150345,12,30188.8,74022.0
+INDU,Indiana Dunes,True,2011,1840513,12,25839.0,63357.0
+INDU,Indiana Dunes,True,2012,1889381,12,26525.1,65039.0
+INDU,Indiana Dunes,True,2013,1681695,12,23609.4,57890.0
+INDU,Indiana Dunes,True,2014,1553372,12,21807.8,53472.0
+INDU,Indiana Dunes,True,2015,1640195,12,23026.7,56461.0
+INDU,Indiana Dunes,True,2016,1698223,12,23841.4,58459.0
+INDU,Indiana Dunes,True,2017,2158471,12,30302.8,74302.0
+INDU,Indiana Dunes,True,2018,1756079,12,24653.6,60450.0
+INDU,Indiana Dunes,True,2019,2134285,12,29963.3,73469.0
+INDU,Indiana Dunes,True,2020,2293106,12,32193.0,78937.0
+INDU,Indiana Dunes,True,2021,3177210,12,44604.9,109370.0
+INDU,Indiana Dunes,True,2022,2834180,12,39789.1,97562.0
+INDU,Indiana Dunes,True,2023,2765892,12,38830.4,95211.0
+INDU,Indiana Dunes,True,2024,2705209,12,37978.5,93123.0
+INDU,Indiana Dunes,True,2025,2629497,12,36915.6,90516.0
+ISRO,Isle Royale,False,1979,14782,12,,
+ISRO,Isle Royale,False,1980,14977,12,,
+ISRO,Isle Royale,False,1981,14558,12,,
+ISRO,Isle Royale,False,1982,13238,12,,
+ISRO,Isle Royale,False,1983,12928,12,,
+ISRO,Isle Royale,False,1984,11814,12,,
+ISRO,Isle Royale,False,1985,16775,12,,
+ISRO,Isle Royale,False,1986,26122,12,,
+ISRO,Isle Royale,False,1987,31760,12,,
+ISRO,Isle Royale,False,1988,26593,12,,
+ISRO,Isle Royale,False,1989,27133,12,,
+ISRO,Isle Royale,False,1990,23495,12,,
+ISRO,Isle Royale,False,1991,22004,12,,
+ISRO,Isle Royale,False,1992,22728,12,,
+ISRO,Isle Royale,False,1993,21983,12,,
+ISRO,Isle Royale,False,1994,24843,12,,
+ISRO,Isle Royale,False,1995,23470,12,,
+ISRO,Isle Royale,False,1996,23445,12,,
+ISRO,Isle Royale,False,1997,21381,12,,
+ISRO,Isle Royale,False,1998,23932,12,,
+ISRO,Isle Royale,False,1999,23493,12,,
+ISRO,Isle Royale,False,2000,21096,12,,
+ISRO,Isle Royale,False,2001,19431,12,,
+ISRO,Isle Royale,False,2002,19463,12,,
+ISRO,Isle Royale,False,2003,17800,12,,
+ISRO,Isle Royale,False,2004,17276,12,,
+ISRO,Isle Royale,False,2005,17398,12,,
+ISRO,Isle Royale,False,2006,17070,12,,
+ISRO,Isle Royale,False,2007,15973,12,,
+ISRO,Isle Royale,False,2008,14038,12,,
+ISRO,Isle Royale,False,2009,14653,12,,
+ISRO,Isle Royale,False,2010,15793,12,,
+ISRO,Isle Royale,False,2011,15892,12,,
+ISRO,Isle Royale,False,2012,16663,12,,
+ISRO,Isle Royale,False,2013,16274,12,,
+ISRO,Isle Royale,False,2014,14560,12,,
+ISRO,Isle Royale,False,2015,18684,12,,
+ISRO,Isle Royale,False,2016,24966,12,,
+ISRO,Isle Royale,False,2017,28196,12,,
+ISRO,Isle Royale,False,2018,25798,12,,
+ISRO,Isle Royale,False,2019,26410,12,,
+ISRO,Isle Royale,False,2020,6493,12,,
+ISRO,Isle Royale,False,2021,25844,12,,
+ISRO,Isle Royale,False,2022,25454,12,,
+ISRO,Isle Royale,False,2023,28965,12,,
+ISRO,Isle Royale,False,2024,28806,12,,
+ISRO,Isle Royale,False,2025,29091,12,,
+JEFF,Gateway Arch,True,1979,1859431,12,2353710.1,2479241.0
+JEFF,Gateway Arch,True,1980,1928825,12,2441550.6,2571767.0
+JEFF,Gateway Arch,True,1981,2282261,12,2888938.0,3043015.0
+JEFF,Gateway Arch,True,1982,2967323,12,3756105.1,3956431.0
+JEFF,Gateway Arch,True,1983,2948022,12,3731673.4,3930696.0
+JEFF,Gateway Arch,True,1984,1709993,12,2164548.1,2279991.0
+JEFF,Gateway Arch,True,1985,2140316,12,2709260.8,2853755.0
+JEFF,Gateway Arch,True,1986,2311147,12,2925502.5,3081529.0
+JEFF,Gateway Arch,True,1987,2364694,12,2993283.5,3152925.0
+JEFF,Gateway Arch,True,1988,2477458,12,3136022.8,3303277.0
+JEFF,Gateway Arch,True,1989,2518712,12,3188243.0,3358283.0
+JEFF,Gateway Arch,True,1990,2382612,12,3015964.6,3176816.0
+JEFF,Gateway Arch,True,1991,2622425,12,3319525.3,3496567.0
+JEFF,Gateway Arch,True,1992,2415514,12,3057612.7,3220685.0
+JEFF,Gateway Arch,True,1993,2539740,12,3214860.8,3386320.0
+JEFF,Gateway Arch,True,1994,2553696,12,3232526.6,3404928.0
+JEFF,Gateway Arch,True,1995,3234977,12,4094907.6,4313303.0
+JEFF,Gateway Arch,True,1996,3649308,12,4619377.2,4865744.0
+JEFF,Gateway Arch,True,1997,3420076,12,4329210.1,4560101.0
+JEFF,Gateway Arch,True,1998,3420352,12,4329559.5,4560469.0
+JEFF,Gateway Arch,True,1999,3481042,12,4406382.3,4641389.0
+JEFF,Gateway Arch,True,2000,3458956,12,4378425.3,4611941.0
+JEFF,Gateway Arch,True,2001,3532524,12,4471549.4,4710032.0
+JEFF,Gateway Arch,True,2002,3333454,12,4219562.0,4444605.0
+JEFF,Gateway Arch,True,2003,2685219,12,3399011.4,3580292.0
+JEFF,Gateway Arch,True,2004,2779350,12,3518164.6,3705800.0
+JEFF,Gateway Arch,True,2005,2944976,12,3727817.7,3926635.0
+JEFF,Gateway Arch,True,2006,2572072,12,3255787.3,3429429.0
+JEFF,Gateway Arch,True,2007,2385387,12,3019477.2,3180516.0
+JEFF,Gateway Arch,True,2008,1954810,12,2474443.0,2606413.0
+JEFF,Gateway Arch,True,2009,2360109,12,2987479.7,3146812.0
+JEFF,Gateway Arch,True,2010,2436110,12,3083683.5,3248147.0
+JEFF,Gateway Arch,True,2011,2259020,12,2859519.0,3012027.0
+JEFF,Gateway Arch,True,2012,2496726,12,3160412.7,3328968.0
+JEFF,Gateway Arch,True,2013,2377258,12,3009187.3,3169677.0
+JEFF,Gateway Arch,True,2014,1817091,12,2300115.2,2422788.0
+JEFF,Gateway Arch,True,2015,1698656,12,2150197.5,2264875.0
+JEFF,Gateway Arch,True,2016,1271855,12,1609943.0,1695807.0
+JEFF,Gateway Arch,True,2017,1398188,12,1769858.2,1864251.0
+JEFF,Gateway Arch,True,2018,2016180,12,2552126.6,2688240.0
+JEFF,Gateway Arch,True,2019,2055309,12,2601657.0,2740412.0
+JEFF,Gateway Arch,True,2020,486021,12,615216.5,648028.0
+JEFF,Gateway Arch,True,2021,1145081,12,1449469.6,1526775.0
+JEFF,Gateway Arch,True,2022,1618774,12,2049081.0,2158365.0
+JEFF,Gateway Arch,True,2023,2422836,12,3066881.0,3230448.0
+JEFF,Gateway Arch,True,2024,2563052,12,3244369.6,3417403.0
+JEFF,Gateway Arch,True,2025,2209028,12,2796238.0,2945371.0
+JOTR,Joshua Tree,True,1979,590543,12,183.0,5492.0
+JOTR,Joshua Tree,True,1980,545357,12,169.0,5072.0
+JOTR,Joshua Tree,True,1981,612966,12,189.9,5701.0
+JOTR,Joshua Tree,True,1982,673201,12,208.6,6261.0
+JOTR,Joshua Tree,True,1983,671426,12,208.0,6245.0
+JOTR,Joshua Tree,True,1984,663798,12,205.7,6174.0
+JOTR,Joshua Tree,True,1985,641172,12,198.7,5963.0
+JOTR,Joshua Tree,True,1986,783224,12,242.7,7284.0
+JOTR,Joshua Tree,True,1987,830085,12,257.2,7720.0
+JOTR,Joshua Tree,True,1988,955246,12,296.0,8884.0
+JOTR,Joshua Tree,True,1989,990214,12,306.8,9210.0
+JOTR,Joshua Tree,True,1990,1022396,12,316.8,9509.0
+JOTR,Joshua Tree,True,1991,1145458,12,354.9,10653.0
+JOTR,Joshua Tree,True,1992,1220539,12,378.2,11352.0
+JOTR,Joshua Tree,True,1993,1252401,12,388.1,11648.0
+JOTR,Joshua Tree,True,1994,1184871,12,367.1,11020.0
+JOTR,Joshua Tree,True,1995,1235702,12,382.9,11493.0
+JOTR,Joshua Tree,True,1996,1095046,12,339.3,10185.0
+JOTR,Joshua Tree,True,1997,1226273,12,380.0,11405.0
+JOTR,Joshua Tree,True,1998,1410312,12,437.0,13117.0
+JOTR,Joshua Tree,True,1999,1316340,12,407.9,12243.0
+JOTR,Joshua Tree,True,2000,1233935,12,382.3,11476.0
+JOTR,Joshua Tree,True,2001,1280917,12,396.9,11913.0
+JOTR,Joshua Tree,True,2002,1178376,12,365.1,10960.0
+JOTR,Joshua Tree,True,2003,1283346,12,397.7,11936.0
+JOTR,Joshua Tree,True,2004,1243659,12,385.4,11567.0
+JOTR,Joshua Tree,True,2005,1375111,12,426.1,12789.0
+JOTR,Joshua Tree,True,2006,1256421,12,389.3,11685.0
+JOTR,Joshua Tree,True,2007,1298979,12,402.5,12081.0
+JOTR,Joshua Tree,True,2008,1392446,12,431.5,12951.0
+JOTR,Joshua Tree,True,2009,1304471,12,404.2,12132.0
+JOTR,Joshua Tree,True,2010,1434976,12,444.6,13346.0
+JOTR,Joshua Tree,True,2011,1396237,12,432.6,12986.0
+JOTR,Joshua Tree,True,2012,1396117,12,432.6,12985.0
+JOTR,Joshua Tree,True,2013,1383340,12,428.6,12866.0
+JOTR,Joshua Tree,True,2014,1589904,12,492.6,14787.0
+JOTR,Joshua Tree,True,2015,2025756,12,627.7,18841.0
+JOTR,Joshua Tree,True,2016,2505286,12,776.3,23301.0
+JOTR,Joshua Tree,True,2017,2853619,12,884.2,26540.0
+JOTR,Joshua Tree,True,2018,2942382,12,911.7,27366.0
+JOTR,Joshua Tree,True,2019,2988547,12,926.0,27795.0
+JOTR,Joshua Tree,True,2020,2399542,12,743.5,22317.0
+JOTR,Joshua Tree,True,2021,3064400,12,949.5,28501.0
+JOTR,Joshua Tree,True,2022,3058294,12,947.6,28444.0
+JOTR,Joshua Tree,True,2023,3270404,12,1013.4,30417.0
+JOTR,Joshua Tree,True,2024,2991874,12,927.1,27826.0
+JOTR,Joshua Tree,True,2025,2932644,12,908.7,27275.0
+KATM,Katmai,False,1979,10659,12,,
+KATM,Katmai,False,1980,11824,12,,
+KATM,Katmai,False,1981,13115,12,,
+KATM,Katmai,False,1982,14377,12,,
+KATM,Katmai,False,1983,11182,12,,
+KATM,Katmai,False,1984,20074,12,,
+KATM,Katmai,False,1985,25142,12,,
+KATM,Katmai,False,1986,41663,12,,
+KATM,Katmai,False,1987,38212,12,,
+KATM,Katmai,False,1988,45710,12,,
+KATM,Katmai,False,1989,40247,12,,
+KATM,Katmai,False,1990,40778,12,,
+KATM,Katmai,False,1991,41417,12,,
+KATM,Katmai,False,1992,46196,12,,
+KATM,Katmai,False,1993,53421,12,,
+KATM,Katmai,False,1994,55728,12,,
+KATM,Katmai,False,1995,0,12,,
+KATM,Katmai,False,1997,18802,12,,
+KATM,Katmai,False,1998,45470,12,,
+KATM,Katmai,False,1999,51399,12,,
+KATM,Katmai,False,2000,71389,12,,
+KATM,Katmai,False,2001,67038,12,,
+KATM,Katmai,False,2002,59025,12,,
+KATM,Katmai,False,2003,51589,12,,
+KATM,Katmai,False,2004,56787,12,,
+KATM,Katmai,False,2005,54274,12,,
+KATM,Katmai,False,2006,68630,12,,
+KATM,Katmai,False,2007,82634,12,,
+KATM,Katmai,False,2008,7970,12,,
+KATM,Katmai,False,2009,43035,12,,
+KATM,Katmai,False,2010,55172,12,,
+KATM,Katmai,False,2011,48939,12,,
+KATM,Katmai,False,2012,39818,12,,
+KATM,Katmai,False,2013,28966,12,,
+KATM,Katmai,False,2014,30896,12,,
+KATM,Katmai,False,2015,37818,12,,
+KATM,Katmai,False,2016,37818,12,,
+KATM,Katmai,False,2017,37818,12,,
+KATM,Katmai,False,2018,37818,12,,
+KATM,Katmai,False,2019,84167,12,,
+KATM,Katmai,False,2020,51511,12,,
+KATM,Katmai,False,2021,24764,12,,
+KATM,Katmai,False,2022,33908,12,,
+KATM,Katmai,False,2023,33763,12,,
+KATM,Katmai,False,2024,36230,12,,
+KATM,Katmai,False,2025,34479,12,,
+KEFJ,Kenai Fjords,False,1982,16118,12,,
+KEFJ,Kenai Fjords,False,1983,24048,12,,
+KEFJ,Kenai Fjords,False,1984,30703,12,,
+KEFJ,Kenai Fjords,False,1985,35758,12,,
+KEFJ,Kenai Fjords,False,1986,54296,12,,
+KEFJ,Kenai Fjords,False,1987,60428,12,,
+KEFJ,Kenai Fjords,False,1988,59017,12,,
+KEFJ,Kenai Fjords,False,1989,75557,12,,
+KEFJ,Kenai Fjords,False,1990,66115,12,,
+KEFJ,Kenai Fjords,False,1991,107041,12,,
+KEFJ,Kenai Fjords,False,1992,108130,12,,
+KEFJ,Kenai Fjords,False,1993,189712,12,,
+KEFJ,Kenai Fjords,False,1994,209516,12,,
+KEFJ,Kenai Fjords,False,1995,230657,12,,
+KEFJ,Kenai Fjords,False,1996,274034,12,,
+KEFJ,Kenai Fjords,False,1997,306164,12,,
+KEFJ,Kenai Fjords,False,1998,263948,12,,
+KEFJ,Kenai Fjords,False,1999,290673,12,,
+KEFJ,Kenai Fjords,False,2000,254790,12,,
+KEFJ,Kenai Fjords,False,2001,262353,12,,
+KEFJ,Kenai Fjords,False,2002,251799,12,,
+KEFJ,Kenai Fjords,False,2003,243719,12,,
+KEFJ,Kenai Fjords,False,2004,244232,12,,
+KEFJ,Kenai Fjords,False,2005,258297,12,,
+KEFJ,Kenai Fjords,False,2006,251630,12,,
+KEFJ,Kenai Fjords,False,2007,284604,12,,
+KEFJ,Kenai Fjords,False,2008,272190,12,,
+KEFJ,Kenai Fjords,False,2009,218358,12,,
+KEFJ,Kenai Fjords,False,2010,297596,12,,
+KEFJ,Kenai Fjords,False,2011,346852,12,,
+KEFJ,Kenai Fjords,False,2012,281279,12,,
+KEFJ,Kenai Fjords,False,2013,283502,12,,
+KEFJ,Kenai Fjords,False,2014,270666,12,,
+KEFJ,Kenai Fjords,False,2015,296697,12,,
+KEFJ,Kenai Fjords,False,2016,346534,12,,
+KEFJ,Kenai Fjords,False,2017,303598,12,,
+KEFJ,Kenai Fjords,False,2018,321596,12,,
+KEFJ,Kenai Fjords,False,2019,356601,12,,
+KEFJ,Kenai Fjords,False,2020,115882,12,,
+KEFJ,Kenai Fjords,False,2021,411782,12,,
+KEFJ,Kenai Fjords,False,2022,389943,12,,
+KEFJ,Kenai Fjords,False,2023,387525,12,,
+KEFJ,Kenai Fjords,False,2024,419468,12,,
+KEFJ,Kenai Fjords,False,2025,425369,12,,
+KICA,Kings Canyon,False,1979,804175,12,,
+KICA,Kings Canyon,False,1980,819065,12,,
+KICA,Kings Canyon,False,1981,776850,12,,
+KICA,Kings Canyon,False,1982,831044,12,,
+KICA,Kings Canyon,False,1983,765755,12,,
+KICA,Kings Canyon,False,1984,937262,12,,
+KICA,Kings Canyon,False,1985,874456,12,,
+KICA,Kings Canyon,False,1986,1028785,12,,
+KICA,Kings Canyon,False,1987,1081172,12,,
+KICA,Kings Canyon,False,1988,1007695,12,,
+KICA,Kings Canyon,False,1989,1037349,12,,
+KICA,Kings Canyon,False,1990,1062867,12,,
+KICA,Kings Canyon,False,1991,1071022,12,,
+KICA,Kings Canyon,False,1992,637446,12,,
+KICA,Kings Canyon,False,1993,636515,12,,
+KICA,Kings Canyon,False,1994,725930,12,,
+KICA,Kings Canyon,False,1995,832794,12,,
+KICA,Kings Canyon,False,1996,502749,12,,
+KICA,Kings Canyon,False,1997,484718,12,,
+KICA,Kings Canyon,False,1998,540212,12,,
+KICA,Kings Canyon,False,1999,559534,12,,
+KICA,Kings Canyon,False,2000,528987,12,,
+KICA,Kings Canyon,False,2001,541787,12,,
+KICA,Kings Canyon,False,2002,545420,12,,
+KICA,Kings Canyon,False,2003,555987,12,,
+KICA,Kings Canyon,False,2004,525035,12,,
+KICA,Kings Canyon,False,2005,594893,12,,
+KICA,Kings Canyon,False,2006,552766,12,,
+KICA,Kings Canyon,False,2007,580129,12,,
+KICA,Kings Canyon,False,2008,574870,12,,
+KICA,Kings Canyon,False,2009,609296,12,,
+KICA,Kings Canyon,False,2010,598205,12,,
+KICA,Kings Canyon,False,2011,566810,12,,
+KICA,Kings Canyon,False,2012,591033,12,,
+KICA,Kings Canyon,False,2013,567544,12,,
+KICA,Kings Canyon,False,2014,502268,12,,
+KICA,Kings Canyon,False,2015,468106,12,,
+KICA,Kings Canyon,False,2016,607479,12,,
+KICA,Kings Canyon,False,2017,692932,12,,
+KICA,Kings Canyon,False,2018,699023,12,,
+KICA,Kings Canyon,False,2019,632110,12,,
+KICA,Kings Canyon,False,2020,415077,12,,
+KICA,Kings Canyon,False,2021,562918,12,,
+KICA,Kings Canyon,False,2022,640986,12,,
+KICA,Kings Canyon,False,2023,643065,12,,
+KICA,Kings Canyon,False,2024,699389,12,,
+KICA,Kings Canyon,False,2025,779791,12,,
+KOVA,Kobuk Valley,False,1982,3775,12,,
+KOVA,Kobuk Valley,False,1983,2365,12,,
+KOVA,Kobuk Valley,False,1984,1075,12,,
+KOVA,Kobuk Valley,False,1985,1305,12,,
+KOVA,Kobuk Valley,False,1986,1085,12,,
+KOVA,Kobuk Valley,False,1987,230,12,,
+KOVA,Kobuk Valley,False,1988,2275,12,,
+KOVA,Kobuk Valley,False,1989,1970,12,,
+KOVA,Kobuk Valley,False,1990,2586,12,,
+KOVA,Kobuk Valley,False,1991,2795,12,,
+KOVA,Kobuk Valley,False,1992,2829,12,,
+KOVA,Kobuk Valley,False,1993,2816,12,,
+KOVA,Kobuk Valley,False,1994,2781,12,,
+KOVA,Kobuk Valley,False,1995,2781,12,,
+KOVA,Kobuk Valley,False,1996,2781,12,,
+KOVA,Kobuk Valley,False,1997,2781,12,,
+KOVA,Kobuk Valley,False,1998,5550,12,,
+KOVA,Kobuk Valley,False,1999,6309,12,,
+KOVA,Kobuk Valley,False,2000,2646,12,,
+KOVA,Kobuk Valley,False,2001,4217,12,,
+KOVA,Kobuk Valley,False,2002,4046,12,,
+KOVA,Kobuk Valley,False,2003,4006,12,,
+KOVA,Kobuk Valley,False,2004,4744,12,,
+KOVA,Kobuk Valley,False,2005,5037,12,,
+KOVA,Kobuk Valley,False,2006,3005,12,,
+KOVA,Kobuk Valley,False,2007,847,12,,
+KOVA,Kobuk Valley,False,2008,1565,12,,
+KOVA,Kobuk Valley,False,2009,1879,12,,
+KOVA,Kobuk Valley,False,2010,3164,12,,
+KOVA,Kobuk Valley,False,2011,11485,12,,
+KOVA,Kobuk Valley,False,2012,29550,12,,
+KOVA,Kobuk Valley,False,2013,16875,12,,
+KOVA,Kobuk Valley,False,2014,0,12,,
+KOVA,Kobuk Valley,False,2015,0,12,,
+KOVA,Kobuk Valley,False,2016,15500,12,,
+KOVA,Kobuk Valley,False,2017,15500,12,,
+KOVA,Kobuk Valley,False,2018,14937,12,,
+KOVA,Kobuk Valley,False,2019,15766,12,,
+KOVA,Kobuk Valley,False,2020,11185,12,,
+KOVA,Kobuk Valley,False,2021,11540,12,,
+KOVA,Kobuk Valley,False,2022,16925,12,,
+KOVA,Kobuk Valley,False,2023,17616,12,,
+KOVA,Kobuk Valley,False,2024,17233,12,,
+KOVA,Kobuk Valley,False,2025,7786,12,,
+LACL,Lake Clark,False,1982,10440,12,,
+LACL,Lake Clark,False,1983,12332,12,,
+LACL,Lake Clark,False,1984,12505,12,,
+LACL,Lake Clark,False,1985,12701,12,,
+LACL,Lake Clark,False,1986,13611,12,,
+LACL,Lake Clark,False,1987,16418,12,,
+LACL,Lake Clark,False,1988,18863,12,,
+LACL,Lake Clark,False,1989,14879,12,,
+LACL,Lake Clark,False,1990,10196,12,,
+LACL,Lake Clark,False,1991,4133,12,,
+LACL,Lake Clark,False,1992,9233,12,,
+LACL,Lake Clark,False,1993,12153,12,,
+LACL,Lake Clark,False,1994,12143,12,,
+LACL,Lake Clark,False,1995,12698,12,,
+LACL,Lake Clark,False,1996,12727,12,,
+LACL,Lake Clark,False,1997,9173,12,,
+LACL,Lake Clark,False,1998,11335,12,,
+LACL,Lake Clark,False,1999,6190,12,,
+LACL,Lake Clark,False,2000,6493,12,,
+LACL,Lake Clark,False,2001,4397,12,,
+LACL,Lake Clark,False,2002,4325,12,,
+LACL,Lake Clark,False,2003,4505,12,,
+LACL,Lake Clark,False,2004,4906,12,,
+LACL,Lake Clark,False,2005,5408,12,,
+LACL,Lake Clark,False,2006,5320,12,,
+LACL,Lake Clark,False,2007,5549,12,,
+LACL,Lake Clark,False,2008,6802,12,,
+LACL,Lake Clark,False,2009,9711,12,,
+LACL,Lake Clark,False,2010,9931,12,,
+LACL,Lake Clark,False,2011,5158,12,,
+LACL,Lake Clark,False,2012,11639,12,,
+LACL,Lake Clark,False,2013,13000,12,,
+LACL,Lake Clark,False,2014,16100,12,,
+LACL,Lake Clark,False,2015,17818,12,,
+LACL,Lake Clark,False,2016,21102,12,,
+LACL,Lake Clark,False,2017,22755,12,,
+LACL,Lake Clark,False,2018,14479,12,,
+LACL,Lake Clark,False,2019,17157,12,,
+LACL,Lake Clark,False,2020,4948,12,,
+LACL,Lake Clark,False,2021,18278,12,,
+LACL,Lake Clark,False,2022,18187,12,,
+LACL,Lake Clark,False,2023,16728,12,,
+LACL,Lake Clark,False,2024,18505,12,,
+LACL,Lake Clark,False,2025,19778,12,,
+LAVO,Lassen Volcanic,False,1979,380014,12,,
+LAVO,Lassen Volcanic,False,1980,394425,12,,
+LAVO,Lassen Volcanic,False,1981,415045,12,,
+LAVO,Lassen Volcanic,False,1982,414859,12,,
+LAVO,Lassen Volcanic,False,1983,429867,12,,
+LAVO,Lassen Volcanic,False,1984,463275,12,,
+LAVO,Lassen Volcanic,False,1985,451497,12,,
+LAVO,Lassen Volcanic,False,1986,439723,12,,
+LAVO,Lassen Volcanic,False,1987,472431,12,,
+LAVO,Lassen Volcanic,False,1988,495628,12,,
+LAVO,Lassen Volcanic,False,1989,466115,12,,
+LAVO,Lassen Volcanic,False,1990,460917,12,,
+LAVO,Lassen Volcanic,False,1991,463179,12,,
+LAVO,Lassen Volcanic,False,1992,468011,12,,
+LAVO,Lassen Volcanic,False,1993,434264,12,,
+LAVO,Lassen Volcanic,False,1994,385489,12,,
+LAVO,Lassen Volcanic,False,1995,351001,12,,
+LAVO,Lassen Volcanic,False,1996,351632,12,,
+LAVO,Lassen Volcanic,False,1997,391816,12,,
+LAVO,Lassen Volcanic,False,1998,318049,12,,
+LAVO,Lassen Volcanic,False,1999,353756,12,,
+LAVO,Lassen Volcanic,False,2000,374911,12,,
+LAVO,Lassen Volcanic,False,2001,376695,12,,
+LAVO,Lassen Volcanic,False,2002,388149,12,,
+LAVO,Lassen Volcanic,False,2003,404384,12,,
+LAVO,Lassen Volcanic,False,2004,379667,12,,
+LAVO,Lassen Volcanic,False,2005,365535,12,,
+LAVO,Lassen Volcanic,False,2006,388741,12,,
+LAVO,Lassen Volcanic,False,2007,395057,12,,
+LAVO,Lassen Volcanic,False,2008,377361,12,,
+LAVO,Lassen Volcanic,False,2009,365639,12,,
+LAVO,Lassen Volcanic,False,2010,384570,12,,
+LAVO,Lassen Volcanic,False,2011,351269,12,,
+LAVO,Lassen Volcanic,False,2012,407653,12,,
+LAVO,Lassen Volcanic,False,2013,427409,12,,
+LAVO,Lassen Volcanic,False,2014,432977,12,,
+LAVO,Lassen Volcanic,False,2015,468092,12,,
+LAVO,Lassen Volcanic,False,2016,536068,12,,
+LAVO,Lassen Volcanic,False,2017,507256,12,,
+LAVO,Lassen Volcanic,False,2018,499435,12,,
+LAVO,Lassen Volcanic,False,2019,517039,12,,
+LAVO,Lassen Volcanic,False,2020,542274,12,,
+LAVO,Lassen Volcanic,False,2021,359635,12,,
+LAVO,Lassen Volcanic,False,2022,446291,12,,
+LAVO,Lassen Volcanic,False,2023,418978,12,,
+LAVO,Lassen Volcanic,False,2024,357651,12,,
+LAVO,Lassen Volcanic,False,2025,504777,12,,
+MACA,Mammoth Cave,False,1979,1384910,12,,
+MACA,Mammoth Cave,False,1980,1495787,12,,
+MACA,Mammoth Cave,False,1981,1404317,12,,
+MACA,Mammoth Cave,False,1982,1526676,12,,
+MACA,Mammoth Cave,False,1983,1498503,12,,
+MACA,Mammoth Cave,False,1984,1501450,12,,
+MACA,Mammoth Cave,False,1985,1507939,12,,
+MACA,Mammoth Cave,False,1986,1646673,12,,
+MACA,Mammoth Cave,False,1987,1636340,12,,
+MACA,Mammoth Cave,False,1988,1735610,12,,
+MACA,Mammoth Cave,False,1989,1672840,12,,
+MACA,Mammoth Cave,False,1990,1924538,12,,
+MACA,Mammoth Cave,False,1991,2158195,12,,
+MACA,Mammoth Cave,False,1992,2392858,12,,
+MACA,Mammoth Cave,False,1993,2396234,12,,
+MACA,Mammoth Cave,False,1994,2009935,12,,
+MACA,Mammoth Cave,False,1995,1935709,12,,
+MACA,Mammoth Cave,False,1996,1896829,12,,
+MACA,Mammoth Cave,False,1997,1997658,12,,
+MACA,Mammoth Cave,False,1998,2113992,12,,
+MACA,Mammoth Cave,False,1999,1710983,12,,
+MACA,Mammoth Cave,False,2000,1749268,12,,
+MACA,Mammoth Cave,False,2001,1883580,12,,
+MACA,Mammoth Cave,False,2002,1891307,12,,
+MACA,Mammoth Cave,False,2003,1869137,12,,
+MACA,Mammoth Cave,False,2004,1888267,12,,
+MACA,Mammoth Cave,False,2005,1878006,12,,
+MACA,Mammoth Cave,False,2006,597934,12,,
+MACA,Mammoth Cave,False,2007,487305,12,,
+MACA,Mammoth Cave,False,2008,446174,12,,
+MACA,Mammoth Cave,False,2009,503856,12,,
+MACA,Mammoth Cave,False,2010,497225,12,,
+MACA,Mammoth Cave,False,2011,483319,12,,
+MACA,Mammoth Cave,False,2012,508054,12,,
+MACA,Mammoth Cave,False,2013,494541,12,,
+MACA,Mammoth Cave,False,2014,522628,12,,
+MACA,Mammoth Cave,False,2015,566895,12,,
+MACA,Mammoth Cave,False,2016,586514,12,,
+MACA,Mammoth Cave,False,2017,587853,12,,
+MACA,Mammoth Cave,False,2018,533206,12,,
+MACA,Mammoth Cave,False,2019,551590,12,,
+MACA,Mammoth Cave,False,2020,290392,12,,
+MACA,Mammoth Cave,False,2021,515774,12,,
+MACA,Mammoth Cave,False,2022,663147,12,,
+MACA,Mammoth Cave,False,2023,654450,12,,
+MACA,Mammoth Cave,False,2024,747042,12,,
+MACA,Mammoth Cave,False,2025,660734,12,,
+MEVE,Mesa Verde,False,1979,473715,12,,
+MEVE,Mesa Verde,False,1980,539257,12,,
+MEVE,Mesa Verde,False,1981,588608,12,,
+MEVE,Mesa Verde,False,1982,602968,12,,
+MEVE,Mesa Verde,False,1983,604115,12,,
+MEVE,Mesa Verde,False,1984,516865,12,,
+MEVE,Mesa Verde,False,1985,656271,12,,
+MEVE,Mesa Verde,False,1986,658888,12,,
+MEVE,Mesa Verde,False,1987,728566,12,,
+MEVE,Mesa Verde,False,1988,772183,12,,
+MEVE,Mesa Verde,False,1989,600045,12,,
+MEVE,Mesa Verde,False,1990,611375,12,,
+MEVE,Mesa Verde,False,1991,678075,12,,
+MEVE,Mesa Verde,False,1992,742080,12,,
+MEVE,Mesa Verde,False,1993,666054,12,,
+MEVE,Mesa Verde,False,1994,685031,12,,
+MEVE,Mesa Verde,False,1995,663794,12,,
+MEVE,Mesa Verde,False,1996,617360,12,,
+MEVE,Mesa Verde,False,1997,627720,12,,
+MEVE,Mesa Verde,False,1998,604556,12,,
+MEVE,Mesa Verde,False,1999,635736,12,,
+MEVE,Mesa Verde,False,2000,452287,12,,
+MEVE,Mesa Verde,False,2001,513409,12,,
+MEVE,Mesa Verde,False,2002,406385,12,,
+MEVE,Mesa Verde,False,2003,438590,12,,
+MEVE,Mesa Verde,False,2004,446811,12,,
+MEVE,Mesa Verde,False,2005,498333,12,,
+MEVE,Mesa Verde,False,2006,557248,12,,
+MEVE,Mesa Verde,False,2007,541102,12,,
+MEVE,Mesa Verde,False,2008,551446,12,,
+MEVE,Mesa Verde,False,2009,550377,12,,
+MEVE,Mesa Verde,False,2010,559712,12,,
+MEVE,Mesa Verde,False,2011,572329,12,,
+MEVE,Mesa Verde,False,2012,488860,12,,
+MEVE,Mesa Verde,False,2013,460237,12,,
+MEVE,Mesa Verde,False,2014,501563,12,,
+MEVE,Mesa Verde,False,2015,547325,12,,
+MEVE,Mesa Verde,False,2016,583527,12,,
+MEVE,Mesa Verde,False,2017,613788,12,,
+MEVE,Mesa Verde,False,2018,563420,12,,
+MEVE,Mesa Verde,False,2019,556203,12,,
+MEVE,Mesa Verde,False,2020,287477,12,,
+MEVE,Mesa Verde,False,2021,548477,12,,
+MEVE,Mesa Verde,False,2022,499790,12,,
+MEVE,Mesa Verde,False,2023,505194,12,,
+MEVE,Mesa Verde,False,2024,480065,12,,
+MEVE,Mesa Verde,False,2025,463130,12,,
+MORA,Mount Rainier,True,1979,1516703,12,1585.1,18371.0
+MORA,Mount Rainier,True,1980,1268256,12,1325.5,15362.0
+MORA,Mount Rainier,True,1981,1233671,12,1289.3,14943.0
+MORA,Mount Rainier,True,1982,1007300,12,1052.7,12201.0
+MORA,Mount Rainier,True,1983,1106306,12,1156.2,13400.0
+MORA,Mount Rainier,True,1984,1152411,12,1204.4,13958.0
+MORA,Mount Rainier,True,1985,1165640,12,1218.2,14119.0
+MORA,Mount Rainier,True,1986,1298457,12,1357.0,15727.0
+MORA,Mount Rainier,True,1987,1292027,12,1350.3,15650.0
+MORA,Mount Rainier,True,1988,1255618,12,1312.3,15209.0
+MORA,Mount Rainier,True,1989,1354302,12,1415.4,16404.0
+MORA,Mount Rainier,True,1990,1327101,12,1387.0,16074.0
+MORA,Mount Rainier,True,1991,1549412,12,1619.3,18767.0
+MORA,Mount Rainier,True,1992,1522057,12,1590.7,18436.0
+MORA,Mount Rainier,True,1993,1365213,12,1426.8,16536.0
+MORA,Mount Rainier,True,1994,1426244,12,1490.6,17275.0
+MORA,Mount Rainier,True,1995,1438227,12,1503.1,17420.0
+MORA,Mount Rainier,True,1996,1338961,12,1399.4,16218.0
+MORA,Mount Rainier,True,1997,1315773,12,1375.1,15937.0
+MORA,Mount Rainier,True,1998,1353793,12,1414.9,16398.0
+MORA,Mount Rainier,True,1999,1291397,12,1349.7,15642.0
+MORA,Mount Rainier,True,2000,1344833,12,1405.5,16289.0
+MORA,Mount Rainier,True,2001,1301103,12,1359.8,15759.0
+MORA,Mount Rainier,True,2002,1310390,12,1369.5,15872.0
+MORA,Mount Rainier,True,2003,1262351,12,1319.3,15290.0
+MORA,Mount Rainier,True,2004,1217750,12,1272.7,14750.0
+MORA,Mount Rainier,True,2005,1173897,12,1226.9,14219.0
+MORA,Mount Rainier,True,2006,1113601,12,1163.8,13488.0
+MORA,Mount Rainier,True,2007,1047685,12,1095.0,12690.0
+MORA,Mount Rainier,True,2008,1163227,12,1215.7,14089.0
+MORA,Mount Rainier,True,2009,1151654,12,1203.6,13949.0
+MORA,Mount Rainier,True,2010,1191754,12,1245.5,14435.0
+MORA,Mount Rainier,True,2011,1038229,12,1085.1,12575.0
+MORA,Mount Rainier,True,2012,1049178,12,1096.5,12708.0
+MORA,Mount Rainier,True,2013,1148552,12,1200.4,13912.0
+MORA,Mount Rainier,True,2014,1264259,12,1321.3,15313.0
+MORA,Mount Rainier,True,2015,1237231,12,1293.1,14986.0
+MORA,Mount Rainier,True,2016,1356913,12,1418.1,16435.0
+MORA,Mount Rainier,True,2017,1415867,12,1479.7,17150.0
+MORA,Mount Rainier,True,2018,1518491,12,1587.0,18393.0
+MORA,Mount Rainier,True,2019,1501621,12,1569.4,18188.0
+MORA,Mount Rainier,True,2020,1160754,12,1213.1,14060.0
+MORA,Mount Rainier,True,2021,1670063,12,1745.4,20228.0
+MORA,Mount Rainier,True,2022,1622395,12,1695.6,19651.0
+MORA,Mount Rainier,True,2023,1674294,12,1749.8,20280.0
+MORA,Mount Rainier,True,2024,1620006,12,1693.1,19622.0
+MORA,Mount Rainier,True,2025,1635342,12,1709.1,19808.0
+NERI,New River Gorge,True,1984,231295,12,796.4,1916.0
+NERI,New River Gorge,True,1985,263021,12,905.6,2179.0
+NERI,New River Gorge,True,1986,394079,12,1356.8,3265.0
+NERI,New River Gorge,True,1987,436791,12,1503.9,3619.0
+NERI,New River Gorge,True,1988,399722,12,1376.3,3311.0
+NERI,New River Gorge,True,1989,411195,12,1415.8,3406.0
+NERI,New River Gorge,True,1990,378035,12,1301.6,3132.0
+NERI,New River Gorge,True,1991,772172,12,2658.6,6397.0
+NERI,New River Gorge,True,1992,940310,12,3237.5,7790.0
+NERI,New River Gorge,True,1993,1005598,12,3462.3,8331.0
+NERI,New River Gorge,True,1994,1079994,12,3718.5,8947.0
+NERI,New River Gorge,True,1995,1177238,12,4053.3,9753.0
+NERI,New River Gorge,True,1996,1237637,12,4261.2,10253.0
+NERI,New River Gorge,True,1997,1228242,12,4228.9,10175.0
+NERI,New River Gorge,True,1998,1197649,12,4123.6,9922.0
+NERI,New River Gorge,True,1999,1186501,12,4085.2,9829.0
+NERI,New River Gorge,True,2000,1132531,12,3899.4,9382.0
+NERI,New River Gorge,True,2001,1231529,12,4240.2,10202.0
+NERI,New River Gorge,True,2002,1215875,12,4186.3,10073.0
+NERI,New River Gorge,True,2003,1111164,12,3825.8,9205.0
+NERI,New River Gorge,True,2004,1151782,12,3965.6,9542.0
+NERI,New River Gorge,True,2005,1045814,12,3600.8,8664.0
+NERI,New River Gorge,True,2006,1124688,12,3872.4,9317.0
+NERI,New River Gorge,True,2007,1178012,12,4056.0,9759.0
+NERI,New River Gorge,True,2008,1212854,12,4175.9,10048.0
+NERI,New River Gorge,True,2009,1144318,12,3939.9,9480.0
+NERI,New River Gorge,True,2010,1151213,12,3963.7,9537.0
+NERI,New River Gorge,True,2011,1071088,12,3687.8,8873.0
+NERI,New River Gorge,True,2012,1128195,12,3884.4,9346.0
+NERI,New River Gorge,True,2013,1071823,12,3690.3,8879.0
+NERI,New River Gorge,True,2014,1124799,12,3872.7,9318.0
+NERI,New River Gorge,True,2015,1178753,12,4058.5,9765.0
+NERI,New River Gorge,True,2016,1197931,12,4124.5,9924.0
+NERI,New River Gorge,True,2017,1168658,12,4023.8,9682.0
+NERI,New River Gorge,True,2018,1232627,12,4244.0,10211.0
+NERI,New River Gorge,True,2019,1195721,12,4116.9,9906.0
+NERI,New River Gorge,True,2020,1054374,12,3630.3,8735.0
+NERI,New River Gorge,True,2021,1682720,12,5793.7,13940.0
+NERI,New River Gorge,True,2022,1593523,12,5486.6,13201.0
+NERI,New River Gorge,True,2023,1707223,12,5878.1,14143.0
+NERI,New River Gorge,True,2024,1811937,12,6238.6,15011.0
+NERI,New River Gorge,True,2025,1958440,12,6743.0,16224.0
+NOCA,North Cascades,False,1979,742997,12,,
+NOCA,North Cascades,False,1980,796079,12,,
+NOCA,North Cascades,False,1981,829026,12,,
+NOCA,North Cascades,False,1982,857016,12,,
+NOCA,North Cascades,False,1983,858041,12,,
+NOCA,North Cascades,False,1984,637836,12,,
+NOCA,North Cascades,False,1985,629234,12,,
+NOCA,North Cascades,False,1986,683056,12,,
+NOCA,North Cascades,False,1987,651606,12,,
+NOCA,North Cascades,False,1988,605967,12,,
+NOCA,North Cascades,False,1989,391433,12,,
+NOCA,North Cascades,False,1990,456444,12,,
+NOCA,North Cascades,False,1991,22796,12,,
+NOCA,North Cascades,False,1992,20295,12,,
+NOCA,North Cascades,False,1993,21378,12,,
+NOCA,North Cascades,False,1994,19323,12,,
+NOCA,North Cascades,False,1995,65984,12,,
+NOCA,North Cascades,False,1996,27910,12,,
+NOCA,North Cascades,False,1997,27203,12,,
+NOCA,North Cascades,False,1998,32753,12,,
+NOCA,North Cascades,False,1999,21488,12,,
+NOCA,North Cascades,False,2000,25704,12,,
+NOCA,North Cascades,False,2001,27739,12,,
+NOCA,North Cascades,False,2002,20691,12,,
+NOCA,North Cascades,False,2003,20724,12,,
+NOCA,North Cascades,False,2004,16912,12,,
+NOCA,North Cascades,False,2005,18686,12,,
+NOCA,North Cascades,False,2006,19167,12,,
+NOCA,North Cascades,False,2007,19534,12,,
+NOCA,North Cascades,False,2008,18725,12,,
+NOCA,North Cascades,False,2009,26972,12,,
+NOCA,North Cascades,False,2010,24659,12,,
+NOCA,North Cascades,False,2011,19208,12,,
+NOCA,North Cascades,False,2012,26935,12,,
+NOCA,North Cascades,False,2013,21623,12,,
+NOCA,North Cascades,False,2014,23865,12,,
+NOCA,North Cascades,False,2015,20677,12,,
+NOCA,North Cascades,False,2016,28646,12,,
+NOCA,North Cascades,False,2017,30326,12,,
+NOCA,North Cascades,False,2018,30085,12,,
+NOCA,North Cascades,False,2019,38208,12,,
+NOCA,North Cascades,False,2020,30885,12,,
+NOCA,North Cascades,False,2021,17855,12,,
+NOCA,North Cascades,False,2022,30154,12,,
+NOCA,North Cascades,False,2023,40351,12,,
+NOCA,North Cascades,False,2024,16485,12,,
+NOCA,North Cascades,False,2025,46925,12,,
+NPSA,National Park of American Samoa,False,2002,1938,12,,
+NPSA,National Park of American Samoa,False,2003,0,12,,
+NPSA,National Park of American Samoa,False,2006,1239,12,,
+NPSA,National Park of American Samoa,False,2007,6774,12,,
+NPSA,National Park of American Samoa,False,2008,3683,12,,
+NPSA,National Park of American Samoa,False,2009,3242,12,,
+NPSA,National Park of American Samoa,False,2010,3006,12,,
+NPSA,National Park of American Samoa,False,2011,8716,12,,
+NPSA,National Park of American Samoa,False,2012,10440,12,,
+NPSA,National Park of American Samoa,False,2013,17919,12,,
+NPSA,National Park of American Samoa,False,2014,13953,12,,
+NPSA,National Park of American Samoa,False,2015,13892,12,,
+NPSA,National Park of American Samoa,False,2016,28892,12,,
+NPSA,National Park of American Samoa,False,2017,69468,12,,
+NPSA,National Park of American Samoa,False,2018,28626,12,,
+NPSA,National Park of American Samoa,False,2019,60006,12,,
+NPSA,National Park of American Samoa,False,2020,4819,12,,
+NPSA,National Park of American Samoa,False,2021,8495,12,,
+NPSA,National Park of American Samoa,False,2022,1887,12,,
+NPSA,National Park of American Samoa,False,2023,12135,12,,
+NPSA,National Park of American Samoa,False,2024,22567,12,,
+NPSA,National Park of American Samoa,False,2025,43258,12,,
+OLYM,Olympic,True,1979,2078843,12,559.3,21324.0
+OLYM,Olympic,True,1980,2032418,12,546.8,20847.0
+OLYM,Olympic,True,1981,2306032,12,620.4,23654.0
+OLYM,Olympic,True,1982,2478739,12,666.8,25426.0
+OLYM,Olympic,True,1983,2410722,12,648.5,24728.0
+OLYM,Olympic,True,1984,2759011,12,742.2,28300.0
+OLYM,Olympic,True,1985,2532145,12,681.2,25973.0
+OLYM,Olympic,True,1986,2940034,12,790.9,30157.0
+OLYM,Olympic,True,1987,2822850,12,759.4,28955.0
+OLYM,Olympic,True,1988,2959122,12,796.1,30353.0
+OLYM,Olympic,True,1989,2737611,12,736.5,28081.0
+OLYM,Olympic,True,1990,2794903,12,751.9,28669.0
+OLYM,Olympic,True,1991,2759673,12,742.4,28307.0
+OLYM,Olympic,True,1992,3030195,12,815.2,31082.0
+OLYM,Olympic,True,1993,2679598,12,720.9,27486.0
+OLYM,Olympic,True,1994,3381573,12,909.7,34686.0
+OLYM,Olympic,True,1995,3658615,12,984.3,37528.0
+OLYM,Olympic,True,1996,3348723,12,900.9,34349.0
+OLYM,Olympic,True,1997,3846709,12,1034.9,39457.0
+OLYM,Olympic,True,1998,3577007,12,962.3,36691.0
+OLYM,Olympic,True,1999,3364266,12,905.1,34509.0
+OLYM,Olympic,True,2000,3327722,12,895.2,34134.0
+OLYM,Olympic,True,2001,3416069,12,919.0,35040.0
+OLYM,Olympic,True,2002,3691310,12,993.1,37863.0
+OLYM,Olympic,True,2003,3225327,12,867.7,33084.0
+OLYM,Olympic,True,2004,3073722,12,826.9,31529.0
+OLYM,Olympic,True,2005,3142774,12,845.5,32237.0
+OLYM,Olympic,True,2006,2749197,12,739.6,28200.0
+OLYM,Olympic,True,2007,2988686,12,804.0,30656.0
+OLYM,Olympic,True,2008,3081451,12,829.0,31608.0
+OLYM,Olympic,True,2009,3276459,12,881.5,33608.0
+OLYM,Olympic,True,2010,2844563,12,765.3,29178.0
+OLYM,Olympic,True,2011,2966502,12,798.1,30429.0
+OLYM,Olympic,True,2012,2824908,12,760.0,28976.0
+OLYM,Olympic,True,2013,3085340,12,830.0,31648.0
+OLYM,Olympic,True,2014,3243872,12,872.7,33274.0
+OLYM,Olympic,True,2015,3263761,12,878.0,33478.0
+OLYM,Olympic,True,2016,3390221,12,912.1,34775.0
+OLYM,Olympic,True,2017,3401996,12,915.2,34896.0
+OLYM,Olympic,True,2018,3104455,12,835.2,31844.0
+OLYM,Olympic,True,2019,3245806,12,873.2,33294.0
+OLYM,Olympic,True,2020,2499177,12,672.3,25635.0
+OLYM,Olympic,True,2021,2718925,12,731.5,27889.0
+OLYM,Olympic,True,2022,2432972,12,654.5,24956.0
+OLYM,Olympic,True,2023,2947503,12,793.0,30234.0
+OLYM,Olympic,True,2024,3717267,12,1000.0,38130.0
+OLYM,Olympic,True,2025,3584187,12,964.2,36765.0
+PEFO,Petrified Forest,False,1979,671583,12,,
+PEFO,Petrified Forest,False,1980,683121,12,,
+PEFO,Petrified Forest,False,1981,747832,12,,
+PEFO,Petrified Forest,False,1982,710619,12,,
+PEFO,Petrified Forest,False,1983,708512,12,,
+PEFO,Petrified Forest,False,1984,714761,12,,
+PEFO,Petrified Forest,False,1985,736659,12,,
+PEFO,Petrified Forest,False,1986,761257,12,,
+PEFO,Petrified Forest,False,1987,758082,12,,
+PEFO,Petrified Forest,False,1988,857031,12,,
+PEFO,Petrified Forest,False,1989,824141,12,,
+PEFO,Petrified Forest,False,1990,844592,12,,
+PEFO,Petrified Forest,False,1991,874521,12,,
+PEFO,Petrified Forest,False,1992,930031,12,,
+PEFO,Petrified Forest,False,1993,936429,12,,
+PEFO,Petrified Forest,False,1994,922927,12,,
+PEFO,Petrified Forest,False,1995,935065,12,,
+PEFO,Petrified Forest,False,1996,829495,12,,
+PEFO,Petrified Forest,False,1997,823266,12,,
+PEFO,Petrified Forest,False,1998,816506,12,,
+PEFO,Petrified Forest,False,1999,666978,12,,
+PEFO,Petrified Forest,False,2000,605192,12,,
+PEFO,Petrified Forest,False,2001,583904,12,,
+PEFO,Petrified Forest,False,2002,571586,12,,
+PEFO,Petrified Forest,False,2003,586245,12,,
+PEFO,Petrified Forest,False,2004,580000,12,,
+PEFO,Petrified Forest,False,2005,598378,12,,
+PEFO,Petrified Forest,False,2006,581681,12,,
+PEFO,Petrified Forest,False,2007,563590,12,,
+PEFO,Petrified Forest,False,2008,543714,12,,
+PEFO,Petrified Forest,False,2009,631613,12,,
+PEFO,Petrified Forest,False,2010,664725,12,,
+PEFO,Petrified Forest,False,2011,614054,12,,
+PEFO,Petrified Forest,False,2012,664857,12,,
+PEFO,Petrified Forest,False,2013,644648,12,,
+PEFO,Petrified Forest,False,2014,836799,12,,
+PEFO,Petrified Forest,False,2015,793225,12,,
+PEFO,Petrified Forest,False,2016,643274,12,,
+PEFO,Petrified Forest,False,2017,627757,12,,
+PEFO,Petrified Forest,False,2018,644922,12,,
+PEFO,Petrified Forest,False,2019,643588,12,,
+PEFO,Petrified Forest,False,2020,384483,12,,
+PEFO,Petrified Forest,False,2021,590334,12,,
+PEFO,Petrified Forest,False,2022,505209,12,,
+PEFO,Petrified Forest,False,2023,520491,12,,
+PEFO,Petrified Forest,False,2024,559254,12,,
+PEFO,Petrified Forest,False,2025,315951,12,,
+PINN,Pinnacles,False,1979,153717,12,,
+PINN,Pinnacles,False,1980,163626,12,,
+PINN,Pinnacles,False,1981,155205,12,,
+PINN,Pinnacles,False,1982,171026,12,,
+PINN,Pinnacles,False,1983,170631,12,,
+PINN,Pinnacles,False,1984,166258,12,,
+PINN,Pinnacles,False,1985,191578,12,,
+PINN,Pinnacles,False,1986,198236,12,,
+PINN,Pinnacles,False,1987,204705,12,,
+PINN,Pinnacles,False,1988,212094,12,,
+PINN,Pinnacles,False,1989,218601,12,,
+PINN,Pinnacles,False,1990,214268,12,,
+PINN,Pinnacles,False,1991,192610,12,,
+PINN,Pinnacles,False,1992,191683,12,,
+PINN,Pinnacles,False,1993,194757,12,,
+PINN,Pinnacles,False,1994,172642,12,,
+PINN,Pinnacles,False,1995,177527,12,,
+PINN,Pinnacles,False,1996,164465,12,,
+PINN,Pinnacles,False,1997,171971,12,,
+PINN,Pinnacles,False,1998,94639,12,,
+PINN,Pinnacles,False,1999,164854,12,,
+PINN,Pinnacles,False,2000,162110,12,,
+PINN,Pinnacles,False,2001,178243,12,,
+PINN,Pinnacles,False,2002,162266,12,,
+PINN,Pinnacles,False,2003,162791,12,,
+PINN,Pinnacles,False,2004,157397,12,,
+PINN,Pinnacles,False,2005,170994,12,,
+PINN,Pinnacles,False,2006,158824,12,,
+PINN,Pinnacles,False,2007,161019,12,,
+PINN,Pinnacles,False,2008,166988,12,,
+PINN,Pinnacles,False,2009,171112,12,,
+PINN,Pinnacles,False,2010,246575,12,,
+PINN,Pinnacles,False,2011,393219,12,,
+PINN,Pinnacles,False,2012,224476,12,,
+PINN,Pinnacles,False,2013,237677,12,,
+PINN,Pinnacles,False,2014,196635,12,,
+PINN,Pinnacles,False,2015,206533,12,,
+PINN,Pinnacles,False,2016,215555,12,,
+PINN,Pinnacles,False,2017,233334,12,,
+PINN,Pinnacles,False,2018,222152,12,,
+PINN,Pinnacles,False,2019,177224,12,,
+PINN,Pinnacles,False,2020,165740,12,,
+PINN,Pinnacles,False,2021,348857,12,,
+PINN,Pinnacles,False,2022,275023,12,,
+PINN,Pinnacles,False,2023,341220,12,,
+PINN,Pinnacles,False,2024,354076,12,,
+PINN,Pinnacles,False,2025,343208,12,,
+REDW,Redwood,False,1979,413917,12,,
+REDW,Redwood,False,1980,471710,12,,
+REDW,Redwood,False,1981,549461,12,,
+REDW,Redwood,False,1982,467126,12,,
+REDW,Redwood,False,1983,473711,12,,
+REDW,Redwood,False,1984,467155,12,,
+REDW,Redwood,False,1985,505791,12,,
+REDW,Redwood,False,1986,567849,12,,
+REDW,Redwood,False,1987,610897,12,,
+REDW,Redwood,False,1988,677135,12,,
+REDW,Redwood,False,1989,654115,12,,
+REDW,Redwood,False,1990,348458,12,,
+REDW,Redwood,False,1991,366280,12,,
+REDW,Redwood,False,1992,387781,12,,
+REDW,Redwood,False,1993,421027,12,,
+REDW,Redwood,False,1994,475033,12,,
+REDW,Redwood,False,1995,552464,12,,
+REDW,Redwood,False,1996,426938,12,,
+REDW,Redwood,False,1997,382488,12,,
+REDW,Redwood,False,1998,383188,12,,
+REDW,Redwood,False,1999,369726,12,,
+REDW,Redwood,False,2000,383253,12,,
+REDW,Redwood,False,2001,388352,12,,
+REDW,Redwood,False,2002,404789,12,,
+REDW,Redwood,False,2003,408126,12,,
+REDW,Redwood,False,2004,392029,12,,
+REDW,Redwood,False,2005,394144,12,,
+REDW,Redwood,False,2006,383780,12,,
+REDW,Redwood,False,2007,385171,12,,
+REDW,Redwood,False,2008,396899,12,,
+REDW,Redwood,False,2009,444426,12,,
+REDW,Redwood,False,2010,418820,12,,
+REDW,Redwood,False,2011,380167,12,,
+REDW,Redwood,False,2012,352517,12,,
+REDW,Redwood,False,2013,393364,12,,
+REDW,Redwood,False,2014,429166,12,,
+REDW,Redwood,False,2015,527143,12,,
+REDW,Redwood,False,2016,536297,12,,
+REDW,Redwood,False,2017,445000,12,,
+REDW,Redwood,False,2018,482536,12,,
+REDW,Redwood,False,2019,504722,12,,
+REDW,Redwood,False,2020,265177,12,,
+REDW,Redwood,False,2021,435879,12,,
+REDW,Redwood,False,2022,458400,12,,
+REDW,Redwood,False,2023,409105,12,,
+REDW,Redwood,False,2024,622883,12,,
+REDW,Redwood,False,2025,1202480,12,,
+ROMO,Rocky Mountain,True,1979,2568530,12,2376.4,27486.0
+ROMO,Rocky Mountain,True,1980,2641937,12,2444.4,28271.0
+ROMO,Rocky Mountain,True,1981,2911242,12,2693.5,31153.0
+ROMO,Rocky Mountain,True,1982,2564116,12,2372.4,27438.0
+ROMO,Rocky Mountain,True,1983,2599006,12,2404.6,27812.0
+ROMO,Rocky Mountain,True,1984,2231448,12,2064.6,23879.0
+ROMO,Rocky Mountain,True,1985,2248854,12,2080.7,24065.0
+ROMO,Rocky Mountain,True,1986,2408234,12,2228.1,25770.0
+ROMO,Rocky Mountain,True,1987,2531864,12,2342.5,27093.0
+ROMO,Rocky Mountain,True,1988,2544211,12,2353.9,27225.0
+ROMO,Rocky Mountain,True,1989,2502915,12,2315.7,26783.0
+ROMO,Rocky Mountain,True,1990,2647323,12,2449.3,28329.0
+ROMO,Rocky Mountain,True,1991,2751781,12,2546.0,29447.0
+ROMO,Rocky Mountain,True,1992,2788868,12,2580.3,29843.0
+ROMO,Rocky Mountain,True,1993,2780342,12,2572.4,29752.0
+ROMO,Rocky Mountain,True,1994,2968450,12,2746.5,31765.0
+ROMO,Rocky Mountain,True,1995,2878169,12,2662.9,30799.0
+ROMO,Rocky Mountain,True,1996,2923755,12,2705.1,31287.0
+ROMO,Rocky Mountain,True,1997,2965354,12,2743.6,31732.0
+ROMO,Rocky Mountain,True,1998,3035422,12,2808.4,32482.0
+ROMO,Rocky Mountain,True,1999,3186323,12,2948.0,34097.0
+ROMO,Rocky Mountain,True,2000,3185392,12,2947.2,34087.0
+ROMO,Rocky Mountain,True,2001,3139685,12,2904.9,33597.0
+ROMO,Rocky Mountain,True,2002,2988475,12,2765.0,31979.0
+ROMO,Rocky Mountain,True,2003,3067256,12,2837.9,32822.0
+ROMO,Rocky Mountain,True,2004,2781899,12,2573.9,29769.0
+ROMO,Rocky Mountain,True,2005,2798368,12,2589.1,29945.0
+ROMO,Rocky Mountain,True,2006,2743676,12,2538.5,29360.0
+ROMO,Rocky Mountain,True,2007,2895383,12,2678.9,30983.0
+ROMO,Rocky Mountain,True,2008,2757390,12,2551.2,29507.0
+ROMO,Rocky Mountain,True,2009,2822325,12,2611.3,30201.0
+ROMO,Rocky Mountain,True,2010,2955821,12,2734.8,31630.0
+ROMO,Rocky Mountain,True,2011,3176941,12,2939.4,33996.0
+ROMO,Rocky Mountain,True,2012,3229617,12,2988.1,34560.0
+ROMO,Rocky Mountain,True,2013,2991141,12,2767.4,32008.0
+ROMO,Rocky Mountain,True,2014,3434751,12,3177.9,36755.0
+ROMO,Rocky Mountain,True,2015,4155916,12,3845.1,44472.0
+ROMO,Rocky Mountain,True,2016,4517585,12,4179.7,48342.0
+ROMO,Rocky Mountain,True,2017,4437215,12,4105.4,47482.0
+ROMO,Rocky Mountain,True,2018,4590493,12,4247.2,49122.0
+ROMO,Rocky Mountain,True,2019,4670053,12,4320.8,49974.0
+ROMO,Rocky Mountain,True,2020,3305199,12,3058.0,35369.0
+ROMO,Rocky Mountain,True,2021,4434848,12,4103.2,47457.0
+ROMO,Rocky Mountain,True,2022,4300424,12,3978.8,46018.0
+ROMO,Rocky Mountain,True,2023,4115837,12,3808.0,44043.0
+ROMO,Rocky Mountain,True,2024,4154349,12,3843.7,44455.0
+ROMO,Rocky Mountain,True,2025,4171431,12,3859.5,44638.0
+SAGU,Saguaro,False,1979,566486,12,,
+SAGU,Saguaro,False,1980,611317,12,,
+SAGU,Saguaro,False,1981,470598,12,,
+SAGU,Saguaro,False,1982,566807,12,,
+SAGU,Saguaro,False,1983,634688,12,,
+SAGU,Saguaro,False,1984,699292,12,,
+SAGU,Saguaro,False,1985,636711,12,,
+SAGU,Saguaro,False,1986,613651,12,,
+SAGU,Saguaro,False,1987,689933,12,,
+SAGU,Saguaro,False,1988,675397,12,,
+SAGU,Saguaro,False,1989,706191,12,,
+SAGU,Saguaro,False,1990,702328,12,,
+SAGU,Saguaro,False,1991,679034,12,,
+SAGU,Saguaro,False,1992,810059,12,,
+SAGU,Saguaro,False,1993,828267,12,,
+SAGU,Saguaro,False,1994,768685,12,,
+SAGU,Saguaro,False,1995,732813,12,,
+SAGU,Saguaro,False,1996,671643,12,,
+SAGU,Saguaro,False,1997,739410,12,,
+SAGU,Saguaro,False,1998,716160,12,,
+SAGU,Saguaro,False,1999,749014,12,,
+SAGU,Saguaro,False,2000,765195,12,,
+SAGU,Saguaro,False,2001,725874,12,,
+SAGU,Saguaro,False,2002,615045,12,,
+SAGU,Saguaro,False,2003,643697,12,,
+SAGU,Saguaro,False,2004,651464,12,,
+SAGU,Saguaro,False,2005,727208,12,,
+SAGU,Saguaro,False,2006,619983,12,,
+SAGU,Saguaro,False,2007,658477,12,,
+SAGU,Saguaro,False,2008,699137,12,,
+SAGU,Saguaro,False,2009,665234,12,,
+SAGU,Saguaro,False,2010,717614,12,,
+SAGU,Saguaro,False,2011,610045,12,,
+SAGU,Saguaro,False,2012,634286,12,,
+SAGU,Saguaro,False,2013,678261,12,,
+SAGU,Saguaro,False,2014,673572,12,,
+SAGU,Saguaro,False,2015,753446,12,,
+SAGU,Saguaro,False,2016,820426,12,,
+SAGU,Saguaro,False,2017,964760,12,,
+SAGU,Saguaro,False,2018,957405,12,,
+SAGU,Saguaro,False,2019,1020226,12,,
+SAGU,Saguaro,False,2020,762226,12,,
+SAGU,Saguaro,False,2021,1079786,12,,
+SAGU,Saguaro,False,2022,908194,12,,
+SAGU,Saguaro,False,2023,1010906,12,,
+SAGU,Saguaro,False,2024,946369,12,,
+SAGU,Saguaro,False,2025,847749,12,,
+SEQU,Sequoia,False,1979,799576,12,,
+SEQU,Sequoia,False,1980,862397,12,,
+SEQU,Sequoia,False,1981,1083002,12,,
+SEQU,Sequoia,False,1982,1020500,12,,
+SEQU,Sequoia,False,1983,854233,12,,
+SEQU,Sequoia,False,1984,979632,12,,
+SEQU,Sequoia,False,1985,939468,12,,
+SEQU,Sequoia,False,1986,1056527,12,,
+SEQU,Sequoia,False,1987,1139389,12,,
+SEQU,Sequoia,False,1988,1031129,12,,
+SEQU,Sequoia,False,1989,1056020,12,,
+SEQU,Sequoia,False,1990,1063538,12,,
+SEQU,Sequoia,False,1991,1120278,12,,
+SEQU,Sequoia,False,1992,961095,12,,
+SEQU,Sequoia,False,1993,1066552,12,,
+SEQU,Sequoia,False,1994,1034133,12,,
+SEQU,Sequoia,False,1995,844582,12,,
+SEQU,Sequoia,False,1996,838060,12,,
+SEQU,Sequoia,False,1997,1008931,12,,
+SEQU,Sequoia,False,1998,861303,12,,
+SEQU,Sequoia,False,1999,873229,12,,
+SEQU,Sequoia,False,2000,838947,12,,
+SEQU,Sequoia,False,2001,870327,12,,
+SEQU,Sequoia,False,2002,920292,12,,
+SEQU,Sequoia,False,2003,979297,12,,
+SEQU,Sequoia,False,2004,1000177,12,,
+SEQU,Sequoia,False,2005,1004843,12,,
+SEQU,Sequoia,False,2006,954507,12,,
+SEQU,Sequoia,False,2007,979537,12,,
+SEQU,Sequoia,False,2008,930011,12,,
+SEQU,Sequoia,False,2009,965170,12,,
+SEQU,Sequoia,False,2010,1002979,12,,
+SEQU,Sequoia,False,2011,1006583,12,,
+SEQU,Sequoia,False,2012,1106584,12,,
+SEQU,Sequoia,False,2013,909274,12,,
+SEQU,Sequoia,False,2014,1039137,12,,
+SEQU,Sequoia,False,2015,1097464,12,,
+SEQU,Sequoia,False,2016,1254688,12,,
+SEQU,Sequoia,False,2017,1291256,12,,
+SEQU,Sequoia,False,2018,1229594,12,,
+SEQU,Sequoia,False,2019,1246053,12,,
+SEQU,Sequoia,False,2020,796086,12,,
+SEQU,Sequoia,False,2021,1059548,12,,
+SEQU,Sequoia,False,2022,1153198,12,,
+SEQU,Sequoia,False,2023,980567,12,,
+SEQU,Sequoia,False,2024,1309573,12,,
+SEQU,Sequoia,False,2025,1378337,12,,
+SHEN,Shenandoah,True,1979,1521451,12,1903.1,10527.0
+SHEN,Shenandoah,True,1980,1699228,12,2125.4,11757.0
+SHEN,Shenandoah,True,1981,1819546,12,2275.9,12589.0
+SHEN,Shenandoah,True,1982,1751972,12,2191.4,12122.0
+SHEN,Shenandoah,True,1983,1768378,12,2211.9,12235.0
+SHEN,Shenandoah,True,1984,1869307,12,2338.2,12934.0
+SHEN,Shenandoah,True,1985,1933085,12,2418.0,13375.0
+SHEN,Shenandoah,True,1986,1843985,12,2306.5,12758.0
+SHEN,Shenandoah,True,1987,1767727,12,2211.1,12231.0
+SHEN,Shenandoah,True,1988,1937155,12,2423.0,13403.0
+SHEN,Shenandoah,True,1989,1873817,12,2343.8,12965.0
+SHEN,Shenandoah,True,1990,1771780,12,2216.2,12259.0
+SHEN,Shenandoah,True,1991,1939486,12,2426.0,13419.0
+SHEN,Shenandoah,True,1992,1822193,12,2279.3,12608.0
+SHEN,Shenandoah,True,1993,1951366,12,2440.8,13501.0
+SHEN,Shenandoah,True,1994,1926883,12,2410.2,13332.0
+SHEN,Shenandoah,True,1995,1757794,12,2198.7,12162.0
+SHEN,Shenandoah,True,1996,1571019,12,1965.1,10870.0
+SHEN,Shenandoah,True,1997,1587790,12,1986.1,10986.0
+SHEN,Shenandoah,True,1998,1473100,12,1842.6,10192.0
+SHEN,Shenandoah,True,1999,1339286,12,1675.2,9266.0
+SHEN,Shenandoah,True,2000,1419579,12,1775.7,9822.0
+SHEN,Shenandoah,True,2001,1498561,12,1874.4,10369.0
+SHEN,Shenandoah,True,2002,1389244,12,1737.7,9612.0
+SHEN,Shenandoah,True,2003,1163950,12,1455.9,8053.0
+SHEN,Shenandoah,True,2004,1261000,12,1577.3,8725.0
+SHEN,Shenandoah,True,2005,1094912,12,1369.5,7576.0
+SHEN,Shenandoah,True,2006,1076150,12,1346.1,7446.0
+SHEN,Shenandoah,True,2007,1107227,12,1385.0,7661.0
+SHEN,Shenandoah,True,2008,1075878,12,1345.7,7444.0
+SHEN,Shenandoah,True,2009,1120981,12,1402.2,7756.0
+SHEN,Shenandoah,True,2010,1253386,12,1567.8,8672.0
+SHEN,Shenandoah,True,2011,1209883,12,1513.4,8371.0
+SHEN,Shenandoah,True,2012,1210200,12,1513.8,8373.0
+SHEN,Shenandoah,True,2013,1136505,12,1421.6,7863.0
+SHEN,Shenandoah,True,2014,1255321,12,1570.2,8686.0
+SHEN,Shenandoah,True,2015,1321873,12,1653.4,9146.0
+SHEN,Shenandoah,True,2016,1437341,12,1797.9,9945.0
+SHEN,Shenandoah,True,2017,1458874,12,1824.8,10094.0
+SHEN,Shenandoah,True,2018,1264880,12,1582.1,8752.0
+SHEN,Shenandoah,True,2019,1425507,12,1783.1,9863.0
+SHEN,Shenandoah,True,2020,1666265,12,2084.2,11529.0
+SHEN,Shenandoah,True,2021,1592312,12,1991.7,11017.0
+SHEN,Shenandoah,True,2022,1449300,12,1812.8,10028.0
+SHEN,Shenandoah,True,2023,1576008,12,1971.3,10904.0
+SHEN,Shenandoah,True,2024,1720211,12,2151.7,11902.0
+SHEN,Shenandoah,True,2025,1682152,12,2104.1,11639.0
+THRO,Theodore Roosevelt,False,1979,591646,12,,
+THRO,Theodore Roosevelt,False,1980,595734,12,,
+THRO,Theodore Roosevelt,False,1981,702873,12,,
+THRO,Theodore Roosevelt,False,1982,677014,12,,
+THRO,Theodore Roosevelt,False,1983,415118,12,,
+THRO,Theodore Roosevelt,False,1984,361139,12,,
+THRO,Theodore Roosevelt,False,1985,377152,12,,
+THRO,Theodore Roosevelt,False,1986,390553,12,,
+THRO,Theodore Roosevelt,False,1987,424846,12,,
+THRO,Theodore Roosevelt,False,1988,413527,12,,
+THRO,Theodore Roosevelt,False,1989,459171,12,,
+THRO,Theodore Roosevelt,False,1990,460718,12,,
+THRO,Theodore Roosevelt,False,1991,468926,12,,
+THRO,Theodore Roosevelt,False,1992,475937,12,,
+THRO,Theodore Roosevelt,False,1993,475160,12,,
+THRO,Theodore Roosevelt,False,1994,505349,12,,
+THRO,Theodore Roosevelt,False,1995,460699,12,,
+THRO,Theodore Roosevelt,False,1996,436081,12,,
+THRO,Theodore Roosevelt,False,1997,393265,12,,
+THRO,Theodore Roosevelt,False,1998,448286,12,,
+THRO,Theodore Roosevelt,False,1999,431311,12,,
+THRO,Theodore Roosevelt,False,2000,431813,12,,
+THRO,Theodore Roosevelt,False,2001,446609,12,,
+THRO,Theodore Roosevelt,False,2002,471551,12,,
+THRO,Theodore Roosevelt,False,2003,490295,12,,
+THRO,Theodore Roosevelt,False,2004,474589,12,,
+THRO,Theodore Roosevelt,False,2005,493198,12,,
+THRO,Theodore Roosevelt,False,2006,435359,12,,
+THRO,Theodore Roosevelt,False,2007,456588,12,,
+THRO,Theodore Roosevelt,False,2008,516804,12,,
+THRO,Theodore Roosevelt,False,2009,586928,12,,
+THRO,Theodore Roosevelt,False,2010,623748,12,,
+THRO,Theodore Roosevelt,False,2011,563407,12,,
+THRO,Theodore Roosevelt,False,2012,640555,12,,
+THRO,Theodore Roosevelt,False,2013,545090,12,,
+THRO,Theodore Roosevelt,False,2014,559580,12,,
+THRO,Theodore Roosevelt,False,2015,580033,12,,
+THRO,Theodore Roosevelt,False,2016,753880,12,,
+THRO,Theodore Roosevelt,False,2017,708003,12,,
+THRO,Theodore Roosevelt,False,2018,749389,12,,
+THRO,Theodore Roosevelt,False,2019,691658,12,,
+THRO,Theodore Roosevelt,False,2020,551303,12,,
+THRO,Theodore Roosevelt,False,2021,796085,12,,
+THRO,Theodore Roosevelt,False,2022,668679,12,,
+THRO,Theodore Roosevelt,False,2023,746862,12,,
+THRO,Theodore Roosevelt,False,2024,732951,12,,
+THRO,Theodore Roosevelt,False,2025,729893,12,,
+VIIS,Virgin Islands,False,1979,549732,12,,
+VIIS,Virgin Islands,False,1980,547918,12,,
+VIIS,Virgin Islands,False,1981,566528,12,,
+VIIS,Virgin Islands,False,1982,673480,12,,
+VIIS,Virgin Islands,False,1983,676800,12,,
+VIIS,Virgin Islands,False,1984,666435,12,,
+VIIS,Virgin Islands,False,1985,699398,12,,
+VIIS,Virgin Islands,False,1986,766458,12,,
+VIIS,Virgin Islands,False,1987,785354,12,,
+VIIS,Virgin Islands,False,1988,838684,12,,
+VIIS,Virgin Islands,False,1989,664032,12,,
+VIIS,Virgin Islands,False,1990,664735,12,,
+VIIS,Virgin Islands,False,1991,710180,12,,
+VIIS,Virgin Islands,False,1992,772470,12,,
+VIIS,Virgin Islands,False,1993,807093,12,,
+VIIS,Virgin Islands,False,1994,635291,12,,
+VIIS,Virgin Islands,False,1995,536058,12,,
+VIIS,Virgin Islands,False,1996,475942,12,,
+VIIS,Virgin Islands,False,1997,592537,12,,
+VIIS,Virgin Islands,False,1998,556849,12,,
+VIIS,Virgin Islands,False,1999,425345,12,,
+VIIS,Virgin Islands,False,2000,703992,12,,
+VIIS,Virgin Islands,False,2001,677401,12,,
+VIIS,Virgin Islands,False,2002,693494,12,,
+VIIS,Virgin Islands,False,2003,821681,12,,
+VIIS,Virgin Islands,False,2004,793590,12,,
+VIIS,Virgin Islands,False,2005,803040,12,,
+VIIS,Virgin Islands,False,2006,677289,12,,
+VIIS,Virgin Islands,False,2007,571382,12,,
+VIIS,Virgin Islands,False,2008,469034,12,,
+VIIS,Virgin Islands,False,2009,415847,12,,
+VIIS,Virgin Islands,False,2010,493477,12,,
+VIIS,Virgin Islands,False,2011,442414,12,,
+VIIS,Virgin Islands,False,2012,483341,12,,
+VIIS,Virgin Islands,False,2013,438601,12,,
+VIIS,Virgin Islands,False,2014,426930,12,,
+VIIS,Virgin Islands,False,2015,438372,12,,
+VIIS,Virgin Islands,False,2016,411343,12,,
+VIIS,Virgin Islands,False,2017,304408,12,,
+VIIS,Virgin Islands,False,2018,112287,12,,
+VIIS,Virgin Islands,False,2019,133398,12,,
+VIIS,Virgin Islands,False,2020,167540,12,,
+VIIS,Virgin Islands,False,2021,323999,12,,
+VIIS,Virgin Islands,False,2022,196752,12,,
+VIIS,Virgin Islands,False,2023,343685,12,,
+VIIS,Virgin Islands,False,2024,423029,12,,
+VIIS,Virgin Islands,False,2025,471074,12,,
+VOYA,Voyageurs,False,1979,195277,12,,
+VOYA,Voyageurs,False,1980,266935,12,,
+VOYA,Voyageurs,False,1981,257490,12,,
+VOYA,Voyageurs,False,1982,143724,12,,
+VOYA,Voyageurs,False,1983,146454,12,,
+VOYA,Voyageurs,False,1984,154723,12,,
+VOYA,Voyageurs,False,1985,183984,12,,
+VOYA,Voyageurs,False,1986,172137,12,,
+VOYA,Voyageurs,False,1987,201727,12,,
+VOYA,Voyageurs,False,1988,223735,12,,
+VOYA,Voyageurs,False,1989,209626,12,,
+VOYA,Voyageurs,False,1990,223554,12,,
+VOYA,Voyageurs,False,1991,221857,12,,
+VOYA,Voyageurs,False,1992,227498,12,,
+VOYA,Voyageurs,False,1993,228143,12,,
+VOYA,Voyageurs,False,1994,224181,12,,
+VOYA,Voyageurs,False,1995,210938,12,,
+VOYA,Voyageurs,False,1996,246588,12,,
+VOYA,Voyageurs,False,1997,223418,12,,
+VOYA,Voyageurs,False,1998,231958,12,,
+VOYA,Voyageurs,False,1999,228898,12,,
+VOYA,Voyageurs,False,2000,227371,12,,
+VOYA,Voyageurs,False,2001,243374,12,,
+VOYA,Voyageurs,False,2002,238227,12,,
+VOYA,Voyageurs,False,2003,234231,12,,
+VOYA,Voyageurs,False,2004,249041,12,,
+VOYA,Voyageurs,False,2005,234577,12,,
+VOYA,Voyageurs,False,2006,231875,12,,
+VOYA,Voyageurs,False,2007,220650,12,,
+VOYA,Voyageurs,False,2008,221585,12,,
+VOYA,Voyageurs,False,2009,222429,12,,
+VOYA,Voyageurs,False,2010,253891,12,,
+VOYA,Voyageurs,False,2011,177184,12,,
+VOYA,Voyageurs,False,2012,214841,12,,
+VOYA,Voyageurs,False,2013,233390,12,,
+VOYA,Voyageurs,False,2014,239160,12,,
+VOYA,Voyageurs,False,2015,238313,12,,
+VOYA,Voyageurs,False,2016,241912,12,,
+VOYA,Voyageurs,False,2017,237250,12,,
+VOYA,Voyageurs,False,2018,239656,12,,
+VOYA,Voyageurs,False,2019,232974,12,,
+VOYA,Voyageurs,False,2020,263091,12,,
+VOYA,Voyageurs,False,2021,243042,12,,
+VOYA,Voyageurs,False,2022,221434,12,,
+VOYA,Voyageurs,False,2023,220825,12,,
+VOYA,Voyageurs,False,2024,199030,12,,
+VOYA,Voyageurs,False,2025,206326,12,,
+WHSA,White Sands,False,1979,580814,12,,
+WHSA,White Sands,False,1980,511476,12,,
+WHSA,White Sands,False,1981,556494,12,,
+WHSA,White Sands,False,1982,543581,12,,
+WHSA,White Sands,False,1983,492902,12,,
+WHSA,White Sands,False,1984,542930,12,,
+WHSA,White Sands,False,1985,486754,12,,
+WHSA,White Sands,False,1986,666879,12,,
+WHSA,White Sands,False,1987,567613,12,,
+WHSA,White Sands,False,1988,556185,12,,
+WHSA,White Sands,False,1989,568530,12,,
+WHSA,White Sands,False,1990,582487,12,,
+WHSA,White Sands,False,1991,588543,12,,
+WHSA,White Sands,False,1992,590371,12,,
+WHSA,White Sands,False,1993,611252,12,,
+WHSA,White Sands,False,1994,583061,12,,
+WHSA,White Sands,False,1995,604796,12,,
+WHSA,White Sands,False,1996,616699,12,,
+WHSA,White Sands,False,1997,629507,12,,
+WHSA,White Sands,False,1998,592957,12,,
+WHSA,White Sands,False,1999,553948,12,,
+WHSA,White Sands,False,2000,515229,12,,
+WHSA,White Sands,False,2001,518958,12,,
+WHSA,White Sands,False,2002,498964,12,,
+WHSA,White Sands,False,2003,492008,12,,
+WHSA,White Sands,False,2004,448185,12,,
+WHSA,White Sands,False,2005,450447,12,,
+WHSA,White Sands,False,2006,440927,12,,
+WHSA,White Sands,False,2007,437042,12,,
+WHSA,White Sands,False,2008,438511,12,,
+WHSA,White Sands,False,2009,471167,12,,
+WHSA,White Sands,False,2010,470921,12,,
+WHSA,White Sands,False,2011,428924,12,,
+WHSA,White Sands,False,2012,447385,12,,
+WHSA,White Sands,False,2013,490544,12,,
+WHSA,White Sands,False,2014,503660,12,,
+WHSA,White Sands,False,2015,497506,12,,
+WHSA,White Sands,False,2016,555793,12,,
+WHSA,White Sands,False,2017,612468,12,,
+WHSA,White Sands,False,2018,603008,12,,
+WHSA,White Sands,False,2019,608785,12,,
+WHSA,White Sands,False,2020,415383,12,,
+WHSA,White Sands,False,2021,782469,12,,
+WHSA,White Sands,False,2022,705127,12,,
+WHSA,White Sands,False,2023,729096,12,,
+WHSA,White Sands,False,2024,702236,12,,
+WHSA,White Sands,False,2025,659742,12,,
+WICA,Wind Cave,False,1979,457443,12,,
+WICA,Wind Cave,False,1980,473061,12,,
+WICA,Wind Cave,False,1981,503424,12,,
+WICA,Wind Cave,False,1982,467392,12,,
+WICA,Wind Cave,False,1983,503739,12,,
+WICA,Wind Cave,False,1984,536022,12,,
+WICA,Wind Cave,False,1985,477585,12,,
+WICA,Wind Cave,False,1986,483334,12,,
+WICA,Wind Cave,False,1987,563720,12,,
+WICA,Wind Cave,False,1988,578016,12,,
+WICA,Wind Cave,False,1989,561758,12,,
+WICA,Wind Cave,False,1990,586464,12,,
+WICA,Wind Cave,False,1991,597057,12,,
+WICA,Wind Cave,False,1992,660296,12,,
+WICA,Wind Cave,False,1993,537075,12,,
+WICA,Wind Cave,False,1994,871061,12,,
+WICA,Wind Cave,False,1995,805688,12,,
+WICA,Wind Cave,False,1996,781171,12,,
+WICA,Wind Cave,False,1997,832033,12,,
+WICA,Wind Cave,False,1998,849974,12,,
+WICA,Wind Cave,False,1999,761717,12,,
+WICA,Wind Cave,False,2000,668507,12,,
+WICA,Wind Cave,False,2001,650357,12,,
+WICA,Wind Cave,False,2002,810298,12,,
+WICA,Wind Cave,False,2003,874167,12,,
+WICA,Wind Cave,False,2004,593877,12,,
+WICA,Wind Cave,False,2005,612478,12,,
+WICA,Wind Cave,False,2006,591049,12,,
+WICA,Wind Cave,False,2007,603158,12,,
+WICA,Wind Cave,False,2008,573433,12,,
+WICA,Wind Cave,False,2009,587868,12,,
+WICA,Wind Cave,False,2010,577141,12,,
+WICA,Wind Cave,False,2011,538394,12,,
+WICA,Wind Cave,False,2012,529083,12,,
+WICA,Wind Cave,False,2013,516142,12,,
+WICA,Wind Cave,False,2014,547022,12,,
+WICA,Wind Cave,False,2015,612198,12,,
+WICA,Wind Cave,False,2016,617377,12,,
+WICA,Wind Cave,False,2017,619924,12,,
+WICA,Wind Cave,False,2018,656397,12,,
+WICA,Wind Cave,False,2019,615350,12,,
+WICA,Wind Cave,False,2020,448405,12,,
+WICA,Wind Cave,False,2021,709001,12,,
+WICA,Wind Cave,False,2022,607418,12,,
+WICA,Wind Cave,False,2023,592459,12,,
+WICA,Wind Cave,False,2024,489399,12,,
+WICA,Wind Cave,False,2025,606258,12,,
+WRST,Wrangell-St. Elias,True,1982,14871,12,0.3,144.0
+WRST,Wrangell-St. Elias,True,1983,18760,12,0.4,182.0
+WRST,Wrangell-St. Elias,True,1984,22183,12,0.4,215.0
+WRST,Wrangell-St. Elias,True,1985,23171,12,0.4,225.0
+WRST,Wrangell-St. Elias,True,1986,26557,12,0.5,258.0
+WRST,Wrangell-St. Elias,True,1987,29191,12,0.5,283.0
+WRST,Wrangell-St. Elias,True,1988,31046,12,0.6,301.0
+WRST,Wrangell-St. Elias,True,1989,33221,12,0.6,322.0
+WRST,Wrangell-St. Elias,True,1990,35976,12,0.7,349.0
+WRST,Wrangell-St. Elias,True,1991,38971,12,0.7,378.0
+WRST,Wrangell-St. Elias,True,1992,42229,12,0.8,410.0
+WRST,Wrangell-St. Elias,True,1993,45335,12,0.8,440.0
+WRST,Wrangell-St. Elias,True,1994,50146,12,0.9,486.0
+WRST,Wrangell-St. Elias,True,1995,54430,12,1.0,528.0
+WRST,Wrangell-St. Elias,True,1996,31467,12,0.6,305.0
+WRST,Wrangell-St. Elias,True,1997,31833,12,0.6,309.0
+WRST,Wrangell-St. Elias,True,1998,27859,12,0.5,270.0
+WRST,Wrangell-St. Elias,True,1999,29252,12,0.5,284.0
+WRST,Wrangell-St. Elias,True,2000,28331,12,0.5,275.0
+WRST,Wrangell-St. Elias,True,2001,28643,12,0.5,278.0
+WRST,Wrangell-St. Elias,True,2002,40352,12,0.8,391.0
+WRST,Wrangell-St. Elias,True,2003,43311,12,0.8,420.0
+WRST,Wrangell-St. Elias,True,2004,57221,12,1.1,555.0
+WRST,Wrangell-St. Elias,True,2005,56224,12,1.1,545.0
+WRST,Wrangell-St. Elias,True,2006,50336,12,0.9,488.0
+WRST,Wrangell-St. Elias,True,2007,61085,12,1.1,593.0
+WRST,Wrangell-St. Elias,True,2008,65693,12,1.2,637.0
+WRST,Wrangell-St. Elias,True,2009,59966,12,1.1,582.0
+WRST,Wrangell-St. Elias,True,2010,73170,12,1.4,710.0
+WRST,Wrangell-St. Elias,True,2011,65225,12,1.2,633.0
+WRST,Wrangell-St. Elias,True,2012,87158,12,1.6,845.0
+WRST,Wrangell-St. Elias,True,2013,69984,12,1.3,679.0
+WRST,Wrangell-St. Elias,True,2014,74722,12,1.4,725.0
+WRST,Wrangell-St. Elias,True,2015,80366,12,1.5,780.0
+WRST,Wrangell-St. Elias,True,2016,79047,12,1.5,767.0
+WRST,Wrangell-St. Elias,True,2017,68292,12,1.3,662.0
+WRST,Wrangell-St. Elias,True,2018,79450,12,1.5,771.0
+WRST,Wrangell-St. Elias,True,2019,74518,12,1.4,723.0
+WRST,Wrangell-St. Elias,True,2020,16655,12,0.3,162.0
+WRST,Wrangell-St. Elias,True,2021,50189,12,0.9,487.0
+WRST,Wrangell-St. Elias,True,2022,65236,12,1.2,633.0
+WRST,Wrangell-St. Elias,True,2023,78305,12,1.5,760.0
+WRST,Wrangell-St. Elias,True,2024,81670,12,1.5,792.0
+WRST,Wrangell-St. Elias,True,2025,108840,12,2.0,1056.0
+YELL,Yellowstone,True,1979,1892908,12,212.7,6032.0
+YELL,Yellowstone,True,1980,2000269,12,224.7,6375.0
+YELL,Yellowstone,True,1981,2521831,12,283.3,8037.0
+YELL,Yellowstone,True,1982,2368897,12,266.1,7549.0
+YELL,Yellowstone,True,1983,2347242,12,263.7,7480.0
+YELL,Yellowstone,True,1984,2222027,12,249.6,7081.0
+YELL,Yellowstone,True,1985,2226159,12,250.1,7094.0
+YELL,Yellowstone,True,1986,2363756,12,265.6,7533.0
+YELL,Yellowstone,True,1987,2573194,12,289.1,8200.0
+YELL,Yellowstone,True,1988,2182113,12,245.2,6954.0
+YELL,Yellowstone,True,1989,2644442,12,297.1,8427.0
+YELL,Yellowstone,True,1990,2823572,12,317.2,8998.0
+YELL,Yellowstone,True,1991,2920537,12,328.1,9307.0
+YELL,Yellowstone,True,1992,3144405,12,353.3,10021.0
+YELL,Yellowstone,True,1993,2912193,12,327.2,9281.0
+YELL,Yellowstone,True,1994,3046145,12,342.2,9708.0
+YELL,Yellowstone,True,1995,3125285,12,351.1,9960.0
+YELL,Yellowstone,True,1996,3012171,12,338.4,9599.0
+YELL,Yellowstone,True,1997,2889513,12,324.6,9208.0
+YELL,Yellowstone,True,1998,3120830,12,350.6,9946.0
+YELL,Yellowstone,True,1999,3131381,12,351.8,9979.0
+YELL,Yellowstone,True,2000,2838233,12,318.9,9045.0
+YELL,Yellowstone,True,2001,2758526,12,309.9,8791.0
+YELL,Yellowstone,True,2002,2973677,12,334.1,9477.0
+YELL,Yellowstone,True,2003,3019375,12,339.2,9622.0
+YELL,Yellowstone,True,2004,2868317,12,322.2,9141.0
+YELL,Yellowstone,True,2005,2835651,12,318.6,9037.0
+YELL,Yellowstone,True,2006,2870295,12,322.5,9147.0
+YELL,Yellowstone,True,2007,3151343,12,354.0,10043.0
+YELL,Yellowstone,True,2008,3066580,12,344.5,9773.0
+YELL,Yellowstone,True,2009,3295187,12,370.2,10501.0
+YELL,Yellowstone,True,2010,3640185,12,409.0,11601.0
+YELL,Yellowstone,True,2011,3394326,12,381.3,10817.0
+YELL,Yellowstone,True,2012,3447729,12,387.3,10987.0
+YELL,Yellowstone,True,2013,3188030,12,358.2,10160.0
+YELL,Yellowstone,True,2014,3513484,12,394.7,11197.0
+YELL,Yellowstone,True,2015,4097710,12,460.4,13059.0
+YELL,Yellowstone,True,2016,4257177,12,478.3,13567.0
+YELL,Yellowstone,True,2017,4116524,12,462.5,13119.0
+YELL,Yellowstone,True,2018,4115000,12,462.3,13114.0
+YELL,Yellowstone,True,2019,4020288,12,451.7,12812.0
+YELL,Yellowstone,True,2020,3806306,12,427.6,12130.0
+YELL,Yellowstone,True,2021,4860242,12,546.0,15489.0
+YELL,Yellowstone,True,2022,3290242,12,369.6,10485.0
+YELL,Yellowstone,True,2023,4501382,12,505.7,14345.0
+YELL,Yellowstone,True,2024,4744353,12,533.0,15120.0
+YELL,Yellowstone,True,2025,4762988,12,535.1,15179.0
+YOSE,Yosemite,True,1979,2350782,12,776.8,13093.0
+YOSE,Yosemite,True,1980,2490282,12,822.9,13870.0
+YOSE,Yosemite,True,1981,2516893,12,831.6,14018.0
+YOSE,Yosemite,True,1982,2415587,12,798.2,13454.0
+YOSE,Yosemite,True,1983,2457464,12,812.0,13687.0
+YOSE,Yosemite,True,1984,2738467,12,904.9,15252.0
+YOSE,Yosemite,True,1985,2831952,12,935.8,15772.0
+YOSE,Yosemite,True,1986,2876717,12,950.5,16022.0
+YOSE,Yosemite,True,1987,3152275,12,1041.6,17557.0
+YOSE,Yosemite,True,1988,3216681,12,1062.9,17915.0
+YOSE,Yosemite,True,1989,3308159,12,1093.1,18425.0
+YOSE,Yosemite,True,1990,3124939,12,1032.6,17404.0
+YOSE,Yosemite,True,1991,3423101,12,1131.1,19065.0
+YOSE,Yosemite,True,1992,3819518,12,1262.1,21273.0
+YOSE,Yosemite,True,1993,3839645,12,1268.7,21385.0
+YOSE,Yosemite,True,1994,3962117,12,1309.2,22067.0
+YOSE,Yosemite,True,1995,3958406,12,1308.0,22046.0
+YOSE,Yosemite,True,1996,4046207,12,1337.0,22535.0
+YOSE,Yosemite,True,1997,3669970,12,1212.7,20440.0
+YOSE,Yosemite,True,1998,3657132,12,1208.4,20368.0
+YOSE,Yosemite,True,1999,3493607,12,1154.4,19458.0
+YOSE,Yosemite,True,2000,3400903,12,1123.7,18941.0
+YOSE,Yosemite,True,2001,3368731,12,1113.1,18762.0
+YOSE,Yosemite,True,2002,3361867,12,1110.9,18724.0
+YOSE,Yosemite,True,2003,3378664,12,1116.4,18817.0
+YOSE,Yosemite,True,2004,3280911,12,1084.1,18273.0
+YOSE,Yosemite,True,2005,3304144,12,1091.8,18402.0
+YOSE,Yosemite,True,2006,3242644,12,1071.5,18060.0
+YOSE,Yosemite,True,2007,3503428,12,1157.6,19512.0
+YOSE,Yosemite,True,2008,3431514,12,1133.9,19112.0
+YOSE,Yosemite,True,2009,3737472,12,1235.0,20816.0
+YOSE,Yosemite,True,2010,3901408,12,1289.1,21729.0
+YOSE,Yosemite,True,2011,3951393,12,1305.6,22007.0
+YOSE,Yosemite,True,2012,3853404,12,1273.3,21461.0
+YOSE,Yosemite,True,2013,3691191,12,1219.7,20558.0
+YOSE,Yosemite,True,2014,3882642,12,1282.9,21624.0
+YOSE,Yosemite,True,2015,4150217,12,1371.3,23115.0
+YOSE,Yosemite,True,2016,5028868,12,1661.7,28008.0
+YOSE,Yosemite,True,2017,4336890,12,1433.0,24154.0
+YOSE,Yosemite,True,2018,4009436,12,1324.8,22330.0
+YOSE,Yosemite,True,2019,4422861,12,1461.4,24633.0
+YOSE,Yosemite,True,2020,2268313,12,749.5,12633.0
+YOSE,Yosemite,True,2021,3287595,12,1086.3,18310.0
+YOSE,Yosemite,True,2022,3667550,12,1211.9,20426.0
+YOSE,Yosemite,True,2023,3897070,12,1287.7,21705.0
+YOSE,Yosemite,True,2024,4121807,12,1362.0,22956.0
+YOSE,Yosemite,True,2025,4278413,12,1413.7,23829.0
+ZION,Zion,True,1979,1040528,12,1729.0,30858.0
+ZION,Zion,True,1980,1123846,12,1867.5,33329.0
+ZION,Zion,True,1981,1288808,12,2141.6,38221.0
+ZION,Zion,True,1982,1246290,12,2070.9,36960.0
+ZION,Zion,True,1983,1273030,12,2115.4,37753.0
+ZION,Zion,True,1984,1377254,12,2288.6,40844.0
+ZION,Zion,True,1985,1503272,12,2498.0,44581.0
+ZION,Zion,True,1986,1670503,12,2775.8,49540.0
+ZION,Zion,True,1987,1777619,12,2953.8,52717.0
+ZION,Zion,True,1988,1948332,12,3237.5,57780.0
+ZION,Zion,True,1989,1998856,12,3321.5,59278.0
+ZION,Zion,True,1990,2102400,12,3493.5,62349.0
+ZION,Zion,True,1991,2236997,12,3717.2,66340.0
+ZION,Zion,True,1992,2390626,12,3972.5,70896.0
+ZION,Zion,True,1993,2392580,12,3975.7,70954.0
+ZION,Zion,True,1994,2270871,12,3773.5,67345.0
+ZION,Zion,True,1995,2430162,12,4038.2,72069.0
+ZION,Zion,True,1996,2498001,12,4150.9,74081.0
+ZION,Zion,True,1997,2445534,12,4063.7,72525.0
+ZION,Zion,True,1998,2370048,12,3938.3,70286.0
+ZION,Zion,True,1999,2449664,12,4070.6,72647.0
+ZION,Zion,True,2000,2432348,12,4041.8,72134.0
+ZION,Zion,True,2001,2217779,12,3685.2,65770.0
+ZION,Zion,True,2002,2592545,12,4308.0,76884.0
+ZION,Zion,True,2003,2458792,12,4085.7,72918.0
+ZION,Zion,True,2004,2677342,12,4448.9,79399.0
+ZION,Zion,True,2005,2586665,12,4298.2,76710.0
+ZION,Zion,True,2006,2567350,12,4266.1,76137.0
+ZION,Zion,True,2007,2657281,12,4415.6,78804.0
+ZION,Zion,True,2008,2690154,12,4470.2,79779.0
+ZION,Zion,True,2009,2735402,12,4545.4,81121.0
+ZION,Zion,True,2010,2665972,12,4430.0,79062.0
+ZION,Zion,True,2011,2825505,12,4695.1,83793.0
+ZION,Zion,True,2012,2973607,12,4941.2,88185.0
+ZION,Zion,True,2013,2807387,12,4665.0,83256.0
+ZION,Zion,True,2014,3189696,12,5300.3,94594.0
+ZION,Zion,True,2015,3648846,12,6063.2,108210.0
+ZION,Zion,True,2016,4295127,12,7137.1,127376.0
+ZION,Zion,True,2017,4504812,12,7485.6,133595.0
+ZION,Zion,True,2018,4320033,12,7178.5,128115.0
+ZION,Zion,True,2019,4488268,12,7458.1,133104.0
+ZION,Zion,True,2020,3591254,12,5967.5,106502.0
+ZION,Zion,True,2021,5039835,12,8374.6,149461.0
+ZION,Zion,True,2022,4692417,12,7797.3,139158.0
+ZION,Zion,True,2023,4623238,12,7682.3,137107.0
+ZION,Zion,True,2024,4946592,12,8219.7,146696.0
+ZION,Zion,True,2025,4984525,12,8282.7,147821.0

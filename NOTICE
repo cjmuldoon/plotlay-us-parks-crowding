@@ -1,0 +1,47 @@
+Where are America's national parks really crowded?
+Copyright 2026 Craig Muldoon. Made with Plotlay (https://www.getplotlay.com).
+
+This repository contains code, data we made, and data from the sources below.
+
+CODE
+  The notebook and the Power BI project (its Power Query, DAX and report files) are licensed under the MIT licence
+  (LICENSE).
+
+DATA WE MADE
+  The visitor cores (data/geometry/cores.*), the tables in data/tables/ (each park's summary, its months with visits per
+  km2 a day of the park and of the core) and the visuals are licensed under Creative Commons Attribution 4.0
+  International (LICENSE-DATA). Please credit: "National parks crowding: Plotlay (getplotlay.com), from National Park
+  Service data". They are made from the sources below.
+
+UPSTREAM SOURCES (all works of the United States Government, public domain in the United States, 17 U.S.C. 105)
+
+  National Park Service, Visitor Use Statistics (IRMA), monthly recreation visits per park, 1979 to 2025,
+  irma.nps.gov/Stats (fetched 8 November 2026 from the public IRMA Stats service).
+
+  National Park Service, Land Resources Division: park boundaries (NPS Land Resources Division Boundary and Tract Data
+  Service). NPS notes these are administrative boundaries, not survey quality and not legal documents.
+
+  National Park Service servicewide public datasets: roads, trails, points of interest and parking lots
+  (mapservices.nps.gov, NationalDatasets).
+
+  U.S. Census Bureau, TIGERweb Transportation (TIGER/Line roads): the roads for the four parks with no NPS road data
+  (Cuyahoga Valley, Hot Springs, Gateway Arch, New River Gorge).
+
+  Base map in the Plotlay project, the app screenshots and the page: USDA, USGS The National Map: Orthoimagery.
+
+  Changes: the 20 most visited National Parks of 2025 and five contrasts; each park's visitor core drawn by one written
+  rule (250 m either side of the paved park roads, 100 m either side of trails within 2 km of them, 200 m round visitor
+  facilities and 50 m round parking lots, clipped to the park); visits per km2 a day of the park and of the core
+  worked out by us; shapes simplified for the web.
+
+POWER BI MAP CONTEXT
+  The Shape Map in powerbi/ draws the US states round the cores: US Census Bureau, TIGERweb (States), public domain,
+  generalised.
+
+NOT INCLUDED
+  Nothing in this repository is derived from OpenStreetMap. No imagery was traced. Nothing here implies endorsement by
+  the National Park Service, the USGS or the Census Bureau.
+
+THIRD-PARTY SOFTWARE
+  The notebook uses pandas, GeoPandas, Shapely, pyproj and Matplotlib (installed from requirements.txt, each under its
+  own licence). Fonts in the visuals: IBM Plex Sans and IBM Plex Sans Condensed, SIL Open Font License 1.1.

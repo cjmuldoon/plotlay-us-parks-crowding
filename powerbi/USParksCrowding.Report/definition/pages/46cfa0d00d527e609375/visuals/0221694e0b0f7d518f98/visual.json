@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "0221694e0b0f7d518f98",
+  "position": {
+    "x": 40,
+    "y": 1030,
+    "z": 99,
+    "height": 40,
+    "width": 1840,
+    "tabOrder": 99
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "NPS Visitor Use Statistics (irma.nps.gov), NPS boundaries, roads, trails and points of interest. Public domain. Visitor cores drawn by one written rule (Plotlay). Visits are not unique people; counting methods vary by park. Map context: US Census TIGERweb. Made with Plotlay (getplotlay.com).",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#5b6573",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
