@@ -1,12 +1,12 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
-  "name": "3099c2f67542097e0bcb",
+  "name": "fee2e267315526b7cec3",
   "position": {
-    "x": 40,
+    "x": 660,
     "y": 133,
     "z": 1,
     "height": 877,
-    "width": 1840,
+    "width": 600,
     "tabOrder": 1
   },
   "visual": {
@@ -44,15 +44,15 @@
                           "Entity": "Parks"
                         }
                       },
-                      "Property": "per_day_core_2025"
+                      "Property": "core_km2"
                     }
                   },
-                  "Function": 1
+                  "Function": 0
                 }
               },
-              "queryRef": "Avg(Parks.per_day_core_2025)",
-              "nativeQueryRef": "per_day_core_2025",
-              "displayName": "A day per km² of core"
+              "queryRef": "Sum(Parks.core_km2)",
+              "nativeQueryRef": "core_km2",
+              "displayName": "Core, km²"
             }
           ]
         },
@@ -77,6 +77,26 @@
               "queryRef": "Min(Parks.name)",
               "nativeQueryRef": "name",
               "displayName": "Park"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Parks"
+                        }
+                      },
+                      "Property": "per_day_core_2025"
+                    }
+                  },
+                  "Function": 1
+                }
+              },
+              "queryRef": "Avg(Parks.per_day_core_2025)",
+              "nativeQueryRef": "per_day_core_2025",
+              "displayName": "A day per km² of core"
             }
           ]
         }
@@ -97,7 +117,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Visitor cores'"
+                  "Value": "'Great Smoky Mountains: core 228.5 km² of 2,262 km²'"
                 }
               }
             },
@@ -180,7 +200,7 @@
                 "name": {
                   "expr": {
                     "Literal": {
-                      "Value": "'cores.topojson'"
+                      "Value": "'core_grsm.topojson'"
                     }
                   }
                 },
@@ -189,7 +209,7 @@
                     "ResourcePackageItem": {
                       "PackageName": "RegisteredResources",
                       "PackageType": 1,
-                      "ItemName": "cores.topojson"
+                      "ItemName": "core_grsm.topojson"
                     }
                   }
                 }

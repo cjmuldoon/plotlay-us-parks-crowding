@@ -42,8 +42,23 @@
           "type": "CustomTheme"
         },
         {
-          "name": "cores.topojson",
-          "path": "cores.topojson",
+          "name": "park_dots.topojson",
+          "path": "park_dots.topojson",
+          "type": "ShapeMap"
+        },
+        {
+          "name": "core_zion.topojson",
+          "path": "core_zion.topojson",
+          "type": "ShapeMap"
+        },
+        {
+          "name": "core_grsm.topojson",
+          "path": "core_grsm.topojson",
+          "type": "ShapeMap"
+        },
+        {
+          "name": "core_yell.topojson",
+          "path": "core_yell.topojson",
           "type": "ShapeMap"
         }
       ]

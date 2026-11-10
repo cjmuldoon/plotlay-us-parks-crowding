@@ -38,8 +38,8 @@ After **Refresh**:
 
 ## The maps
 
-- **Shape Map** (page 3, The cores). The custom map, `data/geometry/cores.topojson`, is saved inside the report, so the 25 cores draw on open, coloured by visits per km² of core a day in 2025. The parks are far apart across the country, so the map draws the US states (US Census TIGERweb, public domain) as context in a pale ground tone. Each core is small at national scale; zoom in on a park, or pick one in the slicer. If the map shows the United States without the cores (an older Desktop can ignore a saved map): **Format visual**, **Map settings**, **Map type: Custom map**, **Add map type**, and choose `..\data\geometry\cores.topojson`.
-- **Azure Maps** (page 1). Each park at a point inside it, the bubble sized by its 2025 visits (capped). If Desktop asks, allow Azure Maps (**File, Options and settings, Options, Security, Use Azure Maps visual**).
+- **Shape Maps** (page 3, The cores). Three parks at their own scale (Zion, Great Smoky Mountains, Yellowstone): each map file, saved inside the report, holds one park's core (from `data/geometry/cores.topojson`) with the park boundary (`data/geometry/parks.geojson`) drawn round it in a pale ground tone. The core takes the map's colour.
+- **Shape Map** (page 1, The parks). Each park as a dot at its position, the dot's size set by its 2025 visits (radius 22 km for the fewest up to 70 km for the most) and its shade by visits per km² of core a day. The US states (US Census TIGERweb, public domain) are drawn round them, with Alaska and Hawaii moved in as insets south-west of the lower 48. It was an Azure Maps visual, which comes out blank in a PDF export.
 
 ## Save a .pbix too
 

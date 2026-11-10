@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
-  "name": "4e758b96201d32cddd01",
+  "name": "2e7b6437d06104422b4b",
   "position": {
     "x": 50,
     "y": 176,
@@ -66,7 +66,7 @@
   "annotations": [
     {
       "name": "plotlay.legendFor",
-      "value": "3099c2f67542097e0bcb"
+      "value": "82cbd3de08b53a3dbc94"
     }
   ]
 }

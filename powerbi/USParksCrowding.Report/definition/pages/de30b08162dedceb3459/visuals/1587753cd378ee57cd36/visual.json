@@ -10,7 +10,7 @@
     "tabOrder": 1
   },
   "visual": {
-    "visualType": "azureMap",
+    "visualType": "shapeMap",
     "query": {
       "queryState": {
         "Category": {
@@ -32,7 +32,7 @@
             }
           ]
         },
-        "Y": {
+        "Value": {
           "projections": [
             {
               "field": {
@@ -44,58 +44,15 @@
                           "Entity": "Parks"
                         }
                       },
-                      "Property": "lat"
+                      "Property": "per_day_core_2025"
                     }
                   },
                   "Function": 1
                 }
               },
-              "queryRef": "Avg(Parks.lat)",
-              "nativeQueryRef": "lat",
-              "displayName": "Latitude"
-            }
-          ]
-        },
-        "X": {
-          "projections": [
-            {
-              "field": {
-                "Aggregation": {
-                  "Expression": {
-                    "Column": {
-                      "Expression": {
-                        "SourceRef": {
-                          "Entity": "Parks"
-                        }
-                      },
-                      "Property": "lng"
-                    }
-                  },
-                  "Function": 1
-                }
-              },
-              "queryRef": "Avg(Parks.lng)",
-              "nativeQueryRef": "lng",
-              "displayName": "Longitude"
-            }
-          ]
-        },
-        "Size": {
-          "projections": [
-            {
-              "field": {
-                "Measure": {
-                  "Expression": {
-                    "SourceRef": {
-                      "Entity": "Parks"
-                    }
-                  },
-                  "Property": "Visits"
-                }
-              },
-              "queryRef": "Parks.Visits",
-              "nativeQueryRef": "Visits",
-              "displayName": "Visits"
+              "queryRef": "Avg(Parks.per_day_core_2025)",
+              "nativeQueryRef": "per_day_core_2025",
+              "displayName": "A day per km² of core"
             }
           ]
         },
@@ -120,6 +77,21 @@
               "queryRef": "Min(Parks.name)",
               "nativeQueryRef": "name",
               "displayName": "Park"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Parks"
+                    }
+                  },
+                  "Property": "Visits"
+                }
+              },
+              "queryRef": "Parks.Visits",
+              "nativeQueryRef": "Visits",
+              "displayName": "Visits"
             }
           ]
         }
@@ -140,7 +112,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Parks (bubble size: visits, 2025)'"
+                  "Value": "'Parks (dot size: visits, 2025)'"
                 }
               }
             },
@@ -160,51 +132,8 @@
             }
           }
         }
-      ]
-    },
-    "objects": {
-      "mapControls": [
-        {
-          "properties": {
-            "defaultStyle": {
-              "expr": {
-                "Literal": {
-                  "Value": "'grayscale_light'"
-                }
-              }
-            },
-            "showStylePicker": {
-              "expr": {
-                "Literal": {
-                  "Value": "true"
-                }
-              }
-            },
-            "showLabels": {
-              "expr": {
-                "Literal": {
-                  "Value": "true"
-                }
-              }
-            },
-            "showRoadDetails": {
-              "expr": {
-                "Literal": {
-                  "Value": "true"
-                }
-              }
-            },
-            "autoZoom": {
-              "expr": {
-                "Literal": {
-                  "Value": "true"
-                }
-              }
-            }
-          }
-        }
       ],
-      "bubbleLayer": [
+      "background": [
         {
           "properties": {
             "show": {
@@ -214,47 +143,154 @@
                 }
               }
             },
-            "bubbleRadius": {
-              "expr": {
-                "Literal": {
-                  "Value": "5L"
-                }
-              }
-            },
-            "minBubbleRadius": {
-              "expr": {
-                "Literal": {
-                  "Value": "3L"
-                }
-              }
-            },
-            "maxRadius": {
-              "expr": {
-                "Literal": {
-                  "Value": "14L"
-                }
-              }
-            },
-            "bubbleStrokeWidth": {
-              "expr": {
-                "Literal": {
-                  "Value": "1L"
-                }
-              }
-            },
-            "autoStrokeColor": {
-              "expr": {
-                "Literal": {
-                  "Value": "false"
-                }
-              }
-            },
-            "strokeColor": {
+            "color": {
               "solid": {
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#faf8f1'"
+                      "Value": "'#d6e6ef'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "objects": {
+      "shape": [
+        {
+          "properties": {
+            "datasourceType": {
+              "expr": {
+                "Literal": {
+                  "Value": "'file_upload'"
+                }
+              }
+            },
+            "mapUrl": {
+              "expr": {
+                "Literal": {
+                  "Value": "''"
+                }
+              }
+            },
+            "map": {
+              "geoJson": {
+                "type": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'packaged'"
+                    }
+                  }
+                },
+                "name": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'park_dots.topojson'"
+                    }
+                  }
+                },
+                "content": {
+                  "expr": {
+                    "ResourcePackageItem": {
+                      "PackageName": "RegisteredResources",
+                      "PackageType": 1,
+                      "ItemName": "park_dots.topojson"
+                    }
+                  }
+                }
+              }
+            },
+            "projectionEnum": {
+              "expr": {
+                "Literal": {
+                  "Value": "'mercator'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultColors": [
+        {
+          "properties": {
+            "defaultColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#ece6d6'"
+                    }
+                  }
+                }
+              }
+            },
+            "borderColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#c9bfa6'"
+                    }
+                  }
+                }
+              }
+            },
+            "defaultShow": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "dataPoint": [
+        {
+          "properties": {
+            "fillRule": {
+              "linearGradient2": {
+                "min": {
+                  "color": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "'#f8dcc6'"
+                      }
+                    }
+                  }
+                },
+                "max": {
+                  "color": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "'#6b1a10'"
+                      }
+                    }
+                  }
+                },
+                "nullColoringStrategy": {
+                  "strategy": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "'specificColor'"
+                      }
+                    }
+                  },
+                  "color": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "'#cfcac0'"
+                      }
                     }
                   }
                 }
@@ -264,5 +300,11 @@
         }
       ]
     }
-  }
+  },
+  "annotations": [
+    {
+      "name": "plotlay.legend",
+      "value": "[[\"#6b1a10\", \"darker: more crowded core\"], [\"#f8dcc6\", \"paler: less\"]]"
+    }
+  ]
 }

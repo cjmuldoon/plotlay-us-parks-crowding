@@ -32,7 +32,7 @@
               {
                 "textRuns": [
                   {
-                    "value": "Each park's core drawn by the rule: 250 m either side of paved park roads, 100 m along trails within 2 km of them, 200 m round visitor facilities. Darker: more visits per km² of core a day in 2025.",
+                    "value": "Three parks at their own scale, each core (in colour) inside its park boundary. The rule: 250 m either side of paved park roads, 100 m along trails within 2 km of them, 200 m round visitor facilities.",
                     "textStyle": {
                       "fontSize": "11pt",
                       "color": "#5b6573",
