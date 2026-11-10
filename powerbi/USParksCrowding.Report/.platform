@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "USParksCrowding"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c1dffdaa-22bd-4a43-8afc-b402ac25b495"
+  }
+}
