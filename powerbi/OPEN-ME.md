@@ -39,7 +39,7 @@ After **Refresh**:
 ## The maps
 
 - **Shape Maps** (page 3, The cores). Three parks at their own scale (Zion, Great Smoky Mountains, Yellowstone): each map file, saved inside the report, holds one park's core (from `data/geometry/cores.topojson`) with the park boundary (`data/geometry/parks.geojson`) drawn round it in a pale ground tone. The core takes the map's colour.
-- **Shape Map** (page 1, The parks). Each park as a dot at its position, the dot's size set by its 2025 visits (radius 22 km for the fewest up to 70 km for the most) and its shade by visits per km² of core a day. The US states (US Census TIGERweb, public domain) are drawn round them, with Alaska and Hawaii moved in as insets south-west of the lower 48. It was an Azure Maps visual, which comes out blank in a PDF export.
+- **Shape Map** (page 1, The parks). Each park as a dot at its position, the dot's size set by its 2025 visits (radius 22 km for the fewest up to 70 km for the most) and its shade by visits per km² of core a day in four bands (under 50, 50 to 100, 100 to 200, 200 or more), so Gateway Arch (about 8,000) does not leave every other park pale. The US states (US Census TIGERweb, public domain) are drawn round them, with Alaska and Hawaii moved in as insets south-west of the lower 48. It was an Azure Maps visual, which comes out blank in a PDF export.
 
 ## Save a .pbix too
 

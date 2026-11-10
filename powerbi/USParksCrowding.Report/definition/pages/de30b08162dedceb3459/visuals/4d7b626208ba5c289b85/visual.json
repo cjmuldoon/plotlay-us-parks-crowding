@@ -5,8 +5,8 @@
     "x": 50,
     "y": 176,
     "z": 2,
-    "height": 78,
-    "width": 287.84375,
+    "height": 132,
+    "width": 321.46875,
     "tabOrder": 2
   },
   "visual": {
@@ -22,12 +22,12 @@
                     "value": "■ ",
                     "textStyle": {
                       "fontSize": "14pt",
-                      "color": "#6b1a10",
+                      "color": "#f3d9c4",
                       "fontFamily": "Segoe UI"
                     }
                   },
                   {
-                    "value": "darker: more crowded core",
+                    "value": "under 50 a day per km² of core",
                     "textStyle": {
                       "fontSize": "11pt",
                       "color": "#1f2a37",
@@ -42,12 +42,52 @@
                     "value": "■ ",
                     "textStyle": {
                       "fontSize": "14pt",
-                      "color": "#f8dcc6",
+                      "color": "#e6b394",
                       "fontFamily": "Segoe UI"
                     }
                   },
                   {
-                    "value": "paler: less",
+                    "value": "50 to 100",
+                    "textStyle": {
+                      "fontSize": "11pt",
+                      "color": "#1f2a37",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "■ ",
+                    "textStyle": {
+                      "fontSize": "14pt",
+                      "color": "#b97358",
+                      "fontFamily": "Segoe UI"
+                    }
+                  },
+                  {
+                    "value": "100 to 200",
+                    "textStyle": {
+                      "fontSize": "11pt",
+                      "color": "#1f2a37",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "■ ",
+                    "textStyle": {
+                      "fontSize": "14pt",
+                      "color": "#6b1a10",
+                      "fontFamily": "Segoe UI"
+                    }
+                  },
+                  {
+                    "value": "200 or more",
                     "textStyle": {
                       "fontSize": "11pt",
                       "color": "#1f2a37",

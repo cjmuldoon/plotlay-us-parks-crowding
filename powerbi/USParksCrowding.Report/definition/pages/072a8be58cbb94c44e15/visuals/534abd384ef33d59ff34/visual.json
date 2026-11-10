@@ -6,7 +6,7 @@
     "y": 176,
     "z": 2,
     "height": 78,
-    "width": 168.390625,
+    "width": 189.328125,
     "tabOrder": 2
   },
   "visual": {
@@ -22,12 +22,12 @@
                     "value": "■ ",
                     "textStyle": {
                       "fontSize": "14pt",
-                      "color": "#6b1a10",
+                      "color": "#b85a38",
                       "fontFamily": "Segoe UI"
                     }
                   },
                   {
-                    "value": "darker: more",
+                    "value": "visitor core",
                     "textStyle": {
                       "fontSize": "11pt",
                       "color": "#1f2a37",
@@ -42,12 +42,12 @@
                     "value": "■ ",
                     "textStyle": {
                       "fontSize": "14pt",
-                      "color": "#f8dcc6",
+                      "color": "#ece5d6",
                       "fontFamily": "Segoe UI"
                     }
                   },
                   {
-                    "value": "paler: less",
+                    "value": "rest of the park",
                     "textStyle": {
                       "fontSize": "11pt",
                       "color": "#1f2a37",

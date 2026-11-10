@@ -25,6 +25,13 @@ table Parks
 		formatString: #,0.0
 		lineageTag: 2021c809-8dbf-863f-c23e-f252ab29d76e
 
+	/// For the opening map: visits per km² of core a day in four bands (1 under 50, 2 50 to 100, 3 100 to 200, 4 200 or more), so Gateway Arch (about 8,000) does not leave every other park pale
+	measure 'Core band' =
+			VAR v = AVERAGE ( Parks[per_day_core_2025] )
+			RETURN SWITCH ( TRUE (), ISBLANK ( v ), BLANK (), v >= 200, 4, v >= 100, 3, v >= 50, 2, 1 )
+		formatString: 0
+		lineageTag: 1c4b5e40-9558-bf76-5178-581a7700c3b7
+
 	column unit_code
 		dataType: string
 		lineageTag: 4c1fa7f3-fd7f-a448-e27f-7bf81b2f3e4d

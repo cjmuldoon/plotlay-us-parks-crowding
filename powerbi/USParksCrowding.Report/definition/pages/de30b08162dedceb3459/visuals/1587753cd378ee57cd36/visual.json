@@ -36,23 +36,18 @@
           "projections": [
             {
               "field": {
-                "Aggregation": {
+                "Measure": {
                   "Expression": {
-                    "Column": {
-                      "Expression": {
-                        "SourceRef": {
-                          "Entity": "Parks"
-                        }
-                      },
-                      "Property": "per_day_core_2025"
+                    "SourceRef": {
+                      "Entity": "Parks"
                     }
                   },
-                  "Function": 1
+                  "Property": "Core band"
                 }
               },
-              "queryRef": "Avg(Parks.per_day_core_2025)",
-              "nativeQueryRef": "per_day_core_2025",
-              "displayName": "A day per km² of core"
+              "queryRef": "Parks.Core band",
+              "nativeQueryRef": "Core band",
+              "displayName": "Core band"
             }
           ]
         },
@@ -92,6 +87,26 @@
               "queryRef": "Parks.Visits",
               "nativeQueryRef": "Visits",
               "displayName": "Visits"
+            },
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "Parks"
+                        }
+                      },
+                      "Property": "per_day_core_2025"
+                    }
+                  },
+                  "Function": 1
+                }
+              },
+              "queryRef": "Avg(Parks.per_day_core_2025)",
+              "nativeQueryRef": "per_day_core_2025",
+              "displayName": "A day per km² of core"
             }
           ]
         }
@@ -259,12 +274,35 @@
         {
           "properties": {
             "fillRule": {
-              "linearGradient2": {
+              "linearGradient3": {
                 "min": {
                   "color": {
                     "expr": {
                       "Literal": {
-                        "Value": "'#f8dcc6'"
+                        "Value": "'#f3d9c4'"
+                      }
+                    }
+                  },
+                  "value": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "1D"
+                      }
+                    }
+                  }
+                },
+                "mid": {
+                  "color": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "'#e0a07c'"
+                      }
+                    }
+                  },
+                  "value": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "2.5D"
                       }
                     }
                   }
@@ -274,6 +312,13 @@
                     "expr": {
                       "Literal": {
                         "Value": "'#6b1a10'"
+                      }
+                    }
+                  },
+                  "value": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "4D"
                       }
                     }
                   }
@@ -304,7 +349,7 @@
   "annotations": [
     {
       "name": "plotlay.legend",
-      "value": "[[\"#6b1a10\", \"darker: more crowded core\"], [\"#f8dcc6\", \"paler: less\"]]"
+      "value": "[[\"#f3d9c4\", \"under 50 a day per km² of core\"], [\"#e6b394\", \"50 to 100\"], [\"#b97358\", \"100 to 200\"], [\"#6b1a10\", \"200 or more\"]]"
     }
   ]
 }

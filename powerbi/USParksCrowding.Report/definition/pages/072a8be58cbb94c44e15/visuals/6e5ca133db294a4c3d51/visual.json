@@ -264,12 +264,35 @@
         {
           "properties": {
             "fillRule": {
-              "linearGradient2": {
+              "linearGradient3": {
                 "min": {
                   "color": {
                     "expr": {
                       "Literal": {
-                        "Value": "'#f8dcc6'"
+                        "Value": "'#b85a38'"
+                      }
+                    }
+                  },
+                  "value": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "1D"
+                      }
+                    }
+                  }
+                },
+                "mid": {
+                  "color": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "'#b85a38'"
+                      }
+                    }
+                  },
+                  "value": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "1.5D"
                       }
                     }
                   }
@@ -278,7 +301,14 @@
                   "color": {
                     "expr": {
                       "Literal": {
-                        "Value": "'#6b1a10'"
+                        "Value": "'#b85a38'"
+                      }
+                    }
+                  },
+                  "value": {
+                    "expr": {
+                      "Literal": {
+                        "Value": "2D"
                       }
                     }
                   }
@@ -309,7 +339,7 @@
   "annotations": [
     {
       "name": "plotlay.legend",
-      "value": "[[\"#6b1a10\", \"darker: more\"], [\"#f8dcc6\", \"paler: less\"]]"
+      "value": "[[\"#b85a38\", \"visitor core\"], [\"#ece5d6\", \"rest of the park\"]]"
     }
   ]
 }
