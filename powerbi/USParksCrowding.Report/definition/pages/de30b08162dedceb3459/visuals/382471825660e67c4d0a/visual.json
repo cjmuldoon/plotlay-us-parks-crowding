@@ -3,9 +3,9 @@
   "name": "382471825660e67c4d0a",
   "position": {
     "x": 1080,
-    "y": 110,
+    "y": 133,
     "z": 1,
-    "height": 150,
+    "height": 127,
     "width": 390,
     "tabOrder": 1
   },
@@ -23,12 +23,12 @@
                       "Entity": "Parks"
                     }
                   },
-                  "Property": "Parks"
+                  "Property": "Park count"
                 }
               },
-              "queryRef": "Parks.Parks",
-              "nativeQueryRef": "Parks",
-              "displayName": "Parks"
+              "queryRef": "Parks.Park count",
+              "nativeQueryRef": "Park count",
+              "displayName": "Park count"
             }
           ]
         }

@@ -1,9 +1,9 @@
 table Parks
 	lineageTag: 6e45d6d6-a4b7-a568-3e8a-7ee0a60d86a9
 
-	measure Parks = COUNTROWS ( Parks )
+	measure 'Park count' = COUNTROWS ( Parks )
 		formatString: #,0
-		lineageTag: 80b9baa7-e554-3e04-2a5d-e660a4310889
+		lineageTag: dee6f9ac-6ec3-8001-3a12-4227f9591627
 
 	/// Recreation visits in 2025
 	measure Visits = SUM ( Parks[visits_2025] )

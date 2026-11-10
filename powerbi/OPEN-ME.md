@@ -33,7 +33,7 @@ After **Refresh**:
 
 ## The model
 
-- **Parks**: one row per park (`data/tables/parks.csv`): unit code, name, state, area, visitor core area and share, 2025 visits, the busiest month, and visits per km² a day of the park and of the core in 2025. `roads_source` says where the core's roads came from (NPS, or Census TIGER for four parks). Measures: `Parks`, `Visits`, `Visits per km² of park a day`, `Visits per km² of core a day`, `Times denser`.
+- **Parks**: one row per park (`data/tables/parks.csv`): unit code, name, state, area, visitor core area and share, 2025 visits, the busiest month, and visits per km² a day of the park and of the core in 2025. `roads_source` says where the core's roads came from (NPS, or Census TIGER for four parks). Measures: `Park count`, `Visits`, `Visits per km² of park a day`, `Visits per km² of core a day`, `Times denser`.
 - **Months**: one row per park and month, January 2015 to December 2025 (`park_months.csv`), related to Parks by `unit_code`. `month` is the text month the slicer shows; `month_date` the same as a date, for the line chart. Measures: `Monthly visits`, `Core visits a day per km²` (the month's visits over the core area and the days, added up first). The monthly lines show 2019 to 2025 (over about 90 months Desktop scrolls the axis).
 
 ## The maps
